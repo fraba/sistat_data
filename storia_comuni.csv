@@ -710,6 +710,7 @@
 "709","9664",NA,1926-02-06,"010802","Bavari",NA,NA,NA,NA,NA,NA,NA,"E"
 "710","497",NA,NA,"103008","Baveno",NA,NA,"A",NA,NA,NA,NA,NA
 "711","4393",NA,2014-01-01,"037004","Bazzano",NA,NA,NA,NA,NA,NA,NA,"E"
+"712","9753",NA,1928-05-04,"001807","Beaulard",NA,NA,NA,NA,NA,NA,NA,"E"
 "713","1528",NA,NA,"012010","Bedero Valcuvia",NA,NA,"A",NA,NA,NA,NA,NA
 "714","2491",NA,NA,"017014","Bedizzole",NA,NA,NA,NA,NA,NA,NA,NA
 "715","3184",1920-10-16,NA,"022011","Bedollo","N",NA,"A",NA,NA,NA,NA,NA
@@ -813,6 +814,7 @@
 "813","9719",NA,1928-02-21,"008802","Bestagno",NA,NA,NA,NA,NA,NA,NA,"E"
 "814","10205",NA,1870-08-02,"015810","Bestazzo",NA,NA,NA,NA,NA,NA,NA,"E"
 "815","10758",NA,1868-01-01,"019807","Bettenesco",NA,NA,NA,NA,NA,NA,NA,"E"
+"816","4205",NA,NA,"033004","Bettola",NA,NA,NA,"D","+","-",NA,NA
 "817","5073",NA,NA,"054003","Bettona",NA,NA,NA,NA,NA,NA,NA,NA
 "818","9788",NA,1928-10-16,"003814","Beura",NA,NA,NA,NA,NA,NA,NA,"E"
 "819","501",1928-10-16,NA,"103011","Beura-Cardezza",NA,"C","A",NA,"+",NA,NA,NA
@@ -847,8 +849,10 @@
 "848","4931",NA,NA,"050001","Bientina",NA,NA,NA,NA,"+",NA,NA,NA
 "849","9691",NA,1928-07-28,"009803","Biestro",NA,NA,"A",NA,NA,NA,NA,"E"
 "850","2991",1866-11-19,NA,"020004","Bigarello","N",NA,NA,NA,NA,"-",NA,NA
+"851","11230",1921-01-05,1928-04-15,"031816","Biglia","N",NA,"A",NA,NA,NA,NA,"E"
 "852","11400",1921-01-05,1928-05-12,"031817","Bigliana","N",NA,"A",NA,NA,NA,NA,"E"
 "853","10093",NA,1927-10-09,"013818","Biglio",NA,NA,NA,NA,NA,NA,NA,"E"
+"854","1681",NA,NA,"013023","Binago",NA,NA,NA,NA,NA,NA,NA,NA
 "855","10759",NA,1928-04-07,"019808","Binanuova",NA,NA,NA,NA,NA,NA,NA,"E"
 "856","2006",NA,NA,"015024","Binasco",NA,NA,NA,NA,"+","-",NA,NA
 "857","10131",NA,1927-08-06,"013819","Bindo",NA,NA,NA,NA,NA,NA,NA,"E"
@@ -4291,6 +4295,7 @@
 "4293","6209",NA,NA,"067026","Isola del Gran Sasso d'Italia",NA,NA,NA,"D",NA,NA,NA,NA
 "4294","5484",NA,NA,"060043","Isola del Liri",NA,NA,"A","D",NA,NA,NA,NA
 "4295","4562",NA,NA,"041021","Isola del Piano",NA,NA,NA,NA,NA,NA,NA,NA
+"4296","3440",1866-11-19,NA,"023040","Isola della Scala","N",NA,NA,NA,"+","-",NA,NA
 "4297","7369",NA,NA,"082043","Isola delle Femmine",NA,NA,NA,NA,NA,NA,NA,NA
 "4298","7112",NA,NA,"101013","Isola di Capo Rizzuto",NA,NA,"A","D",NA,NA,NA,NA
 "4299","9579",NA,1869-04-26,"041806","Isola di Fano",NA,NA,NA,NA,NA,NA,NA,"E"
@@ -4530,6 +4535,7 @@
 "4534","1785",NA,NA,"097043","Lierna",NA,NA,"A",NA,NA,NA,NA,NA
 "4535","11483",1928-06-14,1956-11-10,"013891","Lieto Colle",NA,"C",NA,NA,"+",NA,NA,"E"
 "4536","385",NA,NA,"002070","Lignana",NA,NA,"A",NA,NA,NA,NA,NA
+"4537","4056",1959-08-18,NA,"030049","Lignano Sabbiadoro",NA,"C",NA,NA,"+",NA,"R",NA
 "4538","4322",NA,2016-01-01,"035025","Ligonchio",NA,NA,NA,NA,NA,NA,NA,"E"
 "4539","4057",1866-11-19,NA,"030050","Ligosullo","N",NA,NA,NA,NA,NA,"R",NA
 "4540","1251",NA,NA,"007042","Lillianes",NA,NA,"A","D","+","-",NA,NA
@@ -4567,8 +4573,8 @@
 "4572","5749",NA,NA,"063040","Liveri",NA,NA,"A",NA,NA,NA,NA,NA
 "4573","1941",NA,NA,"014037","Livigno",NA,NA,NA,NA,NA,NA,NA,NA
 "4574","3650",1920-10-16,NA,"025030","Livinallongo del Col di Lana","N",NA,"A","D",NA,NA,NA,NA
-"4576","3279",1920-10-16,NA,"022106","Livo","N",NA,"A",NA,"+","-",NA,NA
 "4575","1788",NA,NA,"013130","Livo",NA,"C",NA,NA,"+",NA,NA,"E"
+"4576","3279",1920-10-16,NA,"022106","Livo","N",NA,"A",NA,"+","-",NA,NA
 "4577","4919",NA,NA,"049009","Livorno",NA,NA,NA,NA,"+",NA,NA,NA
 "4578","386",NA,NA,"002071","Livorno Ferraris",NA,NA,"A","D",NA,NA,NA,NA
 "4579","2106",NA,NA,"098030","Livraga",NA,NA,"A",NA,"+",NA,NA,NA
@@ -6624,6 +6630,7 @@
 "6629","4087",1866-11-19,NA,"093030","Pinzano al Tagliamento","N",NA,"A","D",NA,NA,NA,NA
 "6630","3316",1920-10-16,NA,"022143","Pinzolo","N",NA,"A",NA,"+","-",NA,NA
 "6631","4590",NA,NA,"041049","Piobbico",NA,NA,NA,NA,NA,NA,NA,NA
+"6632","817",NA,NA,"004168","Piobesi d'Alba",NA,"C",NA,"D","+",NA,NA,"E"
 "6633","193",NA,NA,"001193","Piobesi Torinese",NA,NA,NA,"D",NA,NA,NA,NA
 "6634","412",NA,NA,"002097","Piode",NA,NA,"A",NA,NA,NA,NA,NA
 "6635","2157",NA,NA,"015175","Pioltello",NA,NA,NA,NA,"+",NA,NA,NA
@@ -6640,6 +6647,7 @@
 "6646","818",NA,NA,"004169","Piozzo",NA,NA,NA,NA,"+","-",NA,NA
 "6647","7475",NA,NA,"083068","Piraino",NA,NA,NA,NA,NA,NA,NA,NA
 "6648","11367",1921-01-05,1947-09-16,"702729","Pirano","N",NA,"A",NA,NA,NA,NA,"E"
+"6649","10096",NA,1928-05-11,"092805","Pirri",NA,NA,NA,NA,NA,NA,NA,"E"
 "6650","4956",NA,NA,"050026","Pisa",NA,NA,NA,NA,"+","-",NA,NA
 "6651","603",NA,NA,"003119","Pisano",NA,NA,NA,NA,"+","-",NA,NA
 "6652","195",NA,NA,"001195","Piscina",NA,NA,NA,NA,"+",NA,NA,NA
@@ -7397,6 +7405,7 @@
 "7404","5774",NA,NA,"063065","Roccarainola",NA,NA,"A",NA,"+","-",NA,NA
 "7405","6159",NA,NA,"066084","Roccaraso",NA,NA,NA,NA,NA,NA,NA,NA
 "7406","9559",NA,1867-01-31,"044817","Roccareonile",NA,NA,NA,NA,NA,NA,NA,"E"
+"7407","5603",NA,NA,"061071","Roccaromana",NA,NA,"A",NA,NA,NA,NA,NA
 "7408","6350",NA,NA,"069075","Roccascalegna",NA,NA,NA,NA,NA,NA,NA,NA
 "7409","5501",NA,NA,"060060","Roccasecca",NA,NA,"A",NA,NA,NA,NA,NA
 "7410","5431",1871-01-15,NA,"059023","Roccasecca dei Volsci","N",NA,NA,"D","+",NA,NA,"E"
@@ -8024,6 +8033,118 @@
 "8032","10253",NA,1870-08-02,"015944","San Novo",NA,NA,NA,NA,NA,NA,NA,"E"
 "8033","10129",NA,1869-03-11,"012885","San Pancrazio al Colle",NA,NA,NA,"D",NA,NA,NA,"E"
 "8034","9733",NA,1943-05-29,"034809","San Pancrazio Parmense",NA,NA,NA,"D","+","-",NA,"E"
+"8035","6666",NA,NA,"074015","San Pancrazio Salentino",NA,NA,"A","D",NA,NA,NA,NA
+"8036","3141",1960-04-27,NA,"021084","San Pancrazio/St. Pankraz",NA,"C",NA,NA,"+",NA,NA,NA
+"8037","10043",NA,1905-07-10,"092806","San Pantaleo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8038","2615",NA,NA,"017138","San Paolo",NA,NA,NA,"D","+",NA,NA,NA
+"8039","6785",NA,NA,"076020","San Paolo Albanese",NA,NA,NA,"D",NA,NA,NA,NA
+"8040","5778",NA,NA,"063069","San Paolo Bel Sito",NA,NA,"A","D",NA,NA,NA,NA
+"8041","447",NA,2016-01-01,"096060","San Paolo Cervo",NA,NA,"A","D",NA,NA,NA,"E"
+"8042","2418",NA,NA,"016189","San Paolo d'Argon",NA,"C",NA,"D","+",NA,NA,"E"
+"8043","9891",NA,1928-02-21,"005815","San Paolo della Valle",NA,NA,NA,"D",NA,NA,NA,"E"
+"8044","6563",NA,NA,"071050","San Paolo di Civitate",NA,NA,NA,"D",NA,NA,NA,NA
+"8045","4650",NA,NA,"042042","San Paolo di Jesi",NA,"C",NA,"D","+",NA,NA,"E"
+"8046","10550",NA,1868-01-01,"019904","San Paolo Ripa d'Oglio",NA,NA,NA,NA,NA,NA,NA,"E"
+"8047","1000",1928-02-21,NA,"005101","San Paolo Solbrito",NA,"C","A",NA,"+",NA,NA,NA
+"8048","10254",NA,1869-07-06,"015945","San Pedrino",NA,NA,NA,NA,NA,NA,NA,"E"
+"8049","11286",1921-01-05,1928-09-09,"032804","San Pelagio","N",NA,"A",NA,NA,NA,NA,"E"
+"8050","2419",NA,NA,"016190","San Pellegrino Terme",NA,NA,NA,"D","+",NA,NA,NA
+"8051","10800",NA,1872-11-01,"018861","San Perone",NA,NA,NA,NA,NA,NA,NA,"E"
+"8052","9686",NA,1926-02-06,"010823","San Pier d'Arena",NA,NA,NA,NA,NA,NA,NA,"E"
+"8053","4191",1921-01-05,NA,"031021","San Pier d'Isonzo","N",NA,"A","D",NA,NA,NA,NA
+"8054","9469",NA,1928-05-04,"080818","San Pier Fedele",NA,NA,NA,"D",NA,NA,NA,"E"
+"8055","7487",NA,NA,"083080","San Pier Niceto",NA,NA,NA,"D",NA,NA,NA,NA
+"8056","4900",NA,2014-01-01,"048040","San Piero a Sieve",NA,NA,NA,NA,NA,NA,NA,"E"
+"8057","7488",NA,NA,"083081","San Piero Patti",NA,NA,NA,"D",NA,NA,NA,NA
+"8058","7162",NA,NA,"079114","San Pietro a Maida",NA,NA,NA,NA,NA,"-",NA,NA
+"8059","9483",NA,1925-11-30,"063808","San Pietro a Patierno",NA,NA,NA,NA,NA,NA,NA,"E"
+"8060","4125",1866-11-19,NA,"030103","San Pietro al Natisone","N",NA,NA,"D",NA,NA,"R",NA
+"8061","6043",NA,NA,"065125","San Pietro al Tanagro",NA,NA,NA,"D",NA,NA,NA,NA
+"8062","7163",NA,NA,"079115","San Pietro Apostolo",NA,NA,NA,"D",NA,NA,NA,NA
+"8063","6490",NA,NA,"094043","San Pietro Avellana",NA,NA,"A",NA,NA,NA,NA,NA
+"8064","10255",NA,1870-08-02,"015946","San Pietro Bestazzo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8065","7641",NA,NA,"087044","San Pietro Clarenza",NA,NA,NA,NA,NA,NA,NA,NA
+"8066","10256",NA,1870-08-02,"015947","San Pietro Cusico",NA,NA,NA,NA,NA,NA,NA,"E"
+"8075","10543",NA,1928-04-17,"016864","San Pietro d'Orzio",NA,NA,NA,NA,NA,NA,NA,"E"
+"8067","11268",1921-01-05,1947-09-16,"032711","San Pietro del Carso","N",NA,"A",NA,NA,NA,NA,"E"
+"8068","10916",1866-11-19,1929-02-21,"026805","San Pietro di Barbozza","N",NA,NA,NA,NA,NA,NA,"E"
+"8069","3667",1866-11-19,NA,"025047","San Pietro di Cadore","N",NA,NA,"D",NA,NA,NA,NA
+"8070","7282",1928-05-04,NA,"080075","San Pietro di Caridà",NA,"C",NA,NA,"+",NA,NA,NA
+"8071","3762",1866-11-19,NA,"026073","San Pietro di Feletto","N",NA,NA,NA,NA,NA,NA,NA
+"8072","11351",1921-01-05,1927-01-12,"031808","San Pietro di Gorizia","N",NA,"A","D",NA,NA,NA,"E"
+"8073","9831",NA,1929-04-20,"004817","San Pietro di Monterosso",NA,NA,NA,NA,NA,NA,NA,"E"
+"8074","3475",1866-11-19,NA,"023075","San Pietro di Morubio","N",NA,NA,NA,NA,NA,NA,NA
+"8076","7019",NA,NA,"078126","San Pietro in Amantea",NA,"C",NA,NA,"+",NA,NA,"E"
+"8077","3476",1866-11-19,NA,"023076","San Pietro in Cariano","N",NA,NA,NA,"+",NA,NA,NA
+"8078","4444",NA,NA,"037055","San Pietro in Casale",NA,NA,NA,NA,"+",NA,NA,NA
+"8079","4242",NA,NA,"033041","San Pietro in Cerro",NA,NA,NA,"D",NA,NA,NA,NA
+"8080","10028",NA,1868-01-01,"060802","San Pietro in Curolis",NA,NA,NA,NA,NA,NA,NA,"E"
+"8081","3905",1866-11-19,NA,"028078","San Pietro in Gu","N",NA,NA,"D",NA,NA,NA,NA
+"8082","7020",NA,NA,"078127","San Pietro in Guarano",NA,NA,NA,NA,NA,NA,NA,NA
+"8083","6742",NA,NA,"075071","San Pietro in Lama",NA,NA,NA,NA,NA,NA,NA,NA
+"8084","5611",NA,NA,"061079","San Pietro Infine",NA,NA,"A",NA,NA,NA,NA,NA
+"8085","9492",NA,1928-01-28,"064806","San Pietro Irpino",NA,NA,NA,"D",NA,NA,NA,"E"
+"8086","619",NA,NA,"003135","San Pietro Mosezzo",NA,NA,NA,NA,"+","-",NA,NA
+"8087","3592",1866-11-19,NA,"024094","San Pietro Mussolino","N",NA,NA,NA,NA,NA,NA,NA
+"8088","250",NA,NA,"001250","San Pietro Val Lemina",NA,NA,NA,"D",NA,NA,NA,NA
+"8089","6667",NA,NA,"074016","San Pietro Vernotico",NA,NA,"A",NA,NA,NA,NA,NA
+"8090","3906",1866-11-19,NA,"028079","San Pietro Viminario","N",NA,NA,NA,NA,NA,NA,NA
+"8091","11028",1920-10-16,1929-02-21,"021888","San Pietro/St. Peter in Ahrn","N",NA,"A","D",NA,NA,NA,"E"
+"8092","6163",NA,NA,"066088","San Pio delle Camere",NA,NA,NA,NA,NA,NA,NA,NA
+"8094","4335",NA,NA,"035038","San Polo d'Enza",NA,NA,NA,"D",NA,NA,NA,NA
+"8093","5390",1871-01-15,NA,"058096","San Polo dei Cavalieri","N",NA,NA,NA,NA,"-",NA,NA
+"8095","3763",1866-11-19,NA,"026074","San Polo di Piave","N",NA,NA,"D",NA,NA,NA,NA
+"8096","6491",NA,NA,"070071","San Polo Matese",NA,NA,NA,"D",NA,NA,"R",NA
+"8097","251",NA,NA,"001251","San Ponso",NA,"C","A","D","+",NA,NA,"E"
+"8098","10801",NA,1928-08-07,"018862","San Ponzo Semola",NA,NA,NA,"D",NA,NA,NA,"E"
+"8099","4380",NA,NA,"036038","San Possidonio",NA,NA,NA,NA,NA,NA,NA,NA
+"8100","5612",NA,NA,"061080","San Potito Sannitico",NA,NA,"A","D",NA,NA,NA,NA
+"8101","5884",NA,NA,"064086","San Potito Ultra",NA,NA,NA,"D",NA,NA,NA,NA
+"8102","5613",NA,NA,"061081","San Prisco",NA,"C","A",NA,"+",NA,NA,"E"
+"8103","7283",NA,NA,"080076","San Procopio",NA,NA,NA,NA,NA,NA,NA,NA
+"8104","4381",NA,NA,"036039","San Prospero",NA,NA,NA,NA,"+",NA,NA,NA
+"8105","5038",NA,NA,"052030","San Quirico d'Orcia",NA,NA,NA,"D",NA,NA,NA,NA
+"8106","9687",NA,1926-02-06,"010824","San Quirico in Val Polcevera",NA,NA,NA,"D",NA,NA,NA,"E"
+"8107","4126",1866-11-19,NA,"093040","San Quirino","N",NA,"A",NA,NA,NA,NA,NA
+"8108","252",NA,NA,"001252","San Raffaele Cimena",NA,"C",NA,NA,"+",NA,NA,"E"
+"8109","7284",NA,NA,"080077","San Roberto",NA,NA,NA,NA,NA,NA,NA,NA
+"8110","2179",NA,NA,"098049","San Rocco al Porto",NA,NA,"A",NA,"+",NA,NA,NA
+"8111","4831",NA,NA,"046027","San Romano in Garfagnana",NA,NA,"A",NA,NA,NA,NA,NA
+"8112","6044",NA,NA,"065126","San Rufo",NA,NA,NA,NA,NA,NA,NA,NA
+"8113","10551",NA,1868-07-06,"019905","San Salvatore",NA,NA,NA,NA,NA,NA,NA,"E"
+"8114","7489",NA,NA,"083082","San Salvatore di Fitalia",NA,NA,NA,"D",NA,NA,NA,NA
+"8115","1173",NA,NA,"006154","San Salvatore Monferrato",NA,NA,NA,"D",NA,"-",NA,NA
+"8116","5700",NA,NA,"062068","San Salvatore Telesino",NA,NA,NA,"D",NA,"-",NA,NA
+"8117","6358",NA,NA,"069083","San Salvo",NA,NA,NA,NA,NA,NA,NA,NA
+"8118","5779",NA,NA,"063070","San Sebastiano al Vesuvio",NA,NA,NA,"D","+","-",NA,NA
+"8119","1174",NA,NA,"006155","San Sebastiano Curone",NA,NA,NA,"D","+","-",NA,NA
+"8120","253",NA,NA,"001253","San Sebastiano da Po",NA,NA,NA,"D",NA,NA,NA,NA
+"8121","254",NA,NA,"001254","San Secondo di Pinerolo",NA,NA,NA,"D","+","-",NA,NA
+"8122","4282",NA,NA,"034033","San Secondo Parmense",NA,NA,NA,"D",NA,NA,NA,NA
+"8123","6843",NA,NA,"076078","San Severino Lucano",NA,NA,NA,"D",NA,NA,NA,NA
+"8124","4704",NA,NA,"043047","San Severino Marche",NA,NA,NA,"D",NA,NA,NA,NA
+"8125","6564",NA,NA,"071051","San Severo",NA,NA,NA,NA,NA,NA,NA,NA
+"8126","11087",1920-10-16,1929-03-24,"021889","San Sigismondo/St. Sigmund","N",NA,"A",NA,NA,NA,NA,"E"
+"8127","10552",NA,1868-03-05,"019906","San Sillo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8128","9607",NA,1879-05-12,"069802","San Silvestro",NA,NA,NA,NA,NA,"-",NA,"E"
+"8129","9419",2003-01-01,NA,"013248","San Siro",NA,"C",NA,NA,"+",NA,NA,NA
+"8130","11541",NA,1928-08-12,"013934","San Siro",NA,NA,NA,NA,NA,NA,NA,"E"
+"8131","5885",NA,NA,"064087","San Sossio Baronia",NA,NA,NA,"D",NA,NA,NA,NA
+"8132","7164",NA,NA,"079116","San Sostene",NA,NA,NA,NA,NA,NA,NA,NA
+"8133","7021",NA,NA,"078128","San Sosti",NA,NA,NA,NA,NA,NA,NA,NA
+"8134","7967",NA,NA,"092059","San Sperate",NA,NA,NA,NA,NA,NA,"R",NA
+"8135","3820",1866-11-19,NA,"027036","San Stino di Livenza","N",NA,NA,NA,"+",NA,NA,NA
+"8136","5617",NA,NA,"061085","San Tammaro",NA,"C","A",NA,"+",NA,NA,"E"
+"8137","7838",1959-05-03,NA,"104023","San Teodoro",NA,"C","A",NA,"+","-",NA,NA
+"8138","7497",NA,NA,"083090","San Teodoro",NA,"C",NA,NA,"+",NA,NA,"E"
+"8139","3669",1866-11-19,NA,"025049","San Tomaso Agordino","N",NA,NA,"D",NA,NA,NA,NA
+"8140","11040",1920-10-16,1929-02-14,"021890","San Valentino al Brennero/Brenner","N",NA,"A",NA,NA,NA,NA,"E"
+"8141","10973",1920-10-16,1928-06-15,"021879","San Valentino alla Mutta/St. Valentin auf der Haide","N",NA,"A","D",NA,NA,NA,"E"
+"8142","6267",NA,NA,"068038","San Valentino in Abruzzo Citeriore",NA,NA,"A","D","+","-",NA,NA
+"8143","6050",NA,NA,"065132","San Valentino Torio",NA,NA,NA,"D",NA,NA,NA,NA
+"8144","10802",NA,1871-06-01,"018863","San Varese",NA,NA,NA,NA,NA,NA,NA,"E"
+"8145","5159",NA,NA,"055030","San Venanzo",NA,NA,"A",NA,"+",NA,NA,NA
+"8146","3765",1866-11-19,NA,"026076","San Vendemiano","N",NA,NA,NA,NA,NA,NA,NA
 "8147","10197",NA,1928-03-13,"095808","San Vero Congius",NA,NA,NA,NA,NA,NA,NA,"E"
 "8148","7974",NA,NA,"095050","San Vero Milis",NA,NA,"A",NA,"+","-",NA,NA
 "8149","10746",NA,1928-02-05,"017893","San Vigilio",NA,NA,NA,NA,NA,NA,NA,"E"
@@ -8071,6 +8192,107 @@
 "8191","6741",1908-04-30,NA,"075070","Sannicola",NA,"C",NA,NA,"+","-",NA,NA
 "8192","1338",NA,NA,"008055","Sanremo",NA,NA,NA,NA,"+","-",NA,NA
 "8193","5003",NA,NA,"051034","Sansepolcro",NA,NA,NA,NA,NA,NA,NA,NA
+"8270","1866",NA,2003-01-01,"013208","Sant'Abbondio",NA,"C",NA,NA,"+",NA,NA,"E"
+"8272","6493",NA,NA,"094044","Sant'Agapito",NA,"C","A",NA,"+",NA,NA,"E"
+"8273","4445",NA,NA,"037056","Sant'Agata Bolognese",NA,NA,NA,"D",NA,NA,NA,NA
+"8274","5702",NA,NA,"062070","Sant'Agata de' Goti",NA,NA,NA,NA,NA,NA,NA,NA
+"8275","7286",NA,NA,"080079","Sant'Agata del Bianco",NA,"C",NA,NA,"+",NA,NA,"E"
+"8276","7024",NA,NA,"078131","Sant'Agata di Esaro",NA,NA,NA,"D",NA,NA,NA,NA
+"8277","7491",NA,NA,"083084","Sant'Agata di Militello",NA,NA,NA,NA,"+","-",NA,NA
+"8278","6565",NA,NA,"071052","Sant'Agata di Puglia",NA,NA,NA,"D",NA,NA,NA,NA
+"8279","4596",NA,NA,"099026","Sant'Agata Feltria",NA,NA,"A",NA,NA,"-",NA,NA
+"8280","1175",NA,NA,"006156","Sant'Agata Fossili",NA,NA,NA,"D",NA,NA,NA,NA
+"8281","9493",NA,1927-10-19,"064807","Sant'Agata Irpina",NA,NA,NA,"D",NA,NA,NA,"E"
+"8282","7642",NA,NA,"087045","Sant'Agata li Battiati",NA,NA,NA,NA,NA,NA,NA,NA
+"8283","10258",NA,1870-08-02,"015949","Sant'Agata Martesana",NA,NA,NA,"D",NA,NA,NA,"E"
+"8284","9931",NA,1928-02-09,"003884","Sant'Agata sopra Cannobio",NA,NA,NA,"D",NA,NA,NA,"E"
+"8285","4489",NA,NA,"039017","Sant'Agata sul Santerno",NA,NA,NA,"D",NA,NA,NA,NA
+"8286","5780",1865-10-25,NA,"063071","Sant'Agnello",NA,"C",NA,NA,"+",NA,NA,"E"
+"8287","4470",NA,NA,"038021","Sant'Agostino",NA,NA,NA,NA,"+","-",NA,NA
+"8288","10804",NA,1929-06-15,"018865","Sant'Albano di Bobbio",NA,NA,NA,"D",NA,NA,NA,"E"
+"8289","860",NA,NA,"004211","Sant'Albano Stura",NA,NA,NA,"D",NA,NA,NA,NA
+"8290","10747",NA,1880-06-25,"017894","Sant'Alessandro",NA,NA,NA,NA,NA,"-",NA,"E"
+"8291","2823",NA,NA,"018141","Sant'Alessio con Vialone",NA,"C",NA,"D","+",NA,NA,"E"
+"8292","7287",NA,NA,"080080","Sant'Alessio in Aspromonte",NA,NA,NA,"D",NA,NA,NA,NA
+"8293","7492",1948-06-26,NA,"083085","Sant'Alessio Siculo",NA,"C",NA,NA,"+",NA,NA,NA
+"8294","7643",1924-01-04,NA,"087046","Sant'Alfio",NA,"C",NA,NA,"+","-",NA,NA
+"8295","255",NA,NA,"001255","Sant'Ambrogio di Torino",NA,NA,NA,"D",NA,NA,NA,NA
+"8296","3477",1866-11-19,NA,"023077","Sant'Ambrogio di Valpolicella","N",NA,NA,"D",NA,NA,NA,NA
+"8297","10130",NA,1927-12-29,"012886","Sant'Ambrogio Olona",NA,NA,"A","D",NA,NA,NA,"E"
+"8298","5506",NA,NA,"060065","Sant'Ambrogio sul Garigliano",NA,NA,"A","D",NA,NA,NA,NA
+"8299","5781",NA,NA,"063072","Sant'Anastasia",NA,NA,NA,NA,NA,NA,NA,NA
+"8300","5115",NA,NA,"054045","Sant'Anatolia di Narco",NA,"C",NA,"D","+","-",NA,"E"
+"8301","7166",NA,NA,"079118","Sant'Andrea Apostolo dello Ionio",NA,NA,NA,"D",NA,NA,NA,NA
+"8302","5507",1907-06-21,NA,"060066","Sant'Andrea del Garigliano",NA,"C","A","D","+",NA,NA,NA
+"8303","10917",1866-11-19,1871-09-10,"026806","Sant'Andrea di Cavasagra","N",NA,NA,"D",NA,NA,NA,"E"
+"8304","5887",NA,NA,"064089","Sant'Andrea di Conza",NA,NA,NA,"D",NA,NA,NA,NA
+"8305","11350",1921-01-05,1927-01-12,"031809","Sant'Andrea di Gorizia","N",NA,"A","D",NA,NA,NA,"E"
+"8306","9598",NA,1869-04-26,"041819","Sant'Andrea di Suasa",NA,NA,NA,"D",NA,NA,NA,"E"
+"8307","10010",NA,1907-06-21,"060803","Sant'Andrea di Vallefredda",NA,NA,NA,"D",NA,NA,NA,"E"
+"8308","7970",NA,NA,"092061","Sant'Andrea Frius",NA,NA,NA,NA,NA,NA,"R",NA
+"8309","11005",1920-10-16,1941-01-07,"021891","Sant'Andrea in Monte/St. Andrä","N",NA,"A",NA,"+",NA,NA,"E"
+"8310","5703",NA,NA,"062071","Sant'Angelo a Cupolo",NA,NA,NA,NA,"+",NA,NA,NA
+"8311","6046",NA,NA,"065128","Sant'Angelo a Fasanella",NA,NA,NA,NA,NA,NA,NA,NA
+"8312","5889",NA,NA,"064091","Sant'Angelo a Scala",NA,NA,NA,NA,NA,NA,NA,NA
+"8313","5888",NA,NA,"064090","Sant'Angelo all'Esca",NA,NA,NA,NA,NA,NA,NA,NA
+"8314","5618",NA,NA,"061086","Sant'Angelo d'Alife",NA,NA,"A","D",NA,NA,NA,NA
+"8315","5890",NA,NA,"064092","Sant'Angelo dei Lombardi",NA,NA,NA,NA,NA,NA,NA,NA
+"8316","6495",NA,NA,"094046","Sant'Angelo del Pesco",NA,NA,"A",NA,NA,NA,NA,NA
+"8317","7495",NA,NA,"083088","Sant'Angelo di Brolo",NA,NA,NA,NA,NA,NA,NA,NA
+"8318","3909",1866-11-19,NA,"028082","Sant'Angelo di Piove di Sacco","N",NA,NA,"D",NA,NA,NA,NA
+"8319","4597",NA,2014-01-01,"041056","Sant'Angelo in Lizzola",NA,NA,NA,NA,NA,NA,NA,"E"
+"8320","4705",NA,NA,"043048","Sant'Angelo in Pontano",NA,NA,NA,NA,NA,NA,NA,NA
+"8321","4598",NA,NA,"041057","Sant'Angelo in Vado",NA,NA,NA,NA,"+",NA,NA,NA
+"8322","6844",NA,NA,"076079","Sant'Angelo Le Fratte",NA,NA,NA,NA,NA,NA,NA,NA
+"8323","6496",NA,NA,"070073","Sant'Angelo Limosano",NA,"C",NA,NA,"+",NA,"R","E"
+"8324","2180",NA,NA,"098050","Sant'Angelo Lodigiano",NA,NA,"A","D","+",NA,NA,NA
+"8325","2826",NA,NA,"018144","Sant'Angelo Lomellina",NA,NA,NA,"D",NA,NA,NA,NA
+"8326","7551",NA,NA,"084039","Sant'Angelo Muxaro",NA,NA,NA,NA,NA,NA,NA,NA
+"8327","5392",1871-01-15,NA,"058098","Sant'Angelo Romano","N",NA,NA,"D","+","-",NA,NA
+"8328","8160",1965-01-02,NA,"107019","Sant'Anna Arresi",NA,"C","A",NA,"+",NA,"R",NA
+"8329","3478",1929-01-24,NA,"023078","Sant'Anna d'Alfaedo",NA,"C",NA,NA,"+",NA,NA,NA
+"8330","5782",NA,NA,"063073","Sant'Antimo",NA,NA,NA,NA,NA,NA,NA,NA
+"8331","7971",NA,NA,"107020","Sant'Antioco",NA,NA,"A",NA,NA,NA,"R",NA
+"8332","256",NA,NA,"001256","Sant'Antonino di Susa",NA,NA,NA,"D",NA,NA,NA,NA
+"8333","10035",NA,1869-03-22,"012887","Sant'Antonino Ticino",NA,NA,NA,"D",NA,NA,NA,"E"
+"8334","9717",NA,1923-07-23,"033804","Sant'Antonio a Trebbia",NA,NA,NA,"D",NA,NA,NA,"E"
+"8335","5783",1925-07-10,NA,"063074","Sant'Antonio Abate",NA,"C",NA,NA,"+","-",NA,NA
+"8336","10544",NA,1927-09-08,"016865","Sant'Antonio d'Adda",NA,NA,NA,"D",NA,NA,NA,"E"
+"8337","8203",1979-04-20,NA,"104021","Sant'Antonio di Gallura",NA,"C","A",NA,"+",NA,NA,NA
+"8338","5508",NA,NA,"060067","Sant'Apollinare",NA,NA,"A",NA,NA,NA,NA,NA
+"8339","10933",1866-11-19,1927-09-04,"029813","Sant'Apollinare con Selva","N",NA,NA,"D",NA,NA,NA,"E"
+"8340","6845",NA,NA,"076080","Sant'Arcangelo",NA,NA,NA,NA,NA,NA,NA,NA
+"8342","5892",NA,NA,"062078","Sant'Arcangelo Trimonte",NA,NA,"A","D",NA,NA,NA,NA
+"8343","5619",NA,NA,"061087","Sant'Arpino",NA,"C",NA,NA,"+",NA,NA,"E"
+"8344","6047",NA,NA,"065129","Sant'Arsenio",NA,NA,NA,NA,NA,NA,NA,NA
+"8346","6221",NA,NA,"067038","Sant'Egidio alla Vibrata",NA,NA,NA,"D",NA,NA,NA,NA
+"8347","6048",NA,NA,"065130","Sant'Egidio del Monte Albino",NA,"C",NA,"D","+",NA,NA,"E"
+"8348","3910",1866-11-19,NA,"028083","Sant'Elena","N",NA,NA,NA,NA,NA,NA,NA
+"8349","6497",NA,NA,"094047","Sant'Elena Sannita",NA,NA,"A","D",NA,NA,NA,NA
+"8350","6498",NA,NA,"070074","Sant'Elia a Pianisi",NA,NA,NA,"D","+","-","R",NA
+"8351","5509",NA,NA,"060068","Sant'Elia Fiumerapido",NA,NA,"A","D",NA,NA,NA,NA
+"8352","10001",NA,1875-03-05,"057811","Sant'Elia Reatino",NA,NA,NA,"D",NA,NA,NA,"E"
+"8353","4782",NA,NA,"109037","Sant'Elpidio a Mare",NA,NA,"A",NA,NA,"-",NA,NA
+"8354","9583",NA,1868-09-17,"044818","Sant'Elpidio Morico",NA,NA,NA,NA,NA,NA,NA,"E"
+"8357","9484",NA,1867-08-26,"063809","Sant'Erasmo",NA,NA,NA,"D",NA,NA,NA,"E"
+"8358","6266",NA,NA,"068037","Sant'Eufemia a Maiella",NA,NA,"A","D","+",NA,NA,NA
+"8359","7288",NA,NA,"080081","Sant'Eufemia d'Aspromonte",NA,NA,NA,NA,NA,NA,NA,NA
+"8360","10748",NA,1928-11-27,"017895","Sant'Eufemia della Fonte",NA,NA,NA,"D",NA,NA,NA,"E"
+"8361","7168",1935-06-06,1968-11-28,"079120","Sant'Eufemia Lamezia",NA,"C",NA,NA,"+",NA,NA,"E"
+"8362","6360",NA,NA,"069085","Sant'Eusanio del Sangro",NA,NA,NA,"D",NA,NA,NA,NA
+"8363","6165",NA,NA,"066090","Sant'Eusanio Forconese",NA,"C",NA,"D","+",NA,NA,"E"
+"8368","4336",NA,NA,"035039","Sant'Ilario d'Enza",NA,NA,NA,"D",NA,NA,NA,NA
+"8367","7289",NA,NA,"080082","Sant'Ilario dello Ionio",NA,NA,NA,"D",NA,NA,NA,NA
+"8369","9688",NA,1926-02-06,"010825","Sant'Ilario Ligure",NA,NA,NA,"D",NA,NA,NA,"E"
+"8371","4599",NA,NA,"041058","Sant'Ippolito",NA,NA,NA,NA,"+",NA,NA,NA
+"8389","1474",NA,NA,"010055","Sant'Olcese",NA,NA,NA,NA,"+","-",NA,NA
+"8391","6222",NA,NA,"067039","Sant'Omero",NA,NA,NA,NA,"+",NA,NA,NA
+"8392","2421",1927-08-03,2014-02-04,"016192","Sant'Omobono Terme",NA,"C",NA,"D","+",NA,NA,"E"
+"8393","11546",2014-02-04,NA,"016252","Sant'Omobono Terme",NA,"C",NA,NA,"+",NA,NA,NA
+"8394","7169",NA,NA,"102036","Sant'Onofrio",NA,NA,"A",NA,NA,NA,NA,NA
+"8396","5393",1871-01-15,NA,"058099","Sant'Oreste","N",NA,"A",NA,NA,NA,NA,NA
+"8398","3341",1920-10-16,NA,"022168","Sant'Orsola Terme","N",NA,"A","D","+","-",NA,NA
+"8400","3911",1866-11-19,NA,"028084","Sant'Urbano","N",NA,NA,NA,NA,NA,NA,NA
 "8194","2420",NA,NA,"016191","Santa Brigida",NA,NA,NA,NA,NA,"-",NA,NA
 "8195","7022",NA,NA,"078129","Santa Caterina Albanese",NA,"C",NA,"D","+",NA,NA,"E"
 "8196","7165",NA,NA,"079117","Santa Caterina dello Ionio",NA,NA,NA,"D",NA,NA,NA,NA
@@ -8107,21 +8329,1115 @@
 "8227","7550",NA,NA,"084038","Santa Margherita di Belice",NA,NA,NA,"D",NA,NA,NA,NA
 "8228","10805",NA,1929-05-28,"018866","Santa Margherita di Bobbio",NA,NA,NA,"D",NA,NA,NA,"E"
 "8229","2824",1929-05-28,NA,"018142","Santa Margherita di Staffora",NA,"C",NA,NA,"+",NA,NA,NA
+"8230","1473",NA,NA,"010054","Santa Margherita Ligure",NA,NA,NA,"D","+",NA,NA,NA
+"8231","10806",NA,1872-11-16,"018867","Santa Margherita Po",NA,NA,NA,"D",NA,NA,NA,"E"
+"8232","4965",NA,NA,"050035","Santa Maria a Monte",NA,NA,"A",NA,"+",NA,NA,NA
+"8233","5614",NA,NA,"061082","Santa Maria a Vico",NA,NA,"A",NA,"+","-",NA,NA
+"8234","5615",NA,NA,"061083","Santa Maria Capua Vetere",NA,NA,"A","D","+","-",NA,NA
+"8235","8213",1983-02-27,NA,"090087","Santa Maria Coghinas",NA,"C",NA,NA,"+",NA,NA,NA
+"8236","7025",1948-04-30,NA,"078132","Santa Maria del Cedro",NA,"C",NA,"D","+",NA,NA,NA
+"8237","6494",NA,NA,"094045","Santa Maria del Molise",NA,NA,"A","D",NA,NA,NA,NA
+"8238","10036",NA,1927-12-29,"012888","Santa Maria del Monte",NA,NA,"A",NA,NA,NA,NA,"E"
+"8239","9534",NA,1865-12-25,"044819","Santa Maria del Tronto",NA,NA,NA,"D",NA,NA,NA,"E"
+"8240","10554",NA,1928-05-29,"019908","Santa Maria della Croce",NA,NA,NA,NA,"+",NA,NA,"E"
 "8241","2825",NA,NA,"018143","Santa Maria della Versa",NA,NA,NA,"D","+",NA,NA,NA
 "8242","7644",NA,NA,"087047","Santa Maria di Licodia",NA,NA,NA,NA,NA,NA,NA,NA
 "8243","11505",1928-12-12,1953-09-13,"013935","Santa Maria di Rovagnate",NA,"C",NA,NA,"+",NA,NA,"E"
+"8244","3819",1866-11-19,NA,"027035","Santa Maria di Sala","N",NA,NA,NA,NA,NA,NA,NA
+"8245","1867",NA,NA,"097074","Santa Maria Hoè",NA,"C",NA,NA,"+",NA,NA,"E"
+"8246","6359",NA,NA,"069084","Santa Maria Imbaro",NA,NA,NA,NA,NA,NA,NA,NA
 "8247","10259",NA,1870-08-02,"015950","Santa Maria in Prato",NA,NA,NA,NA,NA,NA,NA,"E"
 "8248","10911",1866-11-19,1927-05-12,"023819","Santa Maria in Stelle","N",NA,NA,NA,NA,NA,NA,"E"
 "8249","8200",1979-01-14,NA,"063090","Santa Maria la Carità",NA,"C",NA,NA,"+",NA,NA,NA
 "8250","5616",1907-07-01,NA,"061084","Santa Maria la Fossa",NA,"C","A",NA,"+",NA,NA,NA
 "8251","4127",1866-11-19,NA,"030104","Santa Maria la Longa","N",NA,NA,NA,NA,NA,"R",NA
+"8252","620",1928-06-28,NA,"103062","Santa Maria Maggiore",NA,"C","A",NA,"+","-",NA,NA
+"8253","9932",NA,1928-06-28,"003885","Santa Maria Maggiore e Crana",NA,NA,NA,NA,NA,NA,NA,"E"
+"8254","4651",NA,NA,"042043","Santa Maria Nuova",NA,NA,NA,NA,NA,NA,NA,NA
+"8255","1868",1928-08-12,2003-01-01,"013210","Santa Maria Rezzonico",NA,"C",NA,NA,"+","-",NA,"E"
+"8256","6045",NA,NA,"065127","Santa Marina",NA,"C",NA,NA,"+",NA,NA,"E"
+"8257","7494",1910-01-10,NA,"083087","Santa Marina Salina",NA,"C",NA,NA,"+",NA,NA,NA
+"8258","5391",1949-10-16,NA,"058097","Santa Marinella",NA,"C",NA,NA,"+",NA,NA,NA
+"8259","7322",NA,NA,"081019","Santa Ninfa",NA,NA,NA,NA,NA,NA,NA,NA
+"8260","5891",NA,NA,"064093","Santa Paolina",NA,NA,NA,NA,NA,NA,NA,NA
+"8261","7167",NA,NA,"101022","Santa Severina",NA,NA,"A",NA,NA,NA,NA,NA
+"8262","4533",NA,NA,"040043","Santa Sofia",NA,NA,"A",NA,"+","-",NA,NA
+"8263","7026",NA,NA,"078133","Santa Sofia d'Epiro",NA,NA,NA,"D",NA,NA,NA,NA
+"8264","7496",NA,NA,"083089","Santa Teresa di Riva",NA,NA,NA,"D","+","-",NA,NA
+"8265","7746",NA,NA,"104022","Santa Teresa Gallura",NA,NA,"A","D",NA,NA,NA,NA
+"8266","11467",1928-04-03,1947-10-01,"013936","Santa Valeria",NA,"C",NA,NA,"+",NA,NA,"E"
+"8267","7645",1934-04-07,NA,"087048","Santa Venerina",NA,"C",NA,NA,"+","-",NA,NA
+"8268","861",NA,NA,"004212","Santa Vittoria d'Alba",NA,NA,NA,"D","+",NA,NA,NA
+"8269","4781",NA,NA,"109036","Santa Vittoria in Matenano",NA,NA,"A","D",NA,NA,NA,NA
+"8271","7968",NA,NA,"107018","Santadi",NA,NA,"A",NA,NA,"-","R",NA
+"8341","4532",NA,NA,"099018","Santarcangelo di Romagna",NA,NA,"A","D",NA,NA,NA,NA
+"8345","6164",NA,NA,"066089","Sante Marie",NA,NA,NA,NA,NA,"-",NA,NA
+"8355","257",1878-08-02,NA,"001257","Santena",NA,"C",NA,NA,"+",NA,NA,NA
+"8356","6616",NA,NA,"072041","Santeramo in Colle",NA,NA,NA,"D",NA,NA,NA,NA
+"8364","448",NA,NA,"002133","Santhià",NA,NA,"A",NA,NA,NA,NA,NA
+"8365","5434",NA,NA,"059026","Santi Cosma e Damiano",NA,"C","A",NA,"+","-",NA,"E"
+"8366","10749",NA,1927-09-15,"017896","Santicolo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8370","9946",NA,1928-10-28,"003886","Santino",NA,NA,NA,NA,NA,NA,NA,"E"
+"8372","11337",1921-01-05,1928-08-16,"031862","Santo Spirito della Bainsizza","N",NA,"A","D",NA,NA,NA,"E"
+"8373","1339",NA,NA,"008056","Santo Stefano al Mare",NA,"C",NA,NA,"+","-",NA,"E"
+"8374","862",NA,NA,"004213","Santo Stefano Belbo",NA,NA,NA,NA,"+","-",NA,NA
+"8375","1475",NA,NA,"010056","Santo Stefano d'Aveto",NA,NA,NA,NA,NA,"-",NA,NA
+"8376","10570",NA,1928-02-21,"016866","Santo Stefano del Monte degli Angeli",NA,NA,NA,"D",NA,NA,NA,"E"
+"8377","5893",NA,NA,"064095","Santo Stefano del Sole",NA,NA,NA,"D",NA,NA,NA,NA
+"8378","9520",NA,1928-04-17,"083807","Santo Stefano di Briga",NA,NA,NA,NA,NA,NA,NA,"E"
+"8379","3670",1866-11-19,NA,"025050","Santo Stefano di Cadore","N",NA,NA,"D",NA,NA,NA,NA
+"8380","7498",NA,NA,"083091","Santo Stefano di Camastra",NA,NA,NA,NA,NA,NA,NA,NA
+"8381","1512",NA,NA,"011026","Santo Stefano di Magra",NA,NA,"A","D",NA,NA,NA,NA
+"8382","7027",NA,NA,"078134","Santo Stefano di Rogliano",NA,"C",NA,"D","+",NA,NA,"E"
+"8383","6166",NA,NA,"066091","Santo Stefano di Sessanio",NA,NA,NA,"D",NA,NA,NA,NA
+"8384","7290",NA,NA,"080083","Santo Stefano in Aspromonte",NA,NA,NA,NA,NA,NA,NA,NA
+"8385","2181",NA,NA,"098051","Santo Stefano Lodigiano",NA,NA,"A","D",NA,NA,NA,NA
+"8386","7552",NA,NA,"084040","Santo Stefano Quisquina",NA,NA,NA,"D",NA,NA,NA,NA
+"8387","863",NA,NA,"004214","Santo Stefano Roero",NA,NA,NA,NA,NA,"-",NA,NA
+"8388","2182",NA,NA,"015200","Santo Stefano Ticino",NA,NA,NA,"D","+",NA,NA,NA
+"8390","6049",NA,NA,"065131","Santomenna",NA,NA,NA,"D",NA,NA,NA,NA
+"8395","5510",NA,NA,"060069","Santopadre",NA,NA,"A",NA,NA,NA,NA,NA
+"8397","3593",1866-11-19,NA,"024095","Santorso","N",NA,NA,NA,NA,NA,NA,NA
+"8399","7973",NA,NA,"095049","Santu Lussurgiu",NA,NA,"A",NA,NA,NA,NA,NA
+"8401","11370",1921-01-05,1947-09-16,"702735","Sanvincenti","N",NA,"A",NA,NA,NA,NA,"E"
+"8402","6051",NA,NA,"065133","Sanza",NA,NA,NA,NA,NA,NA,NA,NA
+"8403","3342",1920-10-16,NA,"022169","Sanzeno","N",NA,"A",NA,"+","-",NA,NA
+"8404","3912",1866-11-19,NA,"028085","Saonara","N",NA,NA,NA,NA,NA,NA,NA
+"8405","11113",1920-10-16,1928-02-24,"022909","Saone","N",NA,"A",NA,NA,NA,NA,"E"
+"8406","7499",NA,NA,"083092","Saponara",NA,"C",NA,"D","+",NA,NA,"E"
+"8407","3672",1866-11-19,NA,"025052","Sappada","N",NA,NA,NA,NA,NA,NA,NA
+"8408","6052",NA,NA,"065134","Sapri",NA,NA,NA,NA,NA,NA,NA,NA
+"8409","7029",NA,NA,"078136","Saracena",NA,NA,NA,NA,NA,NA,NA,NA
+"8410","5395",1871-01-15,NA,"058101","Saracinesco","N",NA,NA,NA,NA,NA,NA,NA
+"8411","3595",1866-11-19,NA,"024097","Sarcedo","N",NA,NA,NA,NA,NA,NA,NA
+"8412","6846",NA,NA,"076081","Sarconi",NA,"C",NA,NA,"+",NA,NA,"E"
+"8413","11114",1920-10-16,1926-10-01,"022910","Sardagna","N",NA,"A",NA,NA,NA,NA,"E"
+"8414","7976",NA,NA,"106016","Sardara",NA,NA,"A",NA,NA,NA,"R",NA
+"8415","1176",NA,NA,"006157","Sardigliano",NA,NA,NA,NA,"+","-",NA,NA
+"8416","3596",1866-11-19,NA,"024098","Sarego","N",NA,NA,NA,NA,NA,NA,NA
+"8417","3143",1920-10-16,NA,"021086","Sarentino/Sarntal","N",NA,"A",NA,NA,NA,NA,NA
+"8418","1177",NA,NA,"006158","Sarezzano",NA,NA,NA,NA,NA,NA,NA,NA
+"8419","2651",NA,NA,"017174","Sarezzo",NA,NA,NA,NA,NA,NA,NA,NA
+"8420","4243",NA,NA,"033042","Sarmato",NA,NA,NA,NA,NA,NA,NA,NA
+"8421","3767",1866-11-19,NA,"026078","Sarmede","N",NA,NA,NA,NA,NA,NA,NA
+"8422","4706",NA,NA,"043049","Sarnano",NA,NA,NA,NA,NA,NA,NA,NA
+"8423","2422",NA,NA,"016193","Sarnico",NA,NA,NA,NA,"+","-",NA,NA
+"8424","6053",NA,NA,"065135","Sarno",NA,NA,NA,NA,NA,NA,NA,NA
+"8425","3343",1920-10-16,NA,"022170","Sarnonico","N",NA,"A",NA,"+",NA,NA,"E"
+"8426","9652",NA,1923-12-06,"008833","Sarola",NA,NA,NA,NA,NA,NA,NA,"E"
+"8427","1637",NA,NA,"012119","Saronno",NA,NA,"A",NA,"+","-",NA,NA
+"8428","1275",NA,NA,"007066","Sarre",NA,"C","A",NA,"+",NA,NA,"E"
+"8429","7977",NA,NA,"092066","Sarroch",NA,NA,NA,NA,NA,NA,"R",NA
+"8430","4534",NA,NA,"040044","Sarsina",NA,NA,NA,NA,"+",NA,NA,NA
+"8431","5039",NA,NA,"052031","Sarteano",NA,NA,NA,NA,NA,NA,NA,NA
+"8432","10422",NA,1928-02-23,"013937","Sartirana Briantea",NA,NA,NA,"D",NA,NA,NA,"E"
+"8433","2828",NA,NA,"018146","Sartirana Lomellina",NA,NA,NA,"D",NA,NA,NA,NA
+"8434","7839",NA,NA,"091077","Sarule",NA,NA,"A",NA,NA,NA,NA,NA
+"8435","1513",NA,NA,"011027","Sarzana",NA,NA,"A",NA,NA,NA,NA,NA
+"8436","9538",NA,1927-09-20,"066807","Sassa",NA,NA,NA,NA,NA,NA,NA,"E"
+"8437","6054",NA,NA,"065136","Sassano",NA,NA,NA,NA,NA,NA,NA,NA
+"8438","7747",NA,NA,"090064","Sassari",NA,NA,NA,NA,NA,"-",NA,NA
+"8439","1405",NA,NA,"009055","Sassello",NA,NA,"A",NA,NA,"-",NA,NA
+"8440","4929",NA,NA,"049019","Sassetta",NA,NA,"A",NA,NA,NA,NA,NA
+"8441","5704",NA,NA,"062072","Sassinoro",NA,NA,NA,NA,NA,NA,NA,NA
+"8442","11161",1920-10-16,1929-02-21,"022911","Sasso","N",NA,"A",NA,NA,NA,NA,"E"
+"8443","9653",NA,1928-04-04,"008834","Sasso di Bordighera",NA,NA,NA,"D",NA,NA,NA,"E"
+"8444","6847",NA,NA,"076082","Sasso di Castalda",NA,NA,NA,"D",NA,NA,NA,NA
+"8445","4446",NA,NA,"037057","Sasso Marconi",NA,NA,NA,"D",NA,NA,NA,NA
+"8446","4600",NA,NA,"041059","Sassocorvaro",NA,NA,NA,NA,NA,NA,NA,NA
+"8447","4601",NA,NA,"041060","Sassofeltrio",NA,"C",NA,NA,"+",NA,NA,"E"
+"8448","4652",NA,NA,"042044","Sassoferrato",NA,NA,NA,NA,NA,NA,NA,NA
+"8449","4382",NA,NA,"036040","Sassuolo",NA,NA,NA,NA,NA,NA,NA,NA
+"8450","7171",NA,NA,"079123","Satriano",NA,NA,NA,NA,NA,NA,NA,NA
+"8451","6848",NA,NA,"076083","Satriano di Lucania",NA,NA,NA,"D",NA,NA,NA,NA
+"8452","4131",1866-11-19,NA,"030107","Sauris","N",NA,NA,NA,NA,NA,"R",NA
+"8454","259",NA,NA,"001259","Sauze d'Oulx",NA,"C",NA,NA,"+",NA,NA,"E"
+"8453","258",NA,NA,"001258","Sauze di Cesana",NA,"C",NA,NA,"+","-",NA,"E"
+"8455","9519",NA,NA,"073026","Sava",NA,NA,"A",NA,NA,"-",NA,NA
+"8456","7172",NA,NA,"101023","Savelli",NA,NA,"A",NA,NA,NA,NA,NA
+"8457","5785",NA,NA,"063076","Saviano",NA,NA,"A",NA,"+",NA,NA,NA
+"8458","864",NA,NA,"004215","Savigliano",NA,NA,NA,NA,NA,NA,NA,NA
+"8459","5894",NA,NA,"064096","Savignano Irpino",NA,NA,NA,"D",NA,NA,NA,NA
+"8460","4383",NA,NA,"036041","Savignano sul Panaro",NA,NA,NA,"D",NA,NA,NA,NA
+"8461","4535",NA,NA,"040045","Savignano sul Rubicone",NA,NA,NA,"D",NA,"-",NA,NA
+"8462","4447",NA,2014-01-01,"037058","Savigno",NA,NA,NA,NA,NA,"-",NA,"E"
+"8463","1476",NA,NA,"010057","Savignone",NA,NA,NA,NA,NA,"-",NA,NA
+"8464","2652",NA,NA,"017175","Saviore dell'Adamello",NA,"C",NA,"D","+",NA,NA,"E"
+"8465","7500",NA,NA,"083093","Savoca",NA,"C",NA,NA,"+",NA,NA,"E"
+"8466","4132",1866-11-19,NA,"030108","Savogna","N",NA,NA,NA,NA,NA,"R",NA
+"8467","4192",1921-01-05,NA,"031022","Savogna d'Isonzo","N",NA,"A","D","+",NA,NA,"E"
+"8468","6849",NA,NA,"076084","Savoia di Lucania",NA,NA,NA,"D",NA,NA,NA,NA
+"8469","1406",NA,NA,"009056","Savona",NA,NA,"A",NA,NA,"-",NA,NA
+"8470","9740",NA,1928-05-04,"001863","Savoulx",NA,NA,NA,NA,NA,NA,NA,"E"
+"8471","6268",1948-03-21,NA,"068039","Scafa",NA,"C",NA,NA,"+",NA,NA,NA
+"8472","6055",NA,NA,"065137","Scafati",NA,NA,NA,NA,"+","-",NA,NA
+"8473","865",NA,NA,"004216","Scagnello",NA,"C",NA,NA,"+",NA,NA,"E"
+"8474","6056",NA,NA,"065138","Scala",NA,"C",NA,NA,"+",NA,NA,"E"
+"8475","7030",NA,NA,"078137","Scala Coeli",NA,NA,NA,"D",NA,NA,NA,NA
+"8476","2829",NA,NA,"018147","Scaldasole",NA,NA,NA,NA,NA,NA,NA,NA
+"8477","7031",NA,NA,"078138","Scalea",NA,NA,NA,NA,NA,"-",NA,NA
+"8478","260",NA,NA,"001260","Scalenghe",NA,NA,NA,NA,NA,"-",NA,NA
+"8479","11091",1920-10-16,1929-05-07,"021893","Scaleres/Schalders","N",NA,"A","D",NA,NA,NA,"E"
+"8480","9832",NA,1929-03-24,"004818","Scaletta Uzzone",NA,NA,NA,"D",NA,NA,NA,"E"
+"8481","7501",NA,NA,"083094","Scaletta Zanclea",NA,NA,NA,"D","+","-",NA,NA
+"8482","5895",1948-04-28,NA,"064097","Scampitella",NA,"C",NA,NA,"+",NA,NA,NA
+"8483","7173",NA,NA,"101024","Scandale",NA,NA,"A",NA,NA,NA,NA,NA
+"8484","1001",NA,1998-09-01,"005102","Scandeluzza",NA,NA,"A",NA,"+","-",NA,"E"
+"8485","4337",NA,NA,"035040","Scandiano",NA,NA,NA,NA,NA,NA,NA,NA
+"8486","4901",NA,NA,"048041","Scandicci",NA,NA,NA,"D","+","-",NA,NA
+"8487","2964",NA,NA,"019092","Scandolara Ravara",NA,NA,NA,NA,"+",NA,NA,NA
+"8488","2965",NA,NA,"019093","Scandolara Ripa d'Oglio",NA,NA,NA,NA,NA,NA,NA,NA
+"8489","5285",NA,NA,"057064","Scandriglia",NA,NA,"A",NA,NA,"-",NA,NA
+"8490","10555",NA,1929-05-04,"019909","Scannabue",NA,NA,NA,NA,NA,NA,NA,"E"
+"8491","6168",NA,NA,"066093","Scanno",NA,NA,NA,NA,NA,NA,NA,NA
+"8492","10571",NA,1928-05-19,"016867","Scano al Brembo",NA,NA,NA,"D",NA,NA,NA,"E"
+"8493","7840",NA,NA,"095051","Scano di Montiferro",NA,NA,"A","D",NA,NA,NA,NA
+"8494","5067",NA,NA,"053023","Scansano",NA,NA,NA,NA,NA,NA,NA,NA
+"8495","8185",1974-08-02,NA,"077031","Scanzano Jonico",NA,"C",NA,NA,"+",NA,NA,NA
+"8496","10829",NA,1927-08-19,"016868","Scanzo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8497","2423",1927-08-19,NA,"016194","Scanzorosciate",NA,"C",NA,NA,"+",NA,NA,NA
+"8498","6499",NA,NA,"094048","Scapoli",NA,"C","A",NA,"+",NA,NA,"E"
+"8499","10423",NA,1878-12-31,"013938","Scarenna",NA,NA,NA,NA,NA,NA,NA,"E"
+"8500","10424",NA,1928-05-01,"013939","Scaria",NA,NA,NA,NA,NA,NA,NA,"E"
+"8501","5068",1960-07-19,NA,"053024","Scarlino",NA,"C",NA,NA,"+",NA,NA,NA
+"8502","261",NA,NA,"001261","Scarmagno",NA,"C","A",NA,"+",NA,NA,"E"
+"8503","866",NA,NA,"004217","Scarnafigi",NA,"C",NA,NA,"+",NA,NA,"E"
+"8504","11494",1928-07-28,1947-05-23,"004819","Scarnafigi-Ruffia",NA,"C",NA,NA,"+",NA,NA,"E"
+"8505","4902",NA,2014-01-01,"048042","Scarperia",NA,NA,NA,NA,NA,NA,NA,"E"
+"8506","11565",2014-01-01,NA,"048053","Scarperia e San Piero",NA,"C",NA,NA,"+",NA,NA,NA
+"8507","10699",NA,1927-12-27,"017897","Scarpizzolo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8508","9599",NA,1928-12-14,"041820","Scavolino",NA,NA,NA,NA,NA,NA,NA,"E"
+"8509","11162",1920-10-16,1928-03-13,"022912","Scelmo","N",NA,"A",NA,NA,NA,NA,"E"
+"8510","3144",1920-10-16,NA,"021087","Scena/Schenna","N",NA,"A",NA,NA,NA,NA,NA
+"8511","6362",NA,NA,"069087","Scerni",NA,NA,NA,NA,NA,NA,NA,NA
+"8512","5116",NA,NA,"054046","Scheggia e Pascelupo",NA,NA,NA,"D","+",NA,NA,NA
+"8513","5117",NA,NA,"054047","Scheggino",NA,"C",NA,NA,"+",NA,NA,"E"
+"8514","11257",1921-01-05,1928-08-24,"031863","Scherbina","N",NA,"A",NA,NA,NA,NA,"E"
+"8515","10037",NA,1927-07-01,"012889","Schianno",NA,NA,"A",NA,NA,NA,NA,"E"
+"8516","6363",NA,NA,"069088","Schiavi di Abruzzo",NA,NA,NA,"D",NA,NA,NA,NA
+"8517","3597",1866-11-19,NA,"024099","Schiavon","N",NA,NA,NA,NA,NA,NA,NA
+"8518","9947",NA,1928-05-31,"003887","Schieranco",NA,NA,NA,NA,NA,NA,NA,"E"
+"8519","1869",NA,NA,"013211","Schignano",NA,NA,NA,NA,NA,NA,NA,NA
+"8520","2424",NA,NA,"016195","Schilpario",NA,NA,NA,NA,NA,NA,NA,NA
+"8521","3598",1866-11-19,NA,"024100","Schio","N",NA,NA,NA,"+",NA,NA,NA
+"8522","3047",1866-11-19,NA,"020060","Schivenoglia","N",NA,NA,NA,NA,NA,NA,NA
+"8523","7553",NA,NA,"084041","Sciacca",NA,NA,NA,NA,NA,NA,NA,NA
+"8524","7394",NA,NA,"082068","Sciara",NA,NA,NA,NA,NA,NA,NA,NA
+"8525","11018",1920-10-16,1929-02-14,"021894","Sciaves/Schabs","N",NA,"A","D",NA,NA,NA,"E"
+"8526","7663",NA,NA,"088011","Scicli",NA,NA,"A",NA,NA,NA,NA,NA
+"8527","7291",NA,NA,"080084","Scido",NA,NA,NA,NA,NA,NA,NA,NA
+"8528","7032",NA,NA,"078139","Scigliano",NA,NA,NA,NA,"+","-",NA,NA
+"8529","7292",NA,NA,"080085","Scilla",NA,NA,NA,NA,NA,NA,NA,NA
+"8530","8248",1961-04-11,NA,"082081","Scillato",NA,"C",NA,NA,"+",NA,NA,NA
+"8531","262",NA,NA,"001262","Sciolze",NA,NA,NA,NA,NA,NA,NA,NA
+"8532","5786",NA,NA,"063077","Scisciano",NA,NA,"A",NA,NA,NA,NA,NA
+"8533","7395",NA,NA,"082069","Sclafani Bagni",NA,NA,NA,"D",NA,NA,NA,NA
+"8534","11235",1921-01-05,1928-05-02,"030818","Scodovacca","N",NA,"A",NA,NA,NA,NA,"E"
+"8535","6169",NA,NA,"066094","Scontrone",NA,NA,NA,NA,NA,NA,NA,NA
+"8536","449",NA,NA,"002134","Scopa",NA,NA,"A",NA,NA,NA,NA,NA
+"8537","450",NA,NA,"002135","Scopello",NA,NA,"A",NA,NA,NA,NA,NA
+"8538","6170",NA,NA,"066095","Scoppito",NA,NA,NA,NA,NA,NA,NA,NA
+"8539","11223",1921-01-05,1927-08-20,"032814","Scoppo","N",NA,"A",NA,NA,NA,NA,"E"
+"8540","7646",NA,NA,"087049","Scordia",NA,NA,NA,NA,NA,NA,NA,NA
+"8541","6744",NA,NA,"075073","Scorrano",NA,NA,NA,NA,NA,NA,NA,NA
+"8542","3821",1866-11-19,NA,"027037","Scorzè","N",NA,NA,NA,NA,NA,NA,NA
+"8543","11289",1921-01-05,1928-03-13,"031864","Scrilla","N",NA,"A","D",NA,NA,NA,"E"
+"8544","6171",NA,NA,"066096","Scurcola Marsicana",NA,NA,NA,"D",NA,NA,NA,NA
+"8545","3344",1920-10-16,NA,"022171","Scurelle","N",NA,"A",NA,"+",NA,NA,"E"
+"8546","1002",NA,NA,"005103","Scurzolengo",NA,NA,"A",NA,NA,NA,NA,NA
+"8547","1340",NA,NA,"008057","Seborga",NA,NA,NA,NA,NA,NA,NA,NA
+"8548","11297",1921-01-05,1928-07-29,"031865","Sebreghe","N",NA,"A",NA,NA,NA,NA,"E"
+"8549","6172",NA,NA,"066097","Secinaro",NA,NA,NA,NA,NA,NA,NA,NA
+"8550","6745",NA,NA,"075074","Seclì",NA,"C",NA,NA,"+",NA,NA,"E"
+"8551","9485",NA,1926-07-04,"063810","Secondigliano",NA,NA,NA,NA,NA,NA,NA,"E"
+"8552","2185",NA,NA,"098052","Secugnago",NA,NA,"A",NA,NA,NA,NA,NA
+"8553","4133",1866-11-19,NA,"030109","Sedegliano","N",NA,NA,NA,"+","-","R",NA
+"8554","3673",1866-11-19,NA,"025053","Sedico","N",NA,NA,NA,NA,NA,NA,NA
+"8555","7978",NA,NA,"095052","Sedilo",NA,NA,"A",NA,NA,NA,NA,NA
+"8556","7748",NA,NA,"090065","Sedini",NA,NA,NA,NA,NA,"-",NA,NA
+"8557","2186",NA,NA,"015204","Sedriano",NA,NA,NA,NA,NA,"-",NA,NA
+"8558","2425",NA,NA,"016196","Sedrina",NA,NA,NA,NA,"+",NA,NA,NA
+"8559","11298",1921-01-05,1928-01-07,"031866","Sedula","N",NA,"A",NA,NA,NA,NA,"E"
+"8560","4707",NA,NA,"043050","Sefro",NA,NA,NA,NA,NA,NA,NA,NA
+"8561","7979",NA,NA,"106017","Segariu",NA,"C","A",NA,"+",NA,"R","E"
+"8562","5069",1920-10-19,NA,"053025","Seggiano",NA,"C",NA,NA,"+",NA,NA,NA
+"8563","10425",NA,1928-06-30,"013940","Seghebbia",NA,NA,NA,NA,NA,NA,NA,"E"
+"8564","10930",1866-11-19,1928-04-29,"030819","Segnacco","N",NA,NA,"D",NA,NA,NA,"E"
+"8565","5396",1871-01-15,NA,"058102","Segni","N",NA,NA,NA,NA,NA,NA,NA
+"8566","9639",NA,1929-05-30,"009827","Segno",NA,NA,"A",NA,NA,NA,NA,"E"
+"8567","11163",1920-10-16,1929-01-24,"022913","Segno","N",NA,"A",NA,NA,NA,NA,"E"
+"8568","3345",1920-10-16,NA,"022172","Segonzano","N",NA,"A",NA,"+",NA,NA,NA
+"8569","2187",NA,NA,"015205","Segrate",NA,NA,NA,NA,"+",NA,NA,NA
+"8570","3768",1866-11-19,NA,"026079","Segusino","N",NA,NA,NA,NA,NA,NA,NA
+"8571","11164",1920-10-16,1928-08-07,"022914","Seio","N",NA,"A",NA,NA,NA,NA,"E"
+"8572","7980",NA,NA,"092068","Selargius",NA,"C",NA,NA,"+",NA,"R","E"
+"8573","5286",NA,NA,"057065","Selci",NA,NA,"A",NA,NA,NA,NA,NA
+"8574","7981",NA,NA,"092069","Selegas",NA,NA,NA,NA,"+","-","R",NA
+"8575","10830",NA,1927-08-03,"016869","Selino",NA,NA,NA,NA,NA,NA,NA,"E"
+"8576","11300",1921-01-05,1928-08-24,"031867","Sella delle Trincee","N",NA,"A","D",NA,NA,NA,"E"
+"8577","11598",2016-01-01,NA,"022246","Sella Giudicarie",NA,"C",NA,NA,"+",NA,NA,NA
+"8578","5118",NA,NA,"054048","Sellano",NA,NA,NA,NA,"+",NA,NA,NA
+"8579","10379",NA,1869-03-22,"015951","Sellanuova",NA,NA,NA,NA,NA,NA,NA,"E"
+"8580","10831",NA,1929-02-14,"016870","Sellere",NA,NA,NA,NA,NA,NA,NA,"E"
+"8581","2653",NA,NA,"017176","Sellero",NA,"C",NA,NA,"+",NA,NA,"E"
+"8582","7174",NA,NA,"079126","Sellia",NA,NA,NA,NA,NA,"-",NA,NA
+"8583","7175",1957-01-18,NA,"079127","Sellia Marina",NA,"C",NA,NA,"+",NA,NA,NA
+"8584","3145",1920-10-16,NA,"021088","Selva dei Molini/Mühlwald","N",NA,"A",NA,"+",NA,NA,NA
+"8585","3674",1866-11-19,NA,"025054","Selva di Cadore","N",NA,NA,"D",NA,NA,NA,NA
+"8586","3480",1866-11-19,NA,"023080","Selva di Progno","N",NA,NA,NA,NA,"-",NA,NA
+"8587","3146",1920-10-16,NA,"021089","Selva di Val Gardena/Wolkenstein in Gröden","N",NA,"A","D",NA,NA,NA,NA
+"8588","3913",1866-11-19,NA,"028086","Selvazzano Dentro","N",NA,NA,NA,NA,NA,NA,NA
+"8589","451",NA,NA,"096061","Selve Marcone",NA,NA,"A","D",NA,NA,NA,NA
+"8590","2426",NA,NA,"016197","Selvino",NA,NA,NA,NA,NA,NA,NA,NA
+"8591","7749",NA,NA,"090066","Semestene",NA,NA,NA,NA,NA,NA,NA,NA
+"8592","2830",NA,NA,"018148","Semiana",NA,NA,NA,NA,NA,NA,NA,NA
+"8593","7293",NA,NA,"080086","Seminara",NA,NA,NA,NA,NA,NA,NA,NA
+"8594","8157",1963-04-17,NA,"053028","Semproniano",NA,"C",NA,NA,"+",NA,NA,NA
+"8595","11266",1921-01-05,1926-10-29,"032815","Senadole","N",NA,"A",NA,NA,NA,NA,"E"
+"8596","2188",NA,NA,"015206","Senago",NA,NA,NA,NA,NA,NA,NA,NA
+"8597","8186",1974-09-18,NA,"021118","Senale-San Felice/Unsere Liebe Frau im Walde-St. Felix",NA,"C",NA,NA,"+",NA,NA,NA
+"8599","3147",1920-10-16,1974-09-18,"021090","Senale/Unsere Liebe Frau im Walde","N",NA,"A",NA,"+",NA,NA,"E"
+"8598","3148",1920-10-16,NA,"021091","Senales/Schnals","N",NA,"A","D",NA,NA,NA,NA
+"8600","7982",NA,NA,"095053","Seneghe",NA,NA,"A",NA,NA,NA,NA,NA
+"8601","5896",NA,NA,"064098","Senerchia",NA,NA,NA,NA,NA,NA,NA,NA
+"8602","2654",NA,NA,"017177","Seniga",NA,NA,NA,NA,NA,NA,NA,NA
+"8603","4653",NA,NA,"042045","Senigallia",NA,NA,NA,NA,NA,NA,NA,NA
+"8604","7983",NA,NA,"095054","Senis",NA,NA,"A",NA,"+","-",NA,NA
+"8605","6850",NA,NA,"076085","Senise",NA,NA,NA,NA,NA,NA,NA,NA
+"8606","1870",NA,NA,"013212","Senna Comasco",NA,NA,NA,"D",NA,NA,NA,NA
+"8607","2189",NA,NA,"098053","Senna Lodigiana",NA,NA,"A","D","+",NA,NA,NA
+"8608","7841",NA,NA,"095055","Sennariolo",NA,NA,"A",NA,NA,NA,NA,NA
+"8609","7750",NA,NA,"090067","Sennori",NA,NA,NA,NA,NA,NA,NA,NA
+"8610","7984",NA,NA,"092070","Senorbì",NA,NA,NA,NA,"+","-","R",NA
+"8611","11270",1921-01-05,1947-09-16,"032712","Senosecchia","N",NA,"A",NA,"+",NA,NA,"E"
 "8612","11165",1920-10-16,1928-03-13,"022915","Seo","N",NA,"A",NA,NA,NA,NA,"E"
+"8613","6500",NA,NA,"070075","Sepino",NA,NA,NA,NA,NA,NA,"R",NA
+"8614","621",NA,2016-01-01,"103063","Seppiana",NA,"C","A",NA,"+",NA,NA,"E"
+"8615","11500",1928-09-23,1953-09-13,"013941","Seprio",NA,"C",NA,NA,"+","-",NA,"E"
+"8616","4134",1866-11-19,NA,"093042","Sequals","N",NA,"A",NA,NA,"-",NA,NA
+"8617","4832",NA,NA,"046028","Seravezza",NA,NA,NA,NA,NA,NA,NA,NA
+"8618","10044",NA,1938-01-08,"092807","Serbariu",NA,NA,NA,NA,NA,NA,NA,"E"
+"8619","7985",NA,NA,"092071","Serdiana",NA,NA,NA,NA,NA,NA,"R",NA
+"8620","2190",NA,NA,"108039","Seregno",NA,NA,"A",NA,"+","-",NA,NA
+"8621","3675",1866-11-19,NA,"025055","Seren del Grappa","N",NA,NA,"D",NA,NA,NA,NA
+"8622","2966",NA,NA,"019094","Sergnano",NA,NA,NA,NA,"+",NA,NA,NA
+"8623","2427",NA,NA,"016198","Seriate",NA,NA,NA,NA,NA,NA,NA,NA
+"8624","2428",NA,NA,"016199","Serina",NA,NA,NA,NA,"+","-",NA,NA
+"8625","5897",NA,NA,"064099","Serino",NA,NA,NA,NA,NA,NA,NA,NA
+"8626","2655",NA,NA,"017178","Serle",NA,NA,NA,NA,NA,NA,NA,NA
+"8627","3048",1866-11-19,NA,"020061","Sermide","N",NA,NA,NA,NA,NA,NA,NA
+"8628","5435",1871-01-15,NA,"059027","Sermoneta","N",NA,"A",NA,NA,"-",NA,NA
+"8629","3769",1866-11-19,NA,"026080","Sernaglia della Battaglia","N",NA,NA,"D",NA,NA,NA,NA
+"8630","1963",NA,NA,"014059","Sernio",NA,NA,NA,NA,NA,NA,NA,NA
+"8631","1003",NA,NA,"005104","Serole",NA,NA,"A",NA,NA,NA,NA,NA
+"8632","11296",1921-01-05,1928-05-04,"031868","Serpenizza","N",NA,"A",NA,NA,NA,NA,"E"
+"8633","7033",NA,NA,"078140","Serra d'Aiello",NA,"C",NA,NA,"+",NA,NA,"E"
+"8634","4654",NA,NA,"042046","Serra de' Conti",NA,NA,NA,NA,NA,NA,NA,NA
+"8635","7034",NA,NA,"078141","Serra Pedace",NA,NA,NA,NA,NA,NA,NA,NA
+"8636","1477",NA,NA,"010058","Serra Riccò",NA,NA,NA,"D","+",NA,NA,NA
+"8637","7176",NA,NA,"102037","Serra San Bruno",NA,NA,"A","D",NA,NA,NA,NA
+"8638","4655",NA,NA,"042047","Serra San Quirico",NA,NA,NA,NA,NA,NA,NA,NA
+"8639","4602",NA,NA,"041061","Serra Sant'Abbondio",NA,"C",NA,NA,"+",NA,NA,"E"
+"8640","6566",NA,NA,"071053","Serracapriola",NA,NA,NA,NA,NA,NA,NA,NA
+"8641","7573",NA,NA,"085018","Serradifalco",NA,NA,NA,NA,NA,NA,NA,NA
+"8642","867",NA,NA,"004218","Serralunga d'Alba",NA,NA,NA,"D",NA,NA,NA,NA
+"8643","1178",NA,NA,"006159","Serralunga di Crea",NA,NA,NA,"D",NA,NA,NA,NA
+"8644","7986",NA,NA,"106018","Serramanna",NA,NA,"A",NA,NA,NA,"R",NA
+"8645","4384",NA,NA,"036042","Serramazzoni",NA,NA,NA,"D",NA,NA,NA,NA
+"8646","6057",NA,NA,"065139","Serramezzana",NA,NA,NA,NA,NA,NA,NA,NA
+"8647","6269",NA,NA,"068040","Serramonacesca",NA,NA,"A",NA,NA,NA,NA,NA
+"8648","4708",NA,NA,"043051","Serrapetrona",NA,NA,NA,NA,NA,NA,NA,NA
+"8649","5787",NA,NA,"063078","Serrara Fontana",NA,"C",NA,NA,"+",NA,NA,"E"
+"8650","7177",NA,NA,"079129","Serrastretta",NA,NA,NA,NA,NA,NA,NA,NA
+"8651","7294",NA,NA,"080087","Serrata",NA,NA,NA,NA,NA,NA,NA,NA
+"8652","10923",1866-11-19,1867-01-01,"026807","Serravalle","N",NA,NA,NA,NA,NA,NA,"E"
+"8653","3049",1866-11-19,NA,"020062","Serravalle a Po","N",NA,NA,"D",NA,NA,NA,NA
+"8654","11166",1920-10-16,1928-09-06,"022916","Serravalle all'Adige","N",NA,"A",NA,NA,NA,NA,"E"
+"8655","9962",NA,1929-06-04,"005816","Serravalle d'Asti",NA,NA,NA,"D",NA,NA,NA,"E"
+"8656","4709",NA,NA,"043052","Serravalle di Chienti",NA,NA,NA,"D",NA,NA,NA,NA
+"8657","868",NA,NA,"004219","Serravalle Langhe",NA,NA,NA,"D","+","-",NA,NA
+"8658","4859",NA,NA,"047020","Serravalle Pistoiese",NA,NA,"A","D",NA,NA,NA,NA
+"8659","1179",NA,NA,"006160","Serravalle Scrivia",NA,NA,NA,"D",NA,NA,NA,NA
+"8660","452",NA,NA,"002137","Serravalle Sesia",NA,NA,"A","D","+",NA,NA,NA
+"8661","6058",NA,NA,"065140","Serre",NA,NA,NA,NA,NA,NA,NA,NA
+"8662","7987",NA,NA,"106019","Serrenti",NA,NA,"A",NA,NA,NA,"R",NA
+"8663","7842",NA,NA,"092120","Serri",NA,NA,"A",NA,NA,NA,NA,NA
+"8664","5512",1871-01-15,NA,"060071","Serrone","N",NA,"A",NA,NA,NA,NA,NA
+"8665","4603",NA,NA,"041062","Serrungarina",NA,NA,NA,NA,"+","-",NA,NA
+"8666","7178",NA,NA,"079130","Sersale",NA,NA,NA,NA,"+",NA,NA,NA
+"8667","11167",1920-10-16,1929-01-25,"022917","Serso","N",NA,"A",NA,NA,NA,NA,"E"
+"8668","4783",NA,NA,"109038","Servigliano",NA,NA,"A","D",NA,NA,NA,NA
+"8669","11271",1921-01-05,1947-09-16,"032713","Sesana","N",NA,"A",NA,"+",NA,NA,"E"
+"8670","10038",NA,1869-03-22,"012890","Sesona",NA,NA,NA,NA,NA,NA,NA,"E"
+"8671","5620",NA,NA,"061088","Sessa Aurunca",NA,NA,"A","D",NA,"-",NA,NA
+"8672","6059",NA,NA,"065141","Sessa Cilento",NA,NA,NA,NA,NA,"-",NA,NA
+"8673","1004",NA,NA,"005105","Sessame",NA,NA,"A",NA,NA,"-",NA,NA
+"8674","6501",NA,NA,"094049","Sessano del Molise",NA,NA,"A","D",NA,NA,NA,NA
+"8675","9963",NA,1929-06-04,"005817","Sessant",NA,NA,NA,NA,NA,NA,NA,"E"
+"8676","1514",NA,NA,"011028","Sesta Godano",NA,NA,"A","D",NA,NA,NA,NA
+"8677","5004",NA,NA,"051035","Sestino",NA,NA,NA,NA,NA,NA,NA,NA
+"8678","4135",1866-11-19,NA,"093043","Sesto al Reghena","N",NA,"A","D",NA,NA,NA,NA
+"8679","1638",NA,NA,"012120","Sesto Calende",NA,NA,"A",NA,"+",NA,NA,NA
+"8680","6502",NA,NA,"094050","Sesto Campano",NA,"C","A","D","+","-",NA,"E"
+"8681","2967",NA,NA,"019095","Sesto ed Uniti",NA,NA,NA,"D","+",NA,NA,NA
+"8682","4903",NA,NA,"048043","Sesto Fiorentino",NA,NA,NA,"D","+","-",NA,NA
+"8683","10380",NA,1869-02-11,"015952","Sesto Pergola",NA,NA,NA,"D",NA,NA,NA,"E"
+"8684","2191",NA,NA,"015209","Sesto San Giovanni",NA,NA,NA,NA,"+","-",NA,NA
+"8685","10381",NA,1869-03-01,"015953","Sesto Ulteriano",NA,NA,NA,NA,NA,NA,NA,"E"
+"8687","3149",1920-10-16,NA,"021092","Sesto/Sexten","N",NA,"A",NA,NA,NA,NA,NA
+"8686","4385",NA,NA,"036043","Sestola",NA,NA,NA,NA,NA,NA,NA,NA
+"8688","1478",NA,NA,"010059","Sestri Levante",NA,NA,NA,NA,NA,NA,NA,NA
+"8689","9675",NA,1926-02-06,"010826","Sestri Ponente",NA,NA,NA,NA,"+",NA,NA,"E"
+"8690","263",1934-11-23,NA,"001263","Sestriere",NA,"C",NA,"D","+","-",NA,NA
+"8691","7988",NA,NA,"092074","Sestu",NA,NA,NA,NA,NA,NA,"R",NA
+"8692","2192",NA,NA,"015210","Settala",NA,NA,NA,NA,"+",NA,NA,NA
+"8693","5513",NA,NA,"060072","Settefrati",NA,NA,"A",NA,"+","-",NA,NA
+"8694","1005",NA,NA,"005106","Settime",NA,NA,"A",NA,NA,NA,NA,NA
+"8695","2193",NA,NA,"015211","Settimo Milanese",NA,NA,NA,"D",NA,NA,NA,NA
+"8696","264",NA,NA,"001264","Settimo Rottaro",NA,"C","A",NA,"+",NA,NA,"E"
+"8697","7989",NA,NA,"092075","Settimo San Pietro",NA,"C",NA,"D","+",NA,"R","E"
+"8698","265",NA,NA,"001265","Settimo Torinese",NA,NA,NA,NA,"+",NA,NA,NA
+"8699","266",NA,NA,"001266","Settimo Vittone",NA,NA,"A","D","+","-",NA,NA
+"8700","7179",NA,NA,"079131","Settingiano",NA,NA,NA,NA,NA,NA,NA,NA
+"8701","7990",NA,NA,"106020","Setzu",NA,"C","A",NA,"+",NA,"R","E"
+"8702","7843",NA,NA,"105015","Seui",NA,NA,"A",NA,NA,NA,NA,NA
+"8703","7844",NA,NA,"092121","Seulo",NA,NA,"A",NA,NA,NA,NA,NA
+"8704","10045",NA,1868-02-09,"092808","Seuni",NA,NA,NA,NA,NA,NA,NA,"E"
+"8705","2194",NA,NA,"108040","Seveso",NA,NA,"A",NA,"+","-",NA,NA
+"8706","11168",1920-10-16,1928-09-09,"022918","Sevignano","N",NA,"A",NA,NA,NA,NA,"E"
+"8707","1180",NA,NA,"006161","Sezzadio",NA,NA,NA,"D","+","-",NA,NA
+"8708","5436",1871-01-15,NA,"059028","Sezze","N",NA,"A",NA,NA,"-",NA,NA
+"8709","10832",NA,1927-08-20,"016871","Sforzatica",NA,NA,NA,NA,NA,NA,NA,"E"
+"8710","3346",1920-10-16,NA,"022173","Sfruz","N",NA,"A",NA,"+",NA,NA,"E"
+"8711","4200",1921-01-05,NA,"032005","Sgonico","N",NA,"A",NA,NA,NA,NA,NA
+"8712","5514",1871-01-15,NA,"060073","Sgurgola","N",NA,"A",NA,NA,NA,NA,NA
+"8713","7991",NA,NA,"095056","Siamaggiore",NA,"C","A",NA,"+",NA,NA,"E"
+"8714","10198",NA,1928-05-04,"095809","Siamanna",NA,NA,NA,NA,NA,NA,NA,"E"
+"8715","7992",1947-12-13,NA,"095057","Siamanna",NA,"C","A","D","+","-",NA,NA
+"8716","6060",NA,NA,"065142","Siano",NA,NA,NA,NA,NA,NA,NA,NA
+"8717","8188",NA,NA,"095076","Siapiccia",NA,"C",NA,NA,"+",NA,NA,"E"
+"8718","10204",NA,1905-07-10,"092809","Sicci San Biagio",NA,NA,NA,"D",NA,NA,NA,"E"
+"8719","6061",NA,NA,"065143","Sicignano degli Alburni",NA,NA,NA,"D","+",NA,NA,NA
+"8720","7554",NA,NA,"084042","Siculiana",NA,NA,NA,NA,NA,NA,NA,NA
+"8721","7993",NA,NA,"106021","Siddi",NA,"C","A",NA,"+",NA,"R","E"
+"8722","7295",NA,NA,"080088","Siderno",NA,NA,NA,NA,NA,NA,NA,NA
+"8723","5040",NA,NA,"052032","Siena",NA,NA,NA,NA,"+",NA,NA,NA
+"8724","5119",NA,NA,"054049","Sigillo",NA,NA,NA,NA,NA,NA,NA,NA
+"8725","4904",NA,NA,"048044","Signa",NA,NA,NA,NA,"+",NA,NA,NA
+"8726","3150",1920-10-16,NA,"021093","Silandro/Schlanders","N",NA,"A",NA,"+",NA,NA,NA
+"8727","7845",NA,NA,"091083","Silanus",NA,NA,"A",NA,NA,NA,NA,NA
+"8728","3770",1866-11-19,NA,"026081","Silea","N",NA,NA,"D",NA,NA,NA,NA
+"8729","10199",NA,1927-11-08,"095810","Silì",NA,NA,NA,NA,NA,NA,NA,"E"
+"8730","7751",NA,NA,"090068","Siligo",NA,NA,NA,NA,NA,NA,NA,NA
+"8731","7994",NA,NA,"092078","Siliqua",NA,NA,NA,NA,NA,NA,"R",NA
+"8732","7995",NA,NA,"092079","Silius",NA,NA,NA,NA,NA,NA,"R",NA
+"8733","4833",NA,2015-01-01,"046029","Sillano",NA,NA,"A",NA,NA,NA,NA,"E"
+"8734","11577",2015-01-01,NA,"046037","Sillano Giuncugnano",NA,"C",NA,NA,"+",NA,NA,NA
+"8735","622",NA,NA,"003138","Sillavengo",NA,"C",NA,NA,"+",NA,NA,"E"
+"8736","1181",NA,NA,"006162","Silvano d'Orba",NA,NA,NA,NA,NA,NA,NA,NA
+"8737","2831",NA,NA,"018149","Silvano Pietra",NA,NA,NA,NA,"+","-",NA,NA
+"8738","10556",NA,1868-07-12,"019910","Silvella",NA,NA,NA,NA,NA,NA,NA,"E"
+"8739","6223",NA,NA,"067040","Silvi",NA,"C",NA,NA,"+",NA,NA,"E"
+"8740","7996",NA,NA,"095058","Simala",NA,"C","A",NA,"+",NA,NA,"E"
+"8741","7997",NA,NA,"095059","Simaxis",NA,NA,"A",NA,"+","-",NA,NA
+"8742","7180",NA,NA,"102038","Simbario",NA,NA,"A",NA,NA,NA,NA,NA
+"8743","7181",NA,NA,"079133","Simeri Crichi",NA,NA,NA,NA,NA,NA,NA,NA
+"8744","7502",NA,NA,"083095","Sinagra",NA,NA,NA,NA,NA,NA,NA,NA
+"8745","5041",NA,NA,"052033","Sinalunga",NA,NA,NA,"D",NA,NA,NA,NA
+"8746","7846",NA,NA,"091084","Sindia",NA,NA,"A",NA,NA,NA,NA,NA
+"8747","7998",NA,NA,"095060","Sini",NA,"C","A",NA,"+",NA,NA,"E"
+"8748","869",NA,NA,"004220","Sinio",NA,NA,NA,NA,NA,NA,NA,NA
+"8749","7847",NA,NA,"091085","Siniscola",NA,NA,"A",NA,NA,NA,NA,NA
+"8750","7999",NA,NA,"092080","Sinnai",NA,NA,NA,NA,"+","-","R",NA
+"8751","7296",NA,NA,"080089","Sinopoli",NA,NA,NA,NA,NA,NA,NA,NA
+"8752","7681",NA,NA,"089017","Siracusa",NA,NA,NA,NA,"+","-",NA,NA
+"8753","9486",NA,1867-08-26,"063811","Sirico",NA,NA,NA,NA,NA,NA,NA,"E"
+"8754","5898",NA,NA,"064100","Sirignano",NA,NA,NA,NA,NA,NA,NA,NA
+"8755","8149",NA,NA,"095061","Siris",NA,"C","A",NA,"+",NA,NA,"E"
+"8756","2656",NA,NA,"017179","Sirmione",NA,NA,NA,"D",NA,NA,NA,NA
+"8757","4656",NA,NA,"042048","Sirolo",NA,"C",NA,NA,"+",NA,NA,"E"
+"8758","1871",NA,NA,"097075","Sirone",NA,NA,"A",NA,NA,NA,NA,NA
+"8759","3347",1920-10-16,2016-01-01,"022174","Siror","N",NA,"A",NA,"+",NA,NA,"E"
+"8760","1872",NA,NA,"097076","Sirtori",NA,"C",NA,NA,"+",NA,NA,"E"
+"8761","10046",NA,1927-08-27,"092810","Sisini",NA,NA,NA,NA,NA,NA,NA,"E"
+"8762","4283",NA,2014-01-01,"034034","Sissa",NA,NA,NA,NA,"+","-",NA,"E"
+"8763","11563",2014-01-01,NA,"034049","Sissa Trecasali",NA,"C",NA,NA,"+",NA,NA,NA
+"8764","10047",NA,1927-09-15,"092811","Siurgus",NA,NA,NA,NA,NA,NA,NA,"E"
+"8765","8000",1927-09-15,NA,"092081","Siurgus Donigala",NA,"C",NA,NA,"+",NA,"R",NA
+"8766","10700",NA,1928-02-16,"017898","Siviano",NA,NA,NA,NA,NA,NA,NA,"E"
+"8767","2832",NA,NA,"018150","Siziano",NA,NA,NA,"D","+","-",NA,NA
+"8768","623",NA,NA,"003139","Sizzano",NA,NA,NA,NA,NA,NA,NA,NA
+"8769","11222",1921-01-05,1928-04-29,"031869","Slappe Zorzi","N",NA,"A","D",NA,NA,NA,"E"
+"8770","10972",1920-10-16,1928-01-26,"021896","Slingia/Schlinig","N",NA,"A","D",NA,NA,NA,"E"
+"8771","11228",1921-01-05,1928-09-09,"032805","Slivia","N",NA,"A","D",NA,NA,NA,"E"
+"8772","3151",1920-10-16,NA,"021094","Sluderno/Schluderns","N",NA,"A",NA,NA,NA,NA,NA
+"8773","3348",1920-10-16,2015-01-01,"022175","Smarano","N",NA,"A",NA,"+",NA,NA,"E"
+"8774","11408",1921-01-05,1924-10-31,"701809","Smeria","N",NA,"A",NA,NA,NA,NA,"E"
+"8775","4784",NA,NA,"109039","Smerillo",NA,"C","A",NA,"+",NA,NA,"E"
+"8776","3481",1866-11-19,NA,"023081","Soave","N",NA,NA,NA,NA,NA,NA,NA
+"8777","9525",NA,1926-07-04,"063812","Soccavo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8778","4136",1866-11-19,NA,"030110","Socchieve","N",NA,NA,NA,NA,NA,"R",NA
+"8779","8201",NA,NA,"095078","Soddì",NA,"C",NA,NA,"+",NA,NA,"E"
+"8780","4536",NA,NA,"040046","Sogliano al Rubicone",NA,NA,NA,"D",NA,"-",NA,NA
+"8781","6746",NA,NA,"075075","Sogliano Cavour",NA,NA,NA,"D","+","-",NA,NA
+"8782","1006",NA,NA,"005107","Soglio",NA,NA,"A",NA,NA,NA,NA,NA
+"8783","2657",NA,NA,"017180","Soiano del Lago",NA,"C",NA,NA,"+",NA,NA,"E"
+"8784","3599",1866-11-19,NA,"024101","Solagna","N",NA,NA,NA,NA,NA,NA,NA
+"8785","10200",NA,1928-02-09,"095811","Solanas",NA,NA,NA,NA,NA,NA,NA,"E"
+"8786","7682",NA,NA,"089018","Solarino",NA,NA,NA,NA,NA,NA,NA,NA
+"8787","2195",NA,NA,"015213","Solaro",NA,"C",NA,NA,"+",NA,NA,"E"
+"8788","4490",NA,NA,"039018","Solarolo",NA,NA,NA,NA,NA,NA,NA,NA
+"8789","10557",NA,1868-01-01,"019911","Solarolo del Persico",NA,NA,NA,NA,NA,NA,NA,"E"
+"8790","10558",NA,1868-07-13,"019912","Solarolo Monasterolo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8791","2968",NA,NA,"019096","Solarolo Rainerio",NA,"C",NA,NA,"+",NA,NA,"E"
+"8792","8001",NA,NA,"095062","Solarussa",NA,NA,"A",NA,"+","-",NA,NA
+"8793","1873",NA,NA,"013215","Solbiate",NA,NA,NA,NA,NA,NA,NA,NA
+"8794","1639",1905-04-24,NA,"012121","Solbiate Arno",NA,"C","A","D","+",NA,NA,NA
+"8795","1640",NA,NA,"012122","Solbiate Olona",NA,NA,"A",NA,"+",NA,NA,NA
+"8796","10039",NA,1869-03-11,"012891","Solbiate sull'Arno",NA,NA,NA,NA,NA,NA,NA,"E"
+"8797","9964",NA,1928-02-21,"005818","Solbrito",NA,NA,NA,NA,NA,NA,NA,"E"
+"8798","1341",NA,NA,"008058","Soldano",NA,"C",NA,NA,"+",NA,NA,"E"
+"8799","8002",NA,NA,"092082","Soleminis",NA,NA,NA,NA,NA,NA,"R",NA
+"8800","1182",NA,NA,"006163","Solero",NA,NA,NA,NA,"+",NA,NA,NA
+"8801","3914",1866-11-19,NA,"028087","Solesino","N",NA,NA,NA,NA,NA,NA,NA
+"8802","6747",NA,NA,"075076","Soleto",NA,NA,NA,NA,NA,NA,NA,NA
+"8803","3050",NA,NA,"020063","Solferino",NA,NA,"A",NA,NA,NA,NA,NA
+"8804","4386",NA,NA,"036044","Soliera",NA,NA,NA,NA,NA,NA,NA,NA
+"8805","4284",NA,NA,"034035","Solignano",NA,NA,NA,NA,NA,NA,NA,NA
+"8806","5899",NA,NA,"064101","Solofra",NA,NA,NA,NA,"+",NA,NA,NA
+"8807","9948",NA,1866-07-02,"003888","Sologno",NA,NA,NA,NA,NA,NA,NA,"E"
+"8808","9741",NA,1928-12-14,"001864","Solomiac",NA,NA,NA,NA,NA,NA,NA,"E"
+"8809","1183",NA,NA,"006164","Solonghello",NA,"C",NA,NA,"+",NA,NA,"E"
+"8810","5705",NA,NA,"062073","Solopaca",NA,NA,NA,NA,NA,"-",NA,NA
+"8811","10382",NA,1869-02-01,"015954","Soltarico",NA,NA,NA,NA,NA,NA,NA,"E"
+"8812","10833",NA,1928-03-07,"016872","Solto",NA,NA,NA,NA,NA,NA,NA,"E"
+"8813","2429",1928-03-07,NA,"016200","Solto Collina",NA,"C",NA,NA,"+","-",NA,NA
+"8814","8178",NA,NA,"016251","Solza",NA,"C",NA,NA,"+",NA,NA,"E"
+"8815","10426",NA,1928-09-23,"013942","Solzago",NA,NA,NA,NA,NA,NA,NA,"E"
+"8816","2196",NA,NA,"098054","Somaglia",NA,NA,"A",NA,"+","-",NA,NA
+"8817","10427",NA,1928-01-26,"013943","Somana",NA,NA,NA,NA,NA,NA,NA,"E"
+"8818","870",NA,NA,"004221","Somano",NA,NA,NA,NA,NA,NA,NA,NA
+"8819","10834",NA,1929-05-17,"016873","Sombreno",NA,NA,NA,"D",NA,NA,NA,"E"
+"8820","10835",NA,1928-03-27,"016874","Somendenna",NA,NA,NA,NA,NA,NA,NA,"E"
+"8821","1641",NA,NA,"012123","Somma Lombardo",NA,NA,"A","D","+",NA,NA,NA
+"8822","5788",NA,NA,"063079","Somma Vesuviana",NA,NA,NA,"D",NA,NA,NA,NA
+"8823","3482",1866-11-19,NA,"023082","Sommacampagna","N",NA,NA,NA,"+","-",NA,NA
+"8824","871",NA,NA,"004222","Sommariva del Bosco",NA,NA,NA,NA,"+",NA,NA,NA
+"8825","872",NA,NA,"004223","Sommariva Perno",NA,NA,NA,NA,NA,"-",NA,NA
+"8826","7574",NA,NA,"085019","Sommatino",NA,NA,NA,NA,NA,NA,NA,NA
+"8827","2833",NA,NA,"018151","Sommo",NA,NA,NA,NA,"+",NA,NA,NA
+"8828","3483",1866-11-19,NA,"023083","Sona","N",NA,NA,NA,"+","-",NA,NA
+"8829","2969",NA,NA,"019097","Soncino",NA,NA,NA,NA,NA,NA,NA,NA
+"8830","1964",NA,NA,"014060","Sondalo",NA,NA,NA,NA,NA,NA,NA,NA
+"8831","1965",NA,NA,"014061","Sondrio",NA,NA,NA,NA,NA,NA,NA,NA
+"8832","2430",NA,NA,"016201","Songavazzo",NA,NA,NA,NA,NA,NA,NA,NA
+"8833","2658",NA,NA,"017181","Sonico",NA,"C",NA,NA,"+",NA,NA,"E"
+"8834","5437",1871-01-15,NA,"059029","Sonnino","N",NA,"A",NA,NA,NA,NA,NA
+"8835","11321",1921-01-05,1947-09-16,"031728","Sonzia","N",NA,"A",NA,"+",NA,NA,"E"
+"8836","11169",1920-10-16,1926-11-19,"022919","Sopramonte","N",NA,"A",NA,NA,NA,NA,"E"
+"8837","453",NA,NA,"096062","Soprana",NA,NA,"A",NA,NA,NA,NA,NA
+"8838","10750",NA,1928-10-09,"017899","Sopraponte",NA,NA,NA,NA,NA,NA,NA,"E"
+"8839","10751",NA,1928-10-09,"017900","Soprazocco",NA,NA,NA,NA,NA,NA,NA,"E"
+"8840","5515",NA,NA,"060074","Sora",NA,NA,"A",NA,NA,NA,NA,NA
+"8841","3349",1920-10-16,NA,"022176","Soraga","N",NA,"A",NA,"+",NA,NA,"E"
+"8842","4285",NA,NA,"034036","Soragna",NA,NA,NA,NA,NA,NA,NA,NA
+"8843","5070",NA,NA,"053026","Sorano",NA,NA,NA,NA,NA,"-",NA,NA
+"8844","9705",NA,1965-01-17,"040804","Sorbano",NA,NA,"A",NA,NA,NA,NA,"E"
+"8845","7182",NA,NA,"079134","Sorbo San Basile",NA,NA,NA,"D",NA,NA,NA,NA
+"8846","5900",NA,NA,"064102","Sorbo Serpico",NA,"C",NA,"D","+",NA,NA,"E"
+"8847","4286",NA,NA,"034037","Sorbolo",NA,NA,NA,NA,NA,"-",NA,NA
+"8848","9603",NA,1928-06-30,"041821","Sorbolongo",NA,NA,NA,NA,NA,NA,NA,"E"
+"8849","454",NA,NA,"096063","Sordevolo",NA,NA,"A",NA,NA,NA,NA,NA
+"8850","2197",NA,NA,"098055","Sordio",NA,NA,"A",NA,NA,NA,NA,NA
+"8851","2970",NA,NA,"019098","Soresina",NA,NA,NA,NA,"+",NA,NA,NA
+"8852","3484",1866-11-19,NA,"023084","Sorgà","N",NA,NA,NA,NA,NA,NA,NA
+"8853","7848",NA,NA,"091086","Sorgono",NA,NA,"A",NA,NA,NA,NA,NA
+"8854","1479",NA,NA,"010060","Sori",NA,NA,NA,NA,"+",NA,NA,NA
+"8855","7183",NA,NA,"102039","Sorianello",NA,NA,"A",NA,NA,"-",NA,NA
+"8856","7184",NA,NA,"102040","Soriano Calabro",NA,NA,"A","D","+",NA,NA,NA
+"8857","5209",1871-01-15,NA,"056048","Soriano nel Cimino","N",NA,"A","D","+",NA,NA,NA
+"8858","1874",NA,NA,"013216","Sorico",NA,NA,NA,NA,"+",NA,NA,NA
+"8859","624",NA,NA,"003140","Soriso",NA,NA,NA,NA,NA,NA,NA,NA
+"8860","2431",NA,NA,"016202","Sorisole",NA,NA,NA,NA,NA,NA,NA,NA
+"8861","9981",NA,1928-10-30,"006821","Sorli",NA,NA,NA,NA,NA,NA,NA,"E"
+"8862","1875",NA,NA,"013217","Sormano",NA,"C",NA,NA,"+",NA,NA,"E"
+"8863","8003",NA,NA,"095063","Sorradile",NA,NA,"A",NA,"+","-",NA,NA
+"8864","5789",NA,NA,"063080","Sorrento",NA,NA,NA,NA,"+","-",NA,NA
+"8865","7752",NA,NA,"090069","Sorso",NA,NA,NA,NA,NA,NA,NA,NA
+"8866","7683",NA,NA,"089019","Sortino",NA,NA,NA,NA,NA,NA,NA,NA
+"8867","2971",NA,NA,"019099","Sospiro",NA,NA,NA,NA,"+",NA,NA,NA
+"8868","3676",1866-11-19,NA,"025056","Sospirolo","N",NA,NA,NA,NA,NA,NA,NA
+"8869","3600",1866-11-19,NA,"024102","Sossano","N",NA,NA,NA,NA,NA,NA,NA
+"8870","455",NA,NA,"096064","Sostegno",NA,NA,"A",NA,NA,NA,NA,NA
+"8871","2432",NA,NA,"016203","Sotto il Monte Giovanni XXIII",NA,NA,NA,"D",NA,NA,NA,NA
+"8872","9949",NA,1928-11-27,"003889","Sovazza",NA,NA,NA,NA,NA,NA,NA,"E"
+"8873","3350",1920-10-16,NA,"022177","Sover","N",NA,"A",NA,NA,NA,NA,NA
+"8874","7185",NA,NA,"079137","Soverato",NA,NA,NA,NA,NA,NA,NA,NA
+"8875","2433",NA,NA,"016204","Sovere",NA,NA,NA,NA,"+","-",NA,NA
+"8876","7186",NA,NA,"079138","Soveria Mannelli",NA,NA,NA,NA,"+",NA,NA,NA
+"8877","7187",NA,NA,"079139","Soveria Simeri",NA,NA,NA,NA,NA,"-",NA,NA
+"8878","3677",1866-11-19,NA,"025057","Soverzene","N",NA,NA,NA,NA,NA,NA,NA
+"8879","5042",NA,NA,"052034","Sovicille",NA,NA,NA,NA,NA,NA,NA,NA
+"8880","2198",NA,NA,"108041","Sovico",NA,NA,"A",NA,NA,NA,NA,NA
+"8881","3601",1866-11-19,NA,"024103","Sovizzo","N",NA,NA,NA,NA,NA,NA,NA
+"8882","3678",1866-11-19,NA,"025058","Sovramonte","N",NA,NA,"D",NA,NA,NA,NA
+"8883","625",NA,NA,"003141","Sozzago",NA,NA,NA,NA,NA,NA,NA,NA
+"8884","7503",1929-06-13,NA,"083096","Spadafora",NA,"C",NA,NA,"+","-",NA,NA
+"8885","9535",NA,1929-06-13,"083808","Spadafora San Martino",NA,NA,NA,NA,NA,NA,NA,"E"
+"8886","9530",NA,1879-08-29,"083809","Spadafora San Pietro",NA,NA,NA,NA,NA,NA,NA,"E"
+"8887","7188",NA,NA,"102041","Spadola",NA,NA,"A",NA,NA,NA,NA,NA
+"8888","5621",NA,NA,"061089","Sparanise",NA,NA,"A",NA,NA,NA,NA,NA
+"8889","267",NA,NA,"001267","Sparone",NA,NA,"A",NA,NA,NA,NA,NA
+"8890","6748",NA,NA,"075077","Specchia",NA,NA,NA,"D","+","-",NA,NA
+"8891","5120",NA,NA,"054050","Spello",NA,NA,NA,NA,NA,NA,NA,NA
+"8892","3351",1920-10-16,2016-01-01,"022178","Spera","N",NA,"A",NA,"+",NA,NA,"E"
+"8893","10924",1866-11-19,1877-02-15,"026808","Spercenigo","N",NA,NA,NA,NA,NA,NA,"E"
+"8894","7594",NA,NA,"086017","Sperlinga",NA,NA,"A",NA,NA,NA,NA,NA
+"8895","5438",NA,NA,"059030","Sperlonga",NA,NA,"A",NA,NA,NA,NA,NA
+"8896","5901",NA,NA,"064103","Sperone",NA,NA,NA,NA,NA,NA,NA,NA
+"8897","2834",NA,NA,"018152","Spessa",NA,NA,NA,NA,NA,NA,NA,NA
+"8898","7035",NA,NA,"078142","Spezzano Albanese",NA,NA,NA,NA,NA,NA,NA,NA
+"8899","7036",1928-05-19,NA,"078143","Spezzano della Sila",NA,"C",NA,NA,"+","-",NA,NA
+"8900","9458",NA,1928-05-19,"078804","Spezzano Grande",NA,NA,NA,NA,NA,NA,NA,"E"
+"8901","7037",NA,NA,"078144","Spezzano Piccolo",NA,"C",NA,NA,"+",NA,NA,"E"
+"8902","3352",1928-10-30,NA,"022179","Spiazzo",NA,"C",NA,NA,"+",NA,NA,NA
+"8903","1184",NA,NA,"006165","Spigno Monferrato",NA,NA,NA,"D","+","-",NA,NA
+"8904","5439",NA,NA,"059031","Spigno Saturnia",NA,NA,"A","D",NA,NA,NA,NA
+"8905","4387",NA,NA,"036045","Spilamberto",NA,NA,NA,NA,NA,NA,NA,NA
+"8906","4137",1866-11-19,NA,"093044","Spilimbergo","N",NA,"A",NA,"+","-",NA,NA
+"8907","7189",NA,NA,"102042","Spilinga",NA,NA,"A",NA,NA,NA,NA,NA
+"8908","2972",NA,NA,"019100","Spinadesco",NA,NA,NA,NA,NA,NA,NA,NA
+"8909","6617",NA,NA,"110008","Spinazzola",NA,NA,"A",NA,NA,NA,NA,NA
+"8910","3822",1866-11-19,NA,"027038","Spinea","N",NA,NA,NA,NA,NA,NA,NA
+"8911","2973",NA,NA,"019101","Spineda",NA,NA,NA,NA,NA,NA,NA,NA
+"8912","6503",NA,NA,"070076","Spinete",NA,NA,NA,NA,NA,NA,"R",NA
+"8913","1185",NA,NA,"006166","Spineto Scrivia",NA,NA,NA,"D","+","-",NA,NA
+"8914","4785",NA,NA,"044071","Spinetoli",NA,NA,NA,NA,"+",NA,NA,NA
+"8915","10998",1920-10-16,1929-05-30,"021897","Spinga/Spinges","N",NA,"A","D",NA,NA,NA,"E"
+"8916","10836",NA,1928-03-27,"016875","Spino al Brembo",NA,NA,NA,"D",NA,NA,NA,"E"
+"8917","2974",NA,NA,"019102","Spino d'Adda",NA,NA,NA,"D","+",NA,NA,NA
+"8918","10845",NA,1928-07-29,"016876","Spinone",NA,NA,NA,NA,NA,NA,NA,"E"
+"8919","2434",1928-07-29,NA,"016205","Spinone al Lago",NA,"C",NA,"D","+","-",NA,NA
+"8920","6851",NA,NA,"076086","Spinoso",NA,NA,NA,NA,NA,NA,NA,NA
+"8921","10807",NA,1872-11-01,"018868","Spirago",NA,NA,NA,NA,NA,NA,NA,"E"
+"8922","2435",NA,NA,"016206","Spirano",NA,NA,NA,NA,NA,NA,NA,NA
+"8923","9956",NA,1927-12-31,"003890","Spoccia",NA,NA,NA,NA,NA,NA,NA,"E"
+"8924","5121",NA,NA,"054051","Spoleto",NA,NA,NA,NA,"+","-",NA,NA
+"8925","6270",NA,NA,"068041","Spoltore",NA,"C","A",NA,"+",NA,NA,"E"
+"8926","6749",NA,NA,"075078","Spongano",NA,NA,NA,NA,NA,NA,NA,NA
+"8927","3353",1920-10-16,NA,"022180","Spormaggiore","N",NA,"A","D","+","-",NA,NA
+"8928","3354",1920-10-16,NA,"022181","Sporminore","N",NA,"A",NA,"+",NA,NA,"E"
+"8929","1407",NA,NA,"009057","Spotorno",NA,NA,"A",NA,NA,NA,NA,NA
+"8930","3771",1866-11-19,NA,"026082","Spresiano","N",NA,NA,NA,NA,NA,NA,NA
+"8931","1966",NA,NA,"014062","Spriana",NA,NA,NA,NA,NA,NA,NA,NA
+"8932","7190",NA,NA,"079142","Squillace",NA,NA,NA,NA,NA,NA,NA,NA
+"8933","6750",NA,NA,"075079","Squinzano",NA,NA,NA,NA,"+","-",NA,NA
+"8934","10858",NA,1928-03-27,"016877","Stabello",NA,NA,NA,NA,NA,NA,NA,"E"
+"8935","4657",NA,NA,"042049","Staffolo",NA,NA,NA,NA,"+","-",NA,NA
+"8936","10808",NA,1928-11-29,"018869","Staghiglione",NA,NA,NA,NA,NA,NA,NA,"E"
+"8937","9676",NA,1873-11-10,"010827","Staglieno",NA,NA,NA,NA,NA,NA,NA,"E"
+"8938","2975",NA,NA,"019103","Stagno Lombardo",NA,NA,NA,"D","+","-",NA,NA
+"8939","7297",NA,NA,"080090","Staiti",NA,NA,NA,NA,"+",NA,NA,NA
+"8940","7191",NA,NA,"079143","Stalettì",NA,NA,NA,NA,NA,NA,NA,NA
+"8941","3915",1866-11-19,NA,"028088","Stanghella","N",NA,NA,NA,NA,NA,NA,NA
+"8942","4193",1921-01-05,NA,"031023","Staranzano","N",NA,"A",NA,NA,NA,NA,NA
+"8943","8228",1993-05-01,NA,"073029","Statte",NA,"C",NA,NA,"+",NA,NA,NA
+"8944","10974",1920-10-16,1928-12-06,"021898","Stava/Staben","N",NA,"A","D",NA,NA,NA,"E"
+"8945","1186",NA,NA,"006167","Stazzano",NA,NA,NA,NA,"+",NA,NA,NA
+"8946","4834",NA,NA,"046030","Stazzema",NA,NA,NA,NA,"+",NA,NA,NA
+"8947","1876",NA,NA,"013218","Stazzona",NA,"C",NA,NA,"+",NA,NA,"E"
+"8948","11472",1928-04-17,1954-06-30,"013944","Stazzona Germasino",NA,"C",NA,NA,"+",NA,NA,"E"
+"8949","7192",NA,NA,"102043","Stefanaconi",NA,NA,"A",NA,NA,NA,NA,NA
+"8950","1408",NA,NA,"009058","Stella",NA,NA,"A",NA,NA,"-",NA,NA
+"8951","6062",NA,NA,"065144","Stella Cilento",NA,NA,NA,"D",NA,NA,NA,NA
+"8952","1409",NA,NA,"009059","Stellanello",NA,NA,"A",NA,NA,NA,NA,NA
+"8953","3152",1920-10-16,NA,"021095","Stelvio/Stilfs","N",NA,"A",NA,"+",NA,NA,"E"
+"8954","3355",1920-10-16,NA,"022182","Stenico","N",NA,"A",NA,"+",NA,NA,NA
+"8955","6751",NA,NA,"075080","Sternatia",NA,NA,NA,NA,NA,NA,NA,NA
+"8956","2436",NA,NA,"016207","Stezzano",NA,NA,NA,NA,NA,"-",NA,NA
+"8957","5005",NA,2014-01-01,"051036","Stia",NA,"C",NA,NA,"+",NA,NA,"E"
+"8958","3977",1866-11-19,NA,"029045","Stienta","N",NA,NA,NA,NA,NA,NA,NA
+"8959","6890",NA,NA,"077027","Stigliano",NA,NA,"A",NA,NA,NA,NA,NA
+"8960","7298",NA,NA,"080091","Stignano",NA,NA,NA,NA,NA,NA,NA,NA
+"8961","7299",NA,NA,"080092","Stilo",NA,NA,NA,NA,NA,NA,NA,NA
+"8962","10559",NA,1868-06-12,"019913","Stilo de' Mariani",NA,NA,NA,NA,NA,NA,NA,"E"
+"8963","10964",1920-10-16,1928-12-09,"021899","Stilves/Stilfes","N",NA,"A",NA,NA,NA,NA,"E"
+"8964","5287",NA,NA,"057066","Stimigliano",NA,NA,"A",NA,NA,NA,NA,NA
+"8965","8221",1988-08-06,NA,"090089","Stintino",NA,"C",NA,NA,"+",NA,NA,NA
+"8966","6063",NA,NA,"065145","Stio",NA,NA,NA,NA,NA,NA,NA,NA
+"8967","11338",1921-01-05,1927-06-09,"032816","Storie","N",NA,"A",NA,NA,NA,NA,"E"
+"8968","6567",1905-07-10,NA,"071054","Stornara",NA,"C",NA,NA,"+",NA,NA,NA
+"8969","6568",NA,NA,"071055","Stornarella",NA,NA,NA,NA,NA,"-",NA,NA
+"8970","3356",1920-10-16,NA,"022183","Storo","N",NA,"A",NA,"+","-",NA,NA
+"8971","3823",1866-11-19,NA,"027039","Stra","N",NA,NA,NA,NA,NA,NA,NA
+"8972","11170",1920-10-16,1928-03-07,"022920","Strada","N",NA,"A",NA,NA,NA,NA,"E"
+"8973","2835",NA,NA,"018153","Stradella",NA,NA,NA,NA,NA,NA,NA,NA
+"8974","268",NA,NA,"001268","Strambinello",NA,"C","A",NA,"+",NA,NA,"E"
+"8975","269",NA,NA,"001269","Strambino",NA,"C","A",NA,"+",NA,NA,"E"
+"8976","11486",1928-06-15,1946-12-24,"001865","Strambino Romano",NA,"C","A",NA,"+",NA,NA,"E"
+"8977","11171",1920-10-16,1925-03-18,"022921","Stramentizzo","N",NA,"A",NA,NA,NA,NA,"E"
+"8978","5516",1871-01-15,NA,"060075","Strangolagalli","N",NA,"A",NA,NA,NA,NA,NA
+"8979","4138",1866-11-19,NA,"030111","Stregna","N",NA,NA,NA,NA,NA,"R",NA
+"8980","3357",1920-10-16,NA,"022184","Strembo","N",NA,"A",NA,"+","-",NA,NA
+"8981","626",NA,NA,"103064","Stresa",NA,NA,"A","D","+",NA,NA,NA
+"8982","1187",NA,NA,"006168","Strevi",NA,NA,NA,NA,NA,NA,NA,NA
+"8983","5790",NA,NA,"063081","Striano",NA,NA,"A",NA,NA,NA,NA,NA
+"8984","3358",1920-10-16,2016-01-01,"022185","Strigno","N",NA,"A",NA,"+","-",NA,"E"
+"8985","456",NA,NA,"096065","Strona",NA,NA,"A",NA,NA,NA,NA,NA
+"8986","5160",NA,NA,"055031","Stroncone",NA,"C","A",NA,"+",NA,NA,"E"
+"8987","7193",NA,NA,"101025","Strongoli",NA,NA,"A",NA,NA,NA,NA,NA
+"8988","9957",NA,1928-09-25,"003891","Stropino",NA,NA,NA,NA,NA,NA,NA,"E"
+"8989","457",NA,NA,"002142","Stroppiana",NA,NA,"A",NA,NA,NA,NA,NA
+"8990","873",NA,NA,"004224","Stroppo",NA,NA,NA,NA,NA,NA,NA,NA
+"8991","2437",NA,NA,"016208","Strozza",NA,NA,NA,NA,NA,NA,NA,NA
+"8992","9677",NA,1926-02-06,"010828","Struppa",NA,NA,NA,NA,NA,NA,NA,"E"
+"8993","11050",1920-10-16,1928-04-03,"022922","Stumiaga","N",NA,"A",NA,NA,NA,NA,"E"
+"8994","11224",1921-01-05,1928-07-28,"031870","Sturia delle Fusine","N",NA,"A","D",NA,NA,NA,"E"
+"8995","5902",NA,NA,"064104","Sturno",NA,NA,NA,NA,NA,NA,NA,NA
+"8996","2836",NA,NA,"018154","Suardi",NA,NA,NA,"D",NA,NA,NA,NA
+"8997","5006",NA,NA,"051037","Subbiano",NA,NA,NA,NA,NA,NA,NA,NA
+"8998","5397",1871-01-15,NA,"058103","Subiaco","N",NA,NA,NA,NA,NA,NA,NA
+"8999","5622",NA,NA,"061090","Succivo",NA,"C","A",NA,"+",NA,NA,"E"
+"9000","1877",NA,NA,"097077","Sueglio",NA,NA,"A",NA,NA,NA,NA,NA
+"9001","8004",NA,NA,"092083","Suelli",NA,"C",NA,NA,"+",NA,"R","E"
+"9002","1878",NA,NA,"097078","Suello",NA,"C",NA,NA,"+",NA,NA,"E"
+"9003","2438",NA,NA,"016209","Suisio",NA,NA,NA,NA,NA,NA,NA,NA
+"9004","2199",1909-07-04,NA,"108042","Sulbiate",NA,"C","A",NA,"+",NA,NA,NA
+"9005","10383",NA,1869-02-11,"015955","Sulbiate Inferiore",NA,NA,NA,NA,NA,NA,NA,"E"
+"9006","10384",NA,1869-02-11,"015956","Sulbiate Superiore",NA,NA,NA,NA,NA,NA,NA,"E"
+"9007","6173",NA,NA,"066098","Sulmona",NA,NA,NA,"D",NA,NA,NA,NA
+"9008","2659",NA,NA,"017182","Sulzano",NA,"C",NA,NA,"+",NA,NA,"E"
+"9009","1642",NA,NA,"012124","Sumirago",NA,NA,"A",NA,"+",NA,NA,NA
+"9010","5903",NA,NA,"064105","Summonte",NA,NA,NA,NA,NA,NA,NA,NA
+"9011","9958",NA,1927-11-02,"003892","Suna",NA,NA,NA,NA,NA,NA,NA,"E"
+"9012","7849",NA,NA,"095087","Suni",NA,NA,"A",NA,"+","-",NA,NA
+"9013","627",NA,NA,"003143","Suno",NA,NA,NA,NA,NA,NA,NA,NA
+"9014","6752",NA,NA,"075081","Supersano",NA,NA,NA,NA,"+","-",NA,NA
+"9015","5517",1871-01-15,NA,"060076","Supino","N",NA,"A",NA,NA,NA,NA,NA
+"9016","6753",NA,NA,"075082","Surano",NA,NA,NA,NA,NA,NA,NA,NA
+"9017","6754",NA,NA,"075083","Surbo",NA,NA,NA,NA,NA,NA,NA,NA
+"9018","270",NA,NA,"001270","Susa",NA,NA,NA,NA,NA,NA,NA,NA
+"9019","11172",1920-10-16,1929-01-25,"022923","Susà","N",NA,"A",NA,NA,NA,NA,"E"
+"9020","3772",1866-11-19,NA,"026083","Susegana","N",NA,NA,NA,"+",NA,NA,NA
+"9021","3051",1866-11-19,NA,"020064","Sustinente","N",NA,NA,NA,NA,NA,NA,NA
+"9022","7575",NA,NA,"085020","Sutera",NA,NA,NA,NA,NA,"-",NA,NA
+"9023","5210",1871-01-15,NA,"056049","Sutri","N",NA,"A",NA,NA,NA,NA,NA
+"9024","4139",1866-11-19,NA,"030112","Sutrio","N",NA,NA,NA,NA,NA,"R",NA
+"9025","4930",NA,NA,"049020","Suvereto",NA,NA,"A",NA,NA,NA,NA,NA
+"9026","3052",1866-11-19,NA,"020065","Suzzara","N",NA,NA,NA,NA,NA,NA,NA
+"9027","11085",1920-10-16,1928-12-06,"021900","Tablà/Tabland","N",NA,"A",NA,NA,NA,NA,"E"
+"9028","1879",NA,NA,"097079","Taceno",NA,NA,"A",NA,NA,NA,NA,NA
+"9029","8005",NA,NA,"095064","Tadasuni",NA,"C","A",NA,"+",NA,NA,"E"
+"9030","1342",NA,NA,"008059","Taggia",NA,NA,NA,NA,NA,NA,NA,NA
+"9031","6174",NA,NA,"066099","Tagliacozzo",NA,NA,NA,NA,"+","-",NA,NA
+"9032","3978",1866-11-19,NA,"029046","Taglio di Po","N",NA,NA,NA,"+","-",NA,NA
+"9033","11455",1928-01-29,1947-06-23,"006822","Tagliolo Belforte",NA,"C",NA,NA,"+",NA,NA,"E"
+"9034","1188",NA,NA,"006169","Tagliolo Monferrato",NA,"C",NA,"D","+",NA,NA,"E"
+"9035","10846",NA,1927-08-05,"016878","Tagliuno",NA,NA,NA,NA,NA,NA,NA,"E"
+"9036","3679",1866-11-19,NA,"025059","Taibon Agordino","N",NA,NA,"D",NA,NA,NA,NA
+"9037","10385",NA,1870-08-02,"015957","Tainate",NA,NA,NA,NA,NA,NA,NA,"E"
+"9038","1643",NA,NA,"012125","Taino",NA,NA,"A",NA,NA,NA,NA,NA
+"9039","3359",1920-10-16,2015-01-01,"022186","Taio","N",NA,"A",NA,"+",NA,NA,"E"
+"9040","4140",1866-11-19,NA,"030113","Taipana","N",NA,NA,"D",NA,NA,"R",NA
+"9041","4604",NA,NA,"099027","Talamello",NA,"C","A",NA,"+","-",NA,"E"
+"9042","1967",NA,NA,"014063","Talamona",NA,NA,NA,NA,NA,NA,NA,NA
+"9043","7850",NA,NA,"105016","Talana",NA,NA,"A",NA,NA,NA,NA,NA
+"9044","2439",NA,NA,"016210","Taleggio",NA,NA,NA,NA,NA,NA,NA,NA
+"9045","5007",NA,NA,"051038","Talla",NA,NA,NA,NA,NA,NA,NA,NA
+"9046","4141",1866-11-19,NA,"030114","Talmassons","N",NA,NA,NA,NA,NA,"R",NA
+"9047","3680",1866-11-19,NA,"025060","Tambre","N",NA,NA,NA,NA,NA,NA,NA
+"9048","11027",1920-10-16,1929-05-14,"021901","Tanas/Tannas","N",NA,"A",NA,NA,NA,NA,"E"
+"9049","7504",NA,NA,"083097","Taormina",NA,NA,NA,NA,"+","-",NA,NA
+"9050","9959",NA,1928-05-03,"003893","Tapigliano",NA,NA,NA,NA,NA,NA,NA,"E"
+"9051","4142",1921-01-05,2009-01-01,"030115","Tapogliano","N",NA,"A",NA,"+",NA,"R","E"
+"9052","9960",NA,1928-07-29,"003894","Tappia",NA,NA,NA,NA,NA,NA,NA,"E"
+"9053","5288",NA,NA,"057067","Tarano",NA,NA,"A",NA,"+",NA,NA,NA
+"9054","6364",NA,NA,"069089","Taranta Peligna",NA,NA,NA,"D",NA,NA,NA,NA
+"9055","874",NA,NA,"004225","Tarantasca",NA,NA,NA,NA,NA,NA,NA,NA
+"9056","6650",NA,NA,"073027","Taranto",NA,NA,"A",NA,"+","-",NA,NA
+"9057","4143",1866-11-19,NA,"030116","Tarcento","N",NA,NA,NA,"+","-","R",NA
+"9058","11088",1920-10-16,1928-01-26,"021902","Tarces/Tartsch","N",NA,"A","D",NA,NA,NA,"E"
+"9059","10931",1866-11-19,1929-01-24,"030820","Tarcetta","N",NA,NA,NA,NA,NA,NA,"E"
+"9060","11329",1921-01-05,1947-09-16,"031729","Tarnova della Selva","N",NA,"A","D",NA,NA,NA,"E"
+"9061","5211",1871-01-15,NA,"056050","Tarquinia","N",NA,"A","D",NA,NA,NA,NA
+"9062","11007",1920-10-16,1928-12-09,"021903","Tarres/Tarsch","N",NA,"A","D",NA,NA,NA,"E"
+"9063","7038",NA,NA,"078145","Tarsia",NA,NA,NA,NA,NA,NA,NA,NA
+"9064","1968",NA,NA,"014064","Tartano",NA,NA,NA,NA,NA,NA,NA,NA
+"9065","4144",1921-01-05,NA,"030117","Tarvisio","N",NA,"A",NA,"+",NA,"R",NA
+"9066","3773",1866-11-19,NA,"026084","Tarzo","N",NA,NA,NA,NA,NA,NA,NA
+"9067","1189",NA,NA,"006170","Tassarolo",NA,NA,NA,NA,NA,NA,NA,NA
+"9068","3360",1920-10-16,2016-01-01,"022187","Tassullo","N",NA,"A",NA,"+","-",NA,"E"
+"9069","5904",NA,NA,"064106","Taurano",NA,"C",NA,NA,"+",NA,NA,"E"
+"9070","5905",NA,NA,"064107","Taurasi",NA,NA,NA,NA,NA,NA,NA,NA
+"9071","7300",1928-03-27,NA,"080093","Taurianova",NA,"C",NA,NA,"+","-",NA,NA
+"9072","6755",NA,NA,"075084","Taurisano",NA,NA,NA,NA,NA,NA,NA,NA
+"9073","4145",1866-11-19,NA,"030118","Tavagnacco","N",NA,NA,NA,"+","-","R",NA
+"9074","271",NA,NA,"001271","Tavagnasco",NA,"C","A",NA,"+",NA,NA,"E"
+"9075","4905",1893-01-02,NA,"048045","Tavarnelle Val di Pesa",NA,"C",NA,"D","+",NA,NA,NA
+"9076","10386",NA,1869-02-08,"015958","Tavazzano",NA,NA,NA,NA,NA,NA,NA,"E"
+"9077","2222",NA,NA,"098056","Tavazzano con Villavesco",NA,NA,"A","D","+",NA,NA,NA
+"9078","6504",NA,NA,"070077","Tavenna",NA,NA,NA,NA,NA,NA,"R",NA
+"9079","7194",NA,NA,"079146","Taverna",NA,NA,NA,NA,NA,NA,NA,NA
+"9080","1880",NA,NA,"013222","Tavernerio",NA,NA,NA,NA,"+",NA,NA,NA
+"9081","9742",NA,1928-05-23,"001866","Tavernette",NA,NA,NA,"D",NA,NA,NA,"E"
+"9082","2440",NA,NA,"016211","Tavernola Bergamasca",NA,NA,NA,"D",NA,NA,NA,NA
+"9083","9494",NA,1927-08-06,"064808","Tavernola San Felice",NA,NA,NA,"D","+",NA,NA,"E"
+"9084","2660",NA,NA,"017183","Tavernole sul Mella",NA,NA,NA,"D","+","-",NA,NA
+"9085","6756",NA,NA,"075085","Taviano",NA,NA,NA,NA,"+","-",NA,NA
+"9086","458",NA,NA,"096066","Tavigliano",NA,"C","A",NA,"+",NA,NA,"E"
+"9087","11173",1920-10-16,1928-01-26,"022924","Tavodo","N",NA,"A",NA,NA,NA,NA,"E"
+"9088","9709",NA,1928-04-17,"008835","Tavole",NA,NA,NA,NA,NA,NA,NA,"E"
+"9089","4605",NA,NA,"041064","Tavoleto",NA,NA,NA,NA,NA,NA,NA,NA
+"9090","11174",1920-10-16,1929-01-24,"022925","Tavon","N",NA,"A",NA,NA,NA,NA,"E"
+"9091","10454",NA,1928-03-07,"013945","Tavordo",NA,NA,NA,NA,NA,NA,NA,"E"
+"9092","4606",NA,NA,"041065","Tavullia",NA,NA,NA,"D",NA,NA,NA,NA
+"9093","6852",NA,NA,"076087","Teana",NA,"C",NA,NA,"+",NA,NA,"E"
+"9094","5623",NA,NA,"061091","Teano",NA,NA,"A",NA,NA,NA,NA,NA
+"9095","6064",NA,NA,"065146","Teggiano",NA,NA,NA,"D",NA,NA,NA,NA
+"9096","1969",NA,NA,"014065","Teglio",NA,NA,NA,NA,NA,"-",NA,NA
+"9097","3824",1866-11-19,NA,"027040","Teglio Veneto","N",NA,NA,"D",NA,NA,NA,NA
+"9098","5706",1934-02-13,NA,"062074","Telese Terme",NA,"C",NA,"D","+",NA,NA,NA
+"9099","2441",NA,NA,"016212","Telgate",NA,NA,NA,NA,NA,NA,NA,NA
+"9100","8159",1963-09-27,NA,"104024","Telti",NA,"C","A",NA,"+",NA,NA,NA
+"9101","3361",1920-10-16,NA,"022188","Telve","N",NA,"A",NA,"+","-",NA,"E"
+"9102","3362",1920-10-16,NA,"022189","Telve di Sopra","N",NA,"A",NA,"+",NA,NA,"E"
+"9103","11011",1920-10-16,1928-04-12,"021904","Telves/Telfes","N",NA,"A",NA,NA,NA,NA,"E"
+"9104","11319",1921-01-05,1947-09-16,"031730","Temenizza","N",NA,"A","D","+",NA,NA,"E"
+"9105","7753",NA,NA,"104025","Tempio Pausania",NA,NA,"A",NA,"+","-",NA,NA
+"9106","2661",NA,NA,"017184","Temù",NA,NA,NA,NA,"+",NA,NA,NA
+"9107","9833",NA,1947-09-16,"004820","Tenda",NA,NA,NA,NA,NA,"-",NA,"E"
+"9108","3363",1920-10-16,NA,"022190","Tenna","N",NA,"A",NA,NA,NA,NA,NA
+"9109","3364",1920-10-16,NA,"022191","Tenno","N",NA,"A",NA,"+",NA,NA,NA
+"9110","11045",1920-10-16,1928-04-04,"021905","Teodone/Dietenheim","N",NA,"A","D",NA,NA,NA,"E"
+"9111","9706",NA,1925-11-01,"040805","Teodorano",NA,NA,NA,NA,NA,NA,NA,"E"
+"9112","3916",1866-11-19,NA,"028089","Teolo","N",NA,NA,NA,NA,NA,NA,NA
+"9113","4146",1866-11-19,2014-01-01,"030119","Teor","N",NA,NA,NA,NA,NA,"R","E"
+"9114","5906",NA,NA,"064108","Teora",NA,NA,NA,NA,NA,NA,NA,NA
+"9115","6224",NA,NA,"067041","Teramo",NA,NA,NA,NA,"+",NA,NA,NA
+"9116","628",NA,NA,"003144","Terdobbiate",NA,NA,NA,NA,"+",NA,NA,NA
+"9117","5518",NA,NA,"060077","Terelle",NA,NA,"A",NA,NA,NA,NA,NA
+"9118","3153",1920-10-16,NA,"021096","Terento/Terenten","N",NA,"A",NA,"+",NA,NA,NA
+"9119","4287",NA,NA,"034038","Terenzo",NA,NA,NA,"D",NA,NA,NA,NA
+"9120","8208",1980-07-11,NA,"090086","Tergu",NA,"C",NA,NA,"+",NA,NA,NA
+"9121","3365",1920-10-16,2016-01-01,"022192","Terlago","N",NA,"A",NA,"+","-",NA,"E"
+"9122","3154",1920-10-16,NA,"021097","Terlano/Terlan","N",NA,"A",NA,NA,NA,NA,NA
+"9123","6618",NA,NA,"072043","Terlizzi",NA,NA,NA,NA,NA,NA,NA,NA
+"9124","8167",1966-07-17,NA,"083106","Terme Vigliatore",NA,"C",NA,NA,"+",NA,NA,NA
+"9125","11175",1920-10-16,1928-09-09,"022926","Termenago","N",NA,"A",NA,NA,NA,NA,"E"
+"9126","3155",1920-10-16,NA,"021098","Termeno sulla strada del vino/Tramin an der Weinstraße","N",NA,"A","D","+","-",NA,NA
+"9127","7396",NA,NA,"082070","Termini Imerese",NA,NA,NA,"D","+","-",NA,NA
+"9128","6505",NA,NA,"070078","Termoli",NA,NA,NA,NA,"+","-","R",NA
+"9129","11176",1920-10-16,1928-10-30,"022927","Termon","N",NA,"A",NA,NA,NA,NA,"E"
+"9130","1644",NA,NA,"012126","Ternate",NA,NA,"A",NA,NA,NA,NA,NA
+"9131","459",NA,NA,"096067","Ternengo",NA,NA,"A",NA,NA,NA,NA,NA
+"9132","5161",NA,NA,"055032","Terni",NA,NA,"A",NA,"+","-",NA,NA
+"9133","2442",NA,NA,"016213","Terno d'Isola",NA,NA,NA,"D",NA,NA,NA,NA
+"9134","11226",1921-01-05,1928-05-02,"031871","Ternova d'Isonzo","N",NA,"A",NA,NA,NA,NA,"E"
+"9135","5440",1871-01-15,NA,"059032","Terracina","N",NA,"A",NA,"+","-",NA,NA
+"9136","3366",1920-10-16,NA,"022193","Terragnolo","N",NA,"A",NA,NA,NA,NA,NA
+"9137","8006",NA,NA,"095065","Terralba",NA,NA,"A",NA,"+","-",NA,NA
+"9138","7039",NA,NA,"078146","Terranova da Sibari",NA,NA,NA,"D",NA,NA,NA,NA
+"9139","2200",NA,NA,"098057","Terranova dei Passerini",NA,NA,"A","D",NA,NA,NA,NA
+"9140","6853",NA,NA,"076088","Terranova di Pollino",NA,NA,NA,"D",NA,NA,NA,NA
+"9141","7301",NA,NA,"080094","Terranova Sappo Minulio",NA,"C",NA,"D","+",NA,NA,"E"
+"9142","5008",NA,NA,"051039","Terranuova Bracciolini",NA,NA,NA,"D","+",NA,NA,NA
+"9143","9475",NA,1869-04-01,"045803","Terrarossa",NA,NA,NA,NA,NA,NA,NA,"E"
+"9144","10809",NA,1928-11-29,"018870","Terrasa",NA,NA,NA,NA,NA,NA,NA,"E"
+"9145","7397",NA,NA,"082071","Terrasini",NA,NA,NA,NA,NA,NA,NA,NA
+"9146","3917",1866-11-19,NA,"028090","Terrassa Padovana","N",NA,NA,"D",NA,NA,NA,NA
+"9147","9459",NA,1928-01-18,"078805","Terrati",NA,NA,NA,NA,NA,NA,NA,"E"
+"9148","7040",1921-05-12,NA,"078147","Terravecchia",NA,"C",NA,NA,"+",NA,NA,NA
+"9149","10296",NA,1928-06-27,"015959","Terrazzano",NA,NA,NA,NA,NA,NA,NA,"E"
+"9150","3485",1866-11-19,NA,"023085","Terrazzo","N",NA,NA,NA,NA,NA,NA,NA
+"9151","3367",1920-10-16,2016-01-01,"022194","Terres","N",NA,"A",NA,"+",NA,NA,"E"
+"9152","4966",NA,NA,"050036","Terricciola",NA,NA,NA,NA,NA,NA,NA,NA
+"9153","1190",NA,NA,"006171","Terruggia",NA,NA,NA,NA,NA,NA,NA,NA
+"9154","7851",NA,NA,"105017","Tertenia",NA,NA,"A",NA,NA,NA,NA,NA
+"9155","10837",NA,1928-05-12,"017901","Terzano",NA,NA,NA,NA,NA,NA,NA,"E"
+"9156","5791",1913-07-13,NA,"063082","Terzigno",NA,"C",NA,NA,"+",NA,NA,NA
+"9157","1191",NA,NA,"006172","Terzo",NA,"C",NA,NA,"+",NA,NA,"E"
+"9158","4147",1921-01-05,NA,"030120","Terzo d'Aquileia","N",NA,"A",NA,"+",NA,"R","E"
+"9159","3368",1920-10-16,NA,"022195","Terzolas","N",NA,"A",NA,"+",NA,NA,"E"
+"9160","1343",NA,NA,"008060","Terzorio",NA,"C",NA,NA,"+",NA,NA,"E"
+"9161","3369",1920-10-16,NA,"022196","Tesero","N",NA,"A",NA,"+","-",NA,NA
+"9162","11086",1920-10-16,1929-05-14,"021906","Tesido/Taisten","N",NA,"A",NA,NA,NA,NA,"E"
+"9163","3156",1920-10-16,NA,"021099","Tesimo/Tisens","N",NA,"A",NA,NA,"-",NA,NA
+"9164","5212",1871-01-15,NA,"056051","Tessennano","N",NA,"A",NA,NA,NA,NA,NA
+"9165","9487",NA,1873-06-23,"063813","Testaccio d'Ischia",NA,NA,NA,"D",NA,NA,NA,"E"
+"9166","1410",NA,NA,"009060","Testico",NA,NA,"A",NA,"+",NA,NA,NA
+"9167","7852",NA,NA,"091090","Teti",NA,NA,"A",NA,NA,NA,NA,NA
+"9168","8007",NA,NA,"092084","Teulada",NA,NA,NA,NA,NA,NA,"R",NA
+"9169","5624",NA,NA,"061092","Teverola",NA,"C","A",NA,"+",NA,NA,"E"
+"9170","3602",1866-11-19,NA,"024104","Tezze sul Brenta","N",NA,NA,"D",NA,NA,NA,NA
+"9171","3603",1866-11-19,NA,"024105","Thiene","N",NA,NA,NA,"+",NA,NA,NA
+"9172","7754",NA,NA,"090071","Thiesi",NA,NA,NA,NA,NA,NA,NA,NA
+"9173","9707",NA,1928-12-14,"001867","Thures",NA,NA,NA,NA,NA,NA,NA,"E"
+"9174","7853",NA,NA,"091091","Tiana",NA,NA,"A",NA,NA,NA,NA,NA
+"9175","11460",1928-02-23,1947-07-09,"022928","Tiarno",NA,"C",NA,NA,"+",NA,NA,"E"
+"9176","3370",1920-10-16,2010-01-01,"022197","Tiarno di Sopra","N",NA,"A",NA,"+",NA,NA,"E"
+"9177","3371",1920-10-16,2010-01-01,"022198","Tiarno di Sotto","N",NA,"A",NA,"+",NA,NA,"E"
+"9178","2976",NA,NA,"019104","Ticengo",NA,NA,NA,NA,NA,NA,NA,NA
+"9179","1192",NA,NA,"006173","Ticineto",NA,NA,NA,NA,NA,NA,NA,NA
+"9180","6757",NA,NA,"075086","Tiggiano",NA,NA,NA,NA,NA,NA,NA,NA
+"9181","1480",NA,NA,"010061","Tiglieto",NA,NA,"A",NA,NA,NA,NA,NA
+"9182","1007",NA,NA,"005108","Tigliole",NA,NA,"A",NA,"+","-",NA,NA
+"9183","2662",NA,NA,"017185","Tignale",NA,NA,NA,NA,NA,"-",NA,NA
+"9184","10838",NA,1928-07-29,"017902","Timoline",NA,NA,NA,NA,NA,NA,NA,"E"
+"9185","9708",NA,1928-03-07,"001868","Tina",NA,NA,"A",NA,NA,NA,NA,"E"
+"9186","7854",NA,NA,"095088","Tinnura",NA,"C","A",NA,"+",NA,NA,"E"
+"9187","6175",NA,NA,"066100","Tione degli Abruzzi",NA,NA,NA,"D","+",NA,NA,NA
+"9188","3372",1920-10-16,NA,"022199","Tione di Trento","N",NA,"A","D","+","-",NA,NA
+"9189","1970",NA,NA,"014066","Tirano",NA,NA,NA,NA,NA,"-",NA,NA
+"9190","3157",1920-10-16,NA,"021100","Tires/Tiers","N",NA,"A",NA,NA,NA,NA,NA
+"9191","7195",NA,NA,"079147","Tiriolo",NA,NA,NA,NA,NA,NA,NA,NA
+"9192","3158",1920-10-16,NA,"021101","Tirolo/Tirol","N",NA,"A",NA,NA,NA,NA,NA
+"9193","11089",1920-10-16,1929-04-11,"021907","Tiso/Teis","N",NA,"A","D",NA,NA,NA,"E"
+"9194","7755",NA,NA,"090072","Tissi",NA,NA,NA,NA,NA,NA,NA,NA
+"9195","6854",NA,NA,"076089","Tito",NA,NA,NA,NA,NA,NA,NA,NA
+"9196","5398",1871-01-15,NA,"058104","Tivoli","N",NA,NA,NA,NA,"-",NA,NA
+"9197","4288",NA,NA,"034039","Tizzano Val Parma",NA,NA,NA,"D",NA,NA,NA,NA
+"9198","4338",NA,NA,"035041","Toano",NA,NA,NA,NA,"+","-",NA,NA
+"9199","5707",NA,NA,"062075","Tocco Caudio",NA,NA,NA,"D",NA,NA,NA,NA
+"9200","6271",NA,NA,"068042","Tocco da Casauria",NA,NA,"A","D",NA,NA,NA,NA
+"9201","629",NA,NA,"103065","Toceno",NA,"C",NA,NA,"+",NA,NA,"E"
+"9202","5122",NA,NA,"054052","Todi",NA,NA,NA,NA,NA,NA,NA,NA
+"9203","5289",NA,NA,"057068","Toffia",NA,NA,"A",NA,"+","-",NA,NA
+"9204","1411",NA,NA,"009061","Toirano",NA,NA,"A",NA,"+","-",NA,NA
+"9205","4710",NA,NA,"043053","Tolentino",NA,NA,NA,NA,NA,NA,NA,NA
+"9206","5399",1871-01-15,NA,"058105","Tolfa","N",NA,NA,NA,"+","-",NA,NA
+"9207","460",NA,NA,"096068","Tollegno",NA,NA,"A",NA,NA,NA,NA,NA
+"9208","6365",NA,NA,"069090","Tollo",NA,NA,NA,NA,NA,NA,NA,NA
+"9209","4148",1866-11-19,NA,"030121","Tolmezzo","N",NA,NA,NA,NA,NA,"R",NA
+"9210","11318",1921-01-05,1947-09-16,"031731","Tolmino","N",NA,"A",NA,"+",NA,NA,"E"
+"9211","6855",NA,NA,"076090","Tolve",NA,NA,NA,NA,NA,NA,NA,NA
+"9212","11265",1921-01-05,1947-09-16,"032714","Tomadio","N",NA,"A","D","+",NA,NA,"E"
+"9213","3918",1866-11-19,NA,"028091","Tombolo","N",NA,NA,NA,NA,NA,NA,NA
+"9214","3373",1928-12-22,NA,"022200","Ton",NA,"C",NA,NA,"+",NA,NA,NA
+"9215","3374",1920-10-16,2016-01-01,"022201","Tonadico","N",NA,"A",NA,"+",NA,NA,"E"
+"9216","7855",NA,NA,"091093","Tonara",NA,NA,"A",NA,NA,NA,NA,NA
+"9217","1008",NA,NA,"005109","Tonco",NA,NA,"A",NA,NA,NA,NA,NA
+"9218","1009",NA,NA,"005110","Tonengo",NA,"C",NA,NA,"+",NA,NA,"E"
+"9219","3604",1866-11-19,NA,"024106","Tonezza del Cimone","N",NA,NA,"D",NA,"-",NA,NA
+"9220","5625",NA,NA,"061093","Tora e Piccilli",NA,NA,"A",NA,NA,NA,NA,NA
+"9221","7041",NA,NA,"078148","Torano Castello",NA,NA,NA,"D","+",NA,NA,NA
+"9222","6225",NA,NA,"067042","Torano Nuovo",NA,NA,NA,"D",NA,NA,NA,NA
+"9223","10040",NA,1928-04-07,"012892","Torba",NA,NA,"A",NA,NA,NA,NA,"E"
+"9224","10839",NA,1928-08-14,"017903","Torbiato",NA,NA,NA,NA,NA,NA,NA,"E"
+"9225","2663",NA,NA,"017186","Torbole Casaglia",NA,NA,NA,"D",NA,NA,NA,NA
+"9226","3375",1920-10-16,NA,"022202","Torcegno","N",NA,"A",NA,"+",NA,NA,"E"
+"9227","6065",NA,NA,"065147","Torchiara",NA,NA,NA,NA,"+","-",NA,NA
+"9228","6669",NA,NA,"074018","Torchiarolo",NA,NA,"A",NA,NA,NA,NA,NA
+"9229","5907",NA,NA,"064109","Torella dei Lombardi",NA,NA,NA,"D",NA,NA,NA,NA
+"9230","6506",NA,NA,"070079","Torella del Sannio",NA,NA,NA,"D",NA,NA,"R",NA
+"9231","5123",NA,NA,"054053","Torgiano",NA,NA,NA,NA,NA,NA,NA,NA
+"9232","1276",NA,NA,"007067","Torgnon",NA,NA,"A","D",NA,NA,NA,NA
+"9233","272",NA,NA,"001272","Torino",NA,NA,NA,NA,"+",NA,NA,NA
+"9234","6366",NA,NA,"069091","Torino di Sangro",NA,NA,NA,"D",NA,NA,NA,NA
+"9235","6619",NA,NA,"072044","Toritto",NA,NA,NA,NA,NA,NA,NA,NA
+"9236","2977",NA,NA,"019105","Torlino Vimercati",NA,NA,NA,"D",NA,NA,NA,NA
+"9237","10297",NA,1879-06-27,"015960","Tormo",NA,NA,NA,NA,NA,NA,NA,"E"
+"9238","630",NA,NA,"003146","Tornaco",NA,NA,NA,NA,NA,NA,NA,NA
+"9239","6367",NA,NA,"069092","Tornareccio",NA,NA,NA,NA,NA,NA,NA,NA
+"9240","2978",NA,NA,"019106","Tornata",NA,NA,NA,NA,"+",NA,NA,NA
+"9241","10041",NA,1869-03-22,"012893","Tornavento",NA,NA,NA,NA,NA,NA,NA,"E"
+"9242","6176",NA,NA,"066101","Tornimparte",NA,NA,NA,NA,NA,NA,NA,NA
+"9243","1881",NA,NA,"013223","Torno",NA,NA,NA,NA,NA,NA,NA,NA
+"9244","4289",NA,NA,"034040","Tornolo",NA,NA,NA,NA,NA,"-",NA,NA
+"9245","6507",NA,NA,"070080","Toro",NA,NA,NA,NA,NA,NA,"R",NA
+"9246","7856",NA,NA,"091094","Torpè",NA,NA,"A",NA,NA,NA,NA,NA
+"9247","11177",1920-10-16,1929-01-24,"022929","Torra","N",NA,"A",NA,NA,NA,NA,"E"
+"9248","6066",NA,NA,"065148","Torraca",NA,NA,NA,NA,NA,NA,NA,NA
+"9249","10810",NA,1872-10-30,"018871","Torradello",NA,NA,NA,NA,NA,NA,NA,"E"
+"9250","7756",NA,NA,"090073","Torralba",NA,NA,NA,NA,NA,NA,NA,NA
+"9251","9654",NA,1923-11-29,"008836","Torrazza",NA,NA,NA,NA,NA,NA,NA,"E"
+"9252","2837",NA,NA,"018155","Torrazza Coste",NA,NA,NA,NA,NA,NA,NA,NA
+"9253","273",1919-08-22,NA,"001273","Torrazza Piemonte",NA,"C",NA,NA,"+",NA,NA,NA
+"9254","461",NA,NA,"096069","Torrazzo",NA,NA,"A",NA,NA,NA,NA,NA
+"9255","5792",NA,NA,"063083","Torre Annunziata",NA,NA,NA,NA,"+","-",NA,NA
+"9256","10811",NA,1928-07-28,"018872","Torre Beretti",NA,NA,NA,NA,NA,NA,NA,"E"
+"9257","2838",1928-07-28,NA,"018156","Torre Beretti e Castellaro",NA,"C",NA,NA,"+",NA,NA,NA
+"9258","2443",NA,NA,"016214","Torre Boldone",NA,NA,NA,NA,NA,NA,NA,NA
+"9259","875",NA,NA,"004226","Torre Bormida",NA,"C",NA,NA,"+",NA,NA,"E"
+"9260","5519",1871-01-15,NA,"060078","Torre Cajetani","N",NA,"A","D",NA,NA,NA,NA
+"9261","274",NA,NA,"001274","Torre Canavese",NA,"C","A","D","+",NA,NA,"E"
+"9262","10560",NA,1868-01-01,"019914","Torre d'Angiolini",NA,NA,NA,NA,NA,NA,NA,"E"
+"9263","2839",NA,NA,"018157","Torre d'Arese",NA,"C",NA,NA,"+",NA,NA,"E"
+"9278","2841",NA,NA,"018159","Torre d'Isola",NA,NA,NA,NA,"+",NA,NA,NA
+"9264","2444",NA,NA,"097080","Torre de' Busi",NA,NA,"A",NA,NA,NA,NA,NA
+"9265","2840",NA,NA,"018158","Torre de' Negri",NA,"C",NA,NA,"+",NA,NA,"E"
+"9266","6272",NA,NA,"068043","Torre de' Passeri",NA,NA,"A",NA,NA,NA,NA,NA
+"9267","2979",NA,NA,"019107","Torre de' Picenardi",NA,NA,NA,"D","+",NA,NA,NA
+"9268","9982",NA,1928-06-28,"006823","Torre de' Ratti",NA,NA,NA,NA,NA,NA,NA,"E"
+"9269","2445",NA,NA,"016216","Torre de' Roveri",NA,NA,NA,NA,"+",NA,NA,NA
+"9270","10812",NA,1872-10-15,"018873","Torre de' Torti",NA,NA,NA,NA,NA,NA,NA,"E"
+"9271","5793",NA,NA,"063084","Torre del Greco",NA,NA,NA,NA,NA,NA,NA,NA
+"9272","10813",NA,1929-03-21,"018874","Torre del Mangano",NA,NA,NA,NA,"+",NA,NA,"E"
+"9273","10814",NA,1928-11-29,"018875","Torre del Monte",NA,NA,NA,NA,NA,NA,NA,"E"
+"9274","3825",1866-11-19,NA,"027041","Torre di Mosto","N",NA,NA,NA,NA,NA,NA,NA
+"9275","9544",NA,1877-12-03,"044820","Torre di Palme",NA,NA,NA,NA,NA,NA,NA,"E"
+"9276","7196",NA,NA,"079148","Torre di Ruggiero",NA,NA,NA,"D",NA,"-",NA,NA
+"9277","1971",NA,NA,"014067","Torre di Santa Maria",NA,NA,NA,"D",NA,NA,NA,NA
+"9279","5908",NA,NA,"064110","Torre Le Nocelle",NA,NA,NA,NA,NA,NA,NA,NA
+"9280","876",NA,NA,"004227","Torre Mondovì",NA,NA,NA,"D",NA,NA,NA,NA
+"9281","6067",NA,NA,"065149","Torre Orsaia",NA,NA,NA,NA,"+",NA,NA,NA
+"9282","9582",NA,1927-01-12,"055814","Torre Orsina",NA,NA,"A",NA,NA,NA,NA,"E"
+"9283","2446",NA,NA,"016217","Torre Pallavicina",NA,NA,NA,NA,NA,NA,NA,NA
+"9284","275",NA,NA,"001275","Torre Pellice",NA,NA,NA,NA,"+",NA,NA,NA
+"9285","877",NA,NA,"004228","Torre San Giorgio",NA,"C",NA,NA,"+",NA,NA,"E"
+"9286","9604",NA,1869-04-26,"041822","Torre San Marco",NA,NA,NA,"D",NA,NA,NA,"E"
+"9287","4786",NA,NA,"109040","Torre San Patrizio",NA,NA,"A",NA,NA,NA,NA,NA
+"9288","6670",NA,NA,"074019","Torre Santa Susanna",NA,NA,"A",NA,NA,NA,NA,NA
+"9289","9785",NA,1928-04-07,"004821","Torre Uzzone",NA,NA,NA,NA,NA,NA,NA,"E"
+"9290","4149",1866-11-19,NA,"030122","Torreano","N",NA,NA,NA,NA,NA,"R",NA
+"9291","3605",1866-11-19,NA,"024107","Torrebelvicino","N",NA,NA,NA,NA,NA,NA,NA
+"9292","6368",NA,NA,"069093","Torrebruna",NA,NA,NA,NA,NA,NA,NA,NA
+"9293","5708",NA,NA,"062076","Torrecuso",NA,NA,NA,NA,NA,NA,NA,NA
+"9294","3919",1866-11-19,NA,"028092","Torreglia","N",NA,NA,NA,NA,NA,NA,NA
+"9295","7505",1923-11-28,NA,"083098","Torregrotta",NA,"C",NA,NA,"+",NA,NA,NA
+"9296","6569",NA,NA,"071056","Torremaggiore",NA,NA,NA,NA,NA,NA,NA,NA
+"9297","8215",1984-12-09,NA,"083108","Torrenova",NA,"C",NA,NA,"+",NA,NA,NA
+"9298","11409",1921-01-05,1927-12-16,"701810","Torrenova di Bisterza","N",NA,"A","D",NA,NA,NA,"E"
+"9299","878",NA,NA,"004229","Torresina",NA,"C",NA,"D","+",NA,NA,"E"
+"9300","7398",NA,NA,"082072","Torretta",NA,NA,NA,NA,NA,"-",NA,NA
+"9301","2842",NA,NA,"018160","Torrevecchia Pia",NA,NA,NA,"D","+",NA,NA,NA
+"9302","6369",NA,NA,"069094","Torrevecchia Teatina",NA,NA,NA,"D","+",NA,NA,NA
+"9303","3486",1866-11-19,NA,"023086","Torri del Benaco","N",NA,NA,"D",NA,NA,NA,NA
+"9304","3606",1866-11-19,NA,"024108","Torri di Quartesolo","N",NA,NA,NA,"+",NA,NA,NA
+"9305","5291",NA,NA,"057070","Torri in Sabina",NA,NA,"A","D","+",NA,NA,NA
+"9306","9655",NA,1928-04-17,"008837","Torria",NA,"C",NA,NA,"+",NA,NA,"E"
+"9307","4538",NA,2014-01-01,"099019","Torriana",NA,NA,"A","D","+",NA,NA,"E"
+"9308","10593",NA,1929-03-21,"018876","Torriano",NA,NA,NA,NA,"+",NA,NA,"E"
+"9309","5520",1871-01-15,NA,"060079","Torrice","N",NA,"A",NA,NA,NA,NA,NA
+"9310","6651",1954-10-29,NA,"073028","Torricella",NA,"C",NA,NA,"+",NA,NA,NA
+"9311","2980",NA,NA,"019108","Torricella del Pizzo",NA,NA,NA,NA,NA,NA,NA,NA
+"9312","5290",NA,NA,"057069","Torricella in Sabina",NA,NA,"A","D","+",NA,NA,NA
+"9313","6370",NA,NA,"069095","Torricella Peligna",NA,NA,NA,"D","+",NA,NA,NA
+"9314","6226",NA,NA,"067043","Torricella Sicura",NA,NA,NA,"D","+",NA,NA,NA
+"9315","2843",NA,NA,"018161","Torricella Verzate",NA,"C",NA,"D","+",NA,NA,"E"
+"9316","1481",NA,NA,"010062","Torriglia",NA,NA,NA,NA,NA,NA,NA,NA
+"9317","4290",NA,NA,"034041","Torrile",NA,NA,NA,NA,NA,NA,NA,NA
+"9318","10594",NA,1872-10-30,"018877","Torrino",NA,NA,NA,NA,NA,NA,NA,"E"
+"9319","5909",NA,NA,"064111","Torrioni",NA,"C",NA,NA,"+",NA,NA,"E"
+"9320","5043",NA,NA,"052035","Torrita di Siena",NA,NA,NA,"D",NA,NA,NA,NA
+"9321","5400",1871-01-15,NA,"058106","Torrita Tiberina","N",NA,NA,"D",NA,NA,NA,NA
+"9322","7857",1928-05-12,NA,"105018","Tortolì",NA,"C","A","D","+","-",NA,NA
+"9323","10488",NA,1928-05-12,"091805","Tortolì",NA,NA,"A",NA,NA,NA,NA,"E"
+"9324","1193",NA,NA,"006174","Tortona",NA,NA,NA,NA,NA,NA,NA,NA
+"9325","7042",NA,NA,"078149","Tortora",NA,"C",NA,NA,"+",NA,NA,"E"
+"9326","6068",NA,NA,"065150","Tortorella",NA,NA,NA,NA,NA,NA,NA,NA
+"9327","6227",NA,NA,"067044","Tortoreto",NA,NA,NA,NA,NA,"-",NA,NA
+"9328","7506",NA,NA,"083099","Tortorici",NA,NA,NA,NA,NA,NA,NA,NA
+"9329","4150",1940-12-20,NA,"030123","Torviscosa",NA,"C",NA,NA,"+","-","R",NA
+"9330","10840",NA,1928-07-29,"017904","Toscolano",NA,NA,NA,NA,NA,NA,NA,"E"
+"9331","2664",1928-07-29,NA,"017187","Toscolano-Maderno",NA,"C",NA,NA,"+",NA,NA,NA
+"9332","11178",1920-10-16,1928-12-22,"022930","Toss","N",NA,"A",NA,NA,NA,NA,"E"
+"9333","6228",NA,NA,"067045","Tossicia",NA,NA,NA,NA,NA,"-",NA,NA
+"9334","1972",NA,NA,"014068","Tovo di Sant'Agata",NA,NA,NA,"D",NA,NA,NA,NA
+"9335","1412",NA,NA,"009062","Tovo San Giacomo",NA,NA,"A","D","+",NA,NA,NA
+"9336","7399",NA,NA,"082073","Trabia",NA,NA,NA,NA,"+","-",NA,NA
+"9337","10847",NA,1928-08-15,"016879","Trabuchello",NA,NA,NA,NA,NA,NA,NA,"E"
+"9338","1645",NA,NA,"012127","Tradate",NA,NA,"A",NA,"+",NA,NA,NA
+"9339","9951",NA,1928-02-09,"003895","Traffiume",NA,NA,NA,NA,NA,NA,NA,"E"
+"9340","8008",NA,NA,"095066","Tramatza",NA,"C","A",NA,"+",NA,NA,"E"
+"9341","3376",1920-10-16,NA,"022203","Trambileno","N",NA,"A",NA,NA,NA,NA,NA
+"9342","6069",NA,NA,"065151","Tramonti",NA,NA,NA,NA,NA,NA,NA,NA
+"9343","4151",1866-11-19,NA,"093045","Tramonti di Sopra","N",NA,"A",NA,NA,NA,NA,NA
+"9344","4152",1866-11-19,NA,"093046","Tramonti di Sotto","N",NA,"A",NA,NA,NA,NA,NA
+"9345","6856",NA,NA,"076091","Tramutola",NA,NA,NA,NA,NA,NA,NA,NA
+"9346","276",NA,NA,"001276","Trana",NA,NA,NA,NA,NA,NA,NA,NA
+"9347","6620",NA,NA,"110009","Trani",NA,NA,"A",NA,NA,NA,NA,NA
+"9348","3377",1920-10-16,2016-01-01,"022204","Transacqua","N",NA,"A",NA,"+",NA,NA,"E"
+"9349","1973",NA,NA,"014069","Traona",NA,NA,NA,NA,NA,NA,NA,NA
+"9350","7324",NA,NA,"081021","Trapani",NA,NA,NA,NA,"+","-",NA,NA
+"9351","7400",1954-07-23,NA,"082074","Trappeto",NA,"C",NA,NA,"+",NA,NA,NA
+"9352","631",NA,NA,"103066","Trarego Viggiona",NA,NA,"A","D","+",NA,NA,NA
+"9353","6177",NA,NA,"066102","Trasacco",NA,NA,NA,NA,NA,NA,NA,NA
+"9354","4153",1866-11-19,NA,"030124","Trasaghis","N",NA,NA,NA,NA,NA,"R",NA
+"9355","632",NA,NA,"103067","Trasquera",NA,NA,"A",NA,NA,NA,NA,NA
+"9356","8009",NA,NA,"107021","Tratalias",NA,NA,"A",NA,NA,NA,"R",NA
+"9357","277",NA,NA,"001277","Trausella",NA,"C","A",NA,"+",NA,NA,"E"
+"9358","2844",NA,NA,"018162","Travacò Siccomario",NA,NA,NA,"D","+","-",NA,NA
+"9359","2665",NA,NA,"017188","Travagliato",NA,NA,NA,NA,NA,"-",NA,NA
+"9360","10042",NA,1927-09-04,"012894","Travedona",NA,NA,"A",NA,"+",NA,NA,"E"
+"9361","1646",1927-09-04,NA,"012128","Travedona-Monate",NA,"C",NA,NA,"+",NA,NA,NA
+"9362","10455",NA,1928-05-01,"013946","Traversa",NA,NA,NA,NA,NA,NA,NA,"E"
+"9363","9952",NA,1928-05-01,"001869","Traverse",NA,NA,NA,NA,NA,NA,NA,"E"
+"9364","278",NA,NA,"001278","Traversella",NA,NA,"A",NA,"+",NA,NA,NA
+"9365","4291",NA,NA,"034042","Traversetolo",NA,NA,NA,NA,"+",NA,NA,NA
+"9366","279",NA,NA,"001279","Traves",NA,NA,NA,"D",NA,NA,NA,NA
+"9367","4154",1866-11-19,NA,"093047","Travesio","N",NA,"A",NA,"+",NA,NA,NA
+"9368","4244",NA,NA,"033043","Travo",NA,NA,NA,NA,NA,"-",NA,NA
+"9369","11599",2016-01-01,NA,"022247","Tre Ville",NA,"C",NA,NA,"+",NA,NA,NA
+"9370","3920",1866-11-19,NA,"028093","Trebaseleghe","N",NA,NA,NA,NA,NA,NA,NA
+"9371","10595",NA,1928-08-07,"018878","Trebbiano Nizza",NA,NA,NA,"D",NA,NA,NA,"E"
+"9372","9718",NA,1929-02-14,"033805","Trebecco",NA,NA,"A",NA,NA,NA,NA,"E"
+"9373","9698",NA,1870-04-07,"011801","Trebiano Magra",NA,NA,NA,"D",NA,NA,NA,"E"
+"9374","7043",NA,NA,"078150","Trebisacce",NA,NA,NA,NA,NA,NA,NA,NA
+"9375","4292",NA,2014-01-01,"034043","Trecasali",NA,NA,NA,NA,"+","-",NA,"E"
+"9376","8209",1980-04-05,NA,"063091","Trecase",NA,"C",NA,NA,"+",NA,NA,NA
+"9377","7647",NA,NA,"087050","Trecastagni",NA,NA,NA,NA,NA,NA,NA,NA
+"9378","11560",2014-01-01,NA,"042050","Trecastelli",NA,"C",NA,NA,"+",NA,NA,NA
+"9379","633",NA,NA,"003149","Trecate",NA,NA,NA,NA,NA,NA,NA,NA
+"9380","6857",NA,NA,"076092","Trecchina",NA,NA,NA,NA,NA,NA,NA,NA
+"9381","10298",NA,1869-01-22,"015961","Trecella",NA,NA,NA,NA,NA,NA,NA,"E"
+"9382","3979",1866-11-19,NA,"029047","Trecenta","N",NA,NA,NA,"+",NA,NA,NA
+"9383","10871",1866-01-22,1928-06-27,"019915","Tredossi",NA,"C",NA,NA,"+",NA,NA,"E"
+"9384","4539",NA,NA,"040049","Tredozio",NA,NA,"A",NA,NA,NA,NA,NA
+"9385","10299",NA,1869-04-19,"015962","Tregasio",NA,NA,NA,NA,NA,NA,NA,"E"
+"9386","6371",NA,NA,"069096","Treglio",NA,NA,NA,NA,NA,NA,NA,NA
+"9387","3487",1866-11-19,NA,"023087","Tregnago","N",NA,NA,NA,"+",NA,NA,NA
+"9388","10193",NA,1870-03-01,"013947","Tregolo",NA,NA,NA,NA,NA,NA,NA,"E"
+"9389","4711",NA,NA,"043054","Treia",NA,NA,NA,NA,NA,NA,NA,NA
+"9390","879",1957-08-14,NA,"004230","Treiso",NA,"C",NA,NA,"+",NA,NA,NA
+"9391","1882",NA,NA,"097081","Tremenico",NA,NA,"A",NA,NA,NA,NA,NA
+"9392","7648",NA,NA,"087051","Tremestieri Etneo",NA,NA,NA,"D",NA,NA,NA,NA
+"9393","11506",1929-02-08,1947-10-03,"013948","Tremezzina",NA,"C",NA,NA,"+",NA,NA,"E"
+"9394","11554",2014-02-04,NA,"013252","Tremezzina",NA,"C",NA,NA,"+",NA,NA,NA
+"9395","1883",NA,2014-02-04,"013225","Tremezzo",NA,"C",NA,NA,"+",NA,NA,"E"
+"9396","2666",NA,NA,"017189","Tremosine sul Garda",NA,NA,NA,"D","+",NA,NA,NA
+"9397","10300",NA,1923-10-14,"015963","Trenno",NA,NA,NA,NA,"+",NA,NA,"E"
+"9398","11009",1920-10-16,1928-12-09,"021908","Trens/Trens","N",NA,"A",NA,NA,NA,NA,"E"
+"9399","7044",NA,NA,"078151","Trenta",NA,NA,NA,NA,NA,NA,NA,NA
+"9400","11283",1921-01-05,1928-02-21,"031872","Trenta d'Isonzo","N",NA,"A",NA,NA,NA,NA,"E"
+"9401","6070",NA,NA,"065152","Trentinara",NA,NA,NA,NA,NA,NA,NA,NA
+"9402","3378",1920-10-16,NA,"022205","Trento","N",NA,"A",NA,"+",NA,NA,NA
+"9403","5626",NA,NA,"061094","Trentola-Ducenta",NA,NA,"A","D","+","-",NA,NA
+"9404","2667",NA,NA,"017190","Trenzano",NA,NA,NA,NA,"+",NA,NA,NA
+"9405","4155",1866-11-19,NA,"030125","Treppo Carnico","N",NA,NA,"D",NA,NA,"R",NA
+"9406","4156",1866-11-19,NA,"030126","Treppo Grande","N",NA,NA,NA,NA,NA,"R",NA
+"9407","6758",NA,NA,"075087","Trepuzzi",NA,NA,NA,NA,"+","-",NA,NA
+"9408","5044",NA,NA,"052036","Trequanda",NA,NA,NA,NA,NA,"-",NA,NA
+"9409","3379",1920-10-16,2015-01-01,"022206","Tres","N",NA,"A",NA,"+","-",NA,"E"
+"9410","4802",NA,NA,"045015","Tresana",NA,NA,NA,NA,"+",NA,NA,NA
+"9411","10921",1866-11-19,1928-08-07,"024806","Treschè Conca","N",NA,NA,NA,"+",NA,NA,"E"
+"9412","2447",NA,NA,"016218","Trescore Balneario",NA,NA,NA,"D","+","-",NA,NA
+"9413","2981",NA,NA,"019109","Trescore Cremasco",NA,NA,NA,"D",NA,NA,NA,NA
+"9414","8148",1961-12-26,NA,"038024","Tresigallo",NA,"C",NA,NA,"+",NA,NA,NA
+"9415","9470",NA,1927-08-24,"080819","Tresilico",NA,NA,NA,NA,NA,NA,NA,"E"
+"9416","1974",NA,NA,"014070","Tresivio",NA,NA,NA,NA,"+",NA,NA,NA
 "9417","7858",NA,NA,"095067","Tresnuraghes",NA,NA,"A",NA,NA,NA,NA,NA
 "9418","3607",1866-11-19,1969-08-28,"024109","Tretto","N",NA,NA,NA,NA,NA,NA,"E"
 "9419","10194",NA,1938-01-18,"013949","Trevano",NA,NA,NA,NA,NA,NA,NA,"E"
+"9420","3488",1866-11-19,NA,"023088","Trevenzuolo","N",NA,NA,NA,"+",NA,NA,NA
+"9421","5124",NA,NA,"054054","Trevi",NA,NA,NA,NA,NA,"-",NA,NA
+"9422","5521",1871-01-15,NA,"060080","Trevi nel Lazio","N",NA,"A","D",NA,NA,NA,NA
+"9423","5910",NA,NA,"064112","Trevico",NA,NA,NA,NA,"+","-",NA,NA
+"9424","2448",NA,NA,"016219","Treviglio",NA,NA,NA,NA,NA,NA,NA,NA
+"9425","3774",1866-11-19,NA,"026085","Trevignano","N",NA,NA,NA,NA,NA,NA,NA
+"9426","5401",1871-01-15,NA,"058107","Trevignano Romano","N",NA,NA,"D",NA,NA,NA,NA
+"9427","1194",NA,NA,"006175","Treville",NA,NA,NA,NA,NA,NA,NA,NA
+"9428","2449",NA,NA,"016220","Treviolo",NA,NA,NA,NA,"+","-",NA,NA
 "9429","10428",NA,1927-05-27,"012895","Trevisago",NA,NA,"A",NA,NA,NA,NA,"E"
+"9430","3775",1866-11-19,NA,"026086","Treviso","N",NA,NA,NA,"+",NA,NA,NA
+"9431","2668",NA,NA,"017191","Treviso Bresciano",NA,NA,NA,"D",NA,NA,NA,NA
+"9432","2201",NA,NA,"015219","Trezzano Rosa",NA,NA,NA,"D",NA,NA,NA,NA
+"9433","2202",NA,NA,"015220","Trezzano sul Naviglio",NA,NA,NA,"D",NA,NA,NA,NA
+"9434","2203",NA,NA,"015221","Trezzo sull'Adda",NA,NA,NA,"D","+",NA,NA,NA
+"9435","880",NA,NA,"004231","Trezzo Tinella",NA,NA,NA,"D",NA,NA,NA,NA
+"9436","10561",NA,1868-07-18,"019916","Trezzolasco",NA,NA,NA,NA,NA,NA,NA,"E"
 "9437","1884",NA,NA,"013226","Trezzone",NA,NA,NA,NA,NA,NA,NA,NA
 "9438","3921",1866-11-19,NA,"028094","Tribano","N",NA,NA,NA,NA,NA,NA,NA
+"9439","2204",NA,NA,"015222","Tribiano",NA,NA,NA,NA,"+",NA,NA,NA
 "9440","1482",NA,NA,"010063","Tribogna",NA,NA,NA,NA,NA,NA,NA,NA
 "9441","10562",NA,1868-08-01,"019917","Triburgo",NA,NA,NA,"D",NA,NA,NA,"E"
 "9442","11284",1921-01-05,1928-01-26,"031873","Tribussa","N",NA,"A",NA,NA,NA,NA,"E"
@@ -8383,8 +9699,8 @@
 "9698","6073",NA,NA,"065155","Valva",NA,NA,NA,NA,NA,NA,NA,NA
 "9699","4160",1866-11-19,2015-01-01,"093048","Valvasone","N",NA,"A",NA,"+","-",NA,"E"
 "9700","11573",2015-01-01,NA,"093053","Valvasone Arzene",NA,"C",NA,NA,"+",NA,NA,NA
-"9702","2852",NA,NA,"018170","Valverde",NA,"C",NA,NA,"+",NA,NA,"E"
 "9701","7649",1951-05-06,NA,"087052","Valverde",NA,"C",NA,NA,"+",NA,NA,NA
+"9702","2852",NA,NA,"018170","Valverde",NA,"C",NA,NA,"+",NA,NA,"E"
 "9703","2671",1920-10-16,NA,"017194","Valvestino","N",NA,"A","D","+","-",NA,NA
 "9704","10969",1920-10-16,1929-03-24,"021916","Vandoies di Sopra/Obervintl","N",NA,"A",NA,NA,NA,NA,"E"
 "9705","11023",1920-10-16,1929-03-24,"021917","Vandoies di Sotto/Niedervintl","N",NA,"A",NA,NA,NA,NA,"E"
@@ -8484,8 +9800,8 @@
 "9799","2460",NA,NA,"097086","Vercurago",NA,NA,"A",NA,NA,NA,NA,NA
 "9800","2461",NA,NA,"016232","Verdellino",NA,NA,NA,NA,NA,NA,NA,NA
 "9801","2462",NA,NA,"016233","Verdello",NA,NA,NA,NA,NA,NA,NA,NA
-"9803","11550",2014-02-04,NA,"097091","Verderio",NA,"C",NA,NA,"+",NA,NA,NA
 "9802","10953",1872-02-16,1905-04-24,"013953","Verderio",NA,"C",NA,NA,"+",NA,NA,"E"
+"9803","11550",2014-02-04,NA,"097091","Verderio",NA,"C",NA,NA,"+",NA,NA,NA
 "9804","1898",NA,2014-02-04,"097087","Verderio Inferiore",NA,"C","A",NA,"+",NA,NA,"E"
 "9805","1899",NA,2014-02-04,"097088","Verderio Superiore",NA,"C","A",NA,"+",NA,NA,"E"
 "9806","11182",1920-10-16,1928-06-28,"022934","Verdesina","N",NA,"A",NA,NA,NA,NA,"E"
@@ -8526,6 +9842,7 @@
 "9841","10439",NA,1929-05-30,"013955","Vertemate",NA,NA,NA,NA,NA,NA,NA,"E"
 "9842","1900",1929-05-30,NA,"013242","Vertemate con Minoprio",NA,"C",NA,NA,"+",NA,NA,NA
 "9843","11374",1921-01-05,1947-09-16,"702739","Verteneglio","N",NA,"A",NA,NA,NA,NA,"E"
+"9844","11348",1921-01-05,1928-12-12,"031811","Vertoiba in Campi Santi","N",NA,"A","D",NA,NA,NA,"E"
 "9845","2463",NA,NA,"016234","Vertova",NA,NA,NA,NA,NA,NA,NA,NA
 "9846","11295",1921-01-05,1928-01-22,"031876","Vertovino","N",NA,"A",NA,NA,NA,NA,"E"
 "9847","4541",NA,NA,"099020","Verucchio",NA,NA,"A",NA,NA,NA,NA,NA
@@ -8598,6 +9915,8 @@
 "9914","11118",1920-10-16,1929-01-25,"022936","Vigalzano","N",NA,"A",NA,NA,NA,NA,"E"
 "9915","644",NA,2016-01-01,"103073","Viganella",NA,"C",NA,NA,"+",NA,NA,"E"
 "9916","1902",NA,NA,"097090","Viganò",NA,"C",NA,NA,"+",NA,NA,"E"
+"9917","10345",NA,1869-03-22,"015974","Viganò Certosino",NA,NA,NA,"D",NA,NA,NA,"E"
+"9918","2465",NA,NA,"016236","Vigano San Martino",NA,"C",NA,"D","+",NA,NA,"E"
 "9919","4471",1902-02-01,NA,"038022","Vigarano Mainarda",NA,"C",NA,NA,"+",NA,NA,NA
 "9920","3494",1866-11-19,NA,"023094","Vigasio","N",NA,NA,NA,"+","-",NA,NA
 "9921","9734",NA,1962-02-03,"034810","Vigatto",NA,"C",NA,NA,"+","-",NA,"E"
@@ -8910,1369 +10229,50 @@
 "10228","2227",NA,NA,"098061","Zelo Buon Persico",NA,NA,"A",NA,"+",NA,NA,NA
 "10229","10110",NA,1870-08-02,"015983","Zelo Foramagno",NA,NA,NA,NA,NA,NA,NA,"E"
 "10230","2228",NA,NA,"015246","Zelo Surrigone",NA,NA,NA,NA,NA,NA,NA,NA
-"10261","2868",NA,NA,"018186","Zeme",NA,NA,NA,NA,NA,NA,NA,NA
-"10291","2868",NA,NA,"018186","Zeme",NA,NA,NA,NA,NA,NA,NA,NA
 "10231","2868",NA,NA,"018186","Zeme",NA,NA,NA,NA,NA,NA,NA,NA
-"10262","2869",NA,NA,"018187","Zenevredo",NA,NA,NA,NA,NA,NA,NA,NA
-"10292","2869",NA,NA,"018187","Zenevredo",NA,NA,NA,NA,NA,NA,NA,NA
 "10232","2869",NA,NA,"018187","Zenevredo",NA,NA,NA,NA,NA,NA,NA,NA
-"10263","3783",1866-11-19,NA,"026094","Zenson di Piave","N",NA,NA,NA,NA,"-",NA,NA
-"10293","3783",1866-11-19,NA,"026094","Zenson di Piave","N",NA,NA,NA,NA,"-",NA,NA
 "10233","3783",1866-11-19,NA,"026094","Zenson di Piave","N",NA,NA,NA,NA,"-",NA,NA
-"10264","10201",NA,1927-07-02,"095812","Zeppara",NA,NA,NA,NA,NA,NA,NA,"E"
-"10294","10201",NA,1927-07-02,"095812","Zeppara",NA,NA,NA,NA,NA,NA,NA,"E"
 "10234","10201",NA,1927-07-02,"095812","Zeppara",NA,NA,NA,NA,NA,NA,NA,"E"
-"10265","4248",NA,NA,"033047","Zerba",NA,NA,"A",NA,NA,NA,NA,NA
 "10235","4248",NA,NA,"033047","Zerba",NA,NA,"A",NA,NA,NA,NA,NA
-"10295","4248",NA,NA,"033047","Zerba",NA,NA,"A",NA,NA,NA,NA,NA
-"10266","2870",NA,NA,"018188","Zerbo",NA,NA,NA,NA,NA,NA,NA,NA
 "10236","2870",NA,NA,"018188","Zerbo",NA,NA,NA,NA,NA,NA,NA,NA
-"10296","2870",NA,NA,"018188","Zerbo",NA,NA,NA,NA,NA,NA,NA,NA
-"10267","2871",NA,NA,"018189","Zerbolò",NA,NA,NA,NA,NA,NA,NA,NA
 "10237","2871",NA,NA,"018189","Zerbolò",NA,NA,NA,NA,NA,NA,NA,NA
-"10297","2871",NA,NA,"018189","Zerbolò",NA,NA,NA,NA,NA,NA,NA,NA
-"10268","8034",NA,NA,"095075","Zerfaliu",NA,"C","A",NA,"+",NA,NA,"E"
 "10238","8034",NA,NA,"095075","Zerfaliu",NA,"C","A",NA,"+",NA,NA,"E"
-"10298","8034",NA,NA,"095075","Zerfaliu",NA,"C","A",NA,"+",NA,NA,"E"
-"10269","4804",NA,NA,"045017","Zeri",NA,NA,NA,NA,NA,"-",NA,NA
 "10239","4804",NA,NA,"045017","Zeri",NA,NA,NA,NA,NA,"-",NA,NA
-"10299","4804",NA,NA,"045017","Zeri",NA,NA,NA,NA,NA,"-",NA,NA
-"10270","3618",1866-11-19,NA,"024120","Zermeghedo","N",NA,NA,NA,"+",NA,NA,"E"
 "10240","3618",1866-11-19,NA,"024120","Zermeghedo","N",NA,NA,NA,"+",NA,NA,"E"
-"10300","3618",1866-11-19,NA,"024120","Zermeghedo","N",NA,NA,NA,"+",NA,NA,"E"
-"10271","3784",1866-11-19,NA,"026095","Zero Branco","N",NA,NA,NA,NA,NA,NA,NA
 "10241","3784",1866-11-19,NA,"026095","Zero Branco","N",NA,NA,NA,NA,NA,NA,NA
-"10301","3784",1866-11-19,NA,"026095","Zero Branco","N",NA,NA,NA,NA,NA,NA,NA
-"10272","3497",1866-11-19,NA,"023097","Zevio","N",NA,NA,NA,"+","-",NA,NA
 "10242","3497",1866-11-19,NA,"023097","Zevio","N",NA,NA,NA,"+","-",NA,NA
-"10302","3497",1866-11-19,NA,"023097","Zevio","N",NA,NA,NA,"+","-",NA,NA
-"10273","3399",1920-10-16,NA,"022226","Ziano di Fiemme","N",NA,"A","D","+","-",NA,NA
-"10303","3399",1920-10-16,NA,"022226","Ziano di Fiemme","N",NA,"A","D","+","-",NA,NA
 "10243","3399",1920-10-16,NA,"022226","Ziano di Fiemme","N",NA,"A","D","+","-",NA,NA
-"10274","4249",NA,NA,"033048","Ziano Piacentino",NA,NA,NA,"D",NA,NA,NA,NA
-"10304","4249",NA,NA,"033048","Ziano Piacentino",NA,NA,NA,"D",NA,NA,NA,NA
 "10244","4249",NA,NA,"033048","Ziano Piacentino",NA,NA,NA,"D",NA,NA,NA,NA
-"10275","4297",NA,2016-01-01,"034048","Zibello",NA,NA,NA,NA,NA,NA,NA,"E"
-"10305","4297",NA,2016-01-01,"034048","Zibello",NA,NA,NA,NA,NA,NA,NA,"E"
 "10245","4297",NA,2016-01-01,"034048","Zibello",NA,NA,NA,NA,NA,NA,NA,"E"
-"10276","10489",NA,1872-11-01,"018892","Zibido al Lambro",NA,NA,NA,NA,NA,NA,NA,"E"
-"10306","10489",NA,1872-11-01,"018892","Zibido al Lambro",NA,NA,NA,NA,NA,NA,NA,"E"
 "10246","10489",NA,1872-11-01,"018892","Zibido al Lambro",NA,NA,NA,NA,NA,NA,NA,"E"
-"10277","2229",NA,NA,"015247","Zibido San Giacomo",NA,NA,NA,NA,"+","-",NA,NA
-"10307","2229",NA,NA,"015247","Zibido San Giacomo",NA,NA,NA,NA,"+","-",NA,NA
 "10247","2229",NA,NA,"015247","Zibido San Giacomo",NA,NA,NA,NA,"+","-",NA,NA
-"10278","1518",NA,NA,"011032","Zignago",NA,NA,"A",NA,NA,"-",NA,NA
-"10308","1518",NA,NA,"011032","Zignago",NA,NA,"A",NA,NA,"-",NA,NA
 "10248","1518",NA,NA,"011032","Zignago",NA,NA,"A",NA,NA,"-",NA,NA
-"10279","3498",1866-11-19,NA,"023098","Zimella","N",NA,NA,NA,"+","-",NA,NA
-"10309","3498",1866-11-19,NA,"023098","Zimella","N",NA,NA,NA,"+","-",NA,NA
 "10249","3498",1866-11-19,NA,"023098","Zimella","N",NA,NA,NA,"+","-",NA,NA
-"10280","482",NA,NA,"096081","Zimone",NA,NA,"A",NA,NA,NA,NA,NA
-"10310","482",NA,NA,"096081","Zimone",NA,NA,"A",NA,NA,NA,NA,NA
 "10250","482",NA,NA,"096081","Zimone",NA,NA,"A",NA,NA,NA,NA,NA
-"10281","2872",NA,NA,"018190","Zinasco",NA,NA,NA,NA,"+","-",NA,NA
-"10311","2872",NA,NA,"018190","Zinasco",NA,NA,NA,NA,"+","-",NA,NA
 "10251","2872",NA,NA,"018190","Zinasco",NA,NA,NA,NA,"+","-",NA,NA
-"10282","10111",NA,1869-03-01,"015984","Zivido",NA,NA,NA,NA,NA,NA,NA,"E"
-"10312","10111",NA,1869-03-01,"015984","Zivido",NA,NA,NA,NA,NA,NA,NA,"E"
 "10252","10111",NA,1869-03-01,"015984","Zivido",NA,NA,NA,NA,NA,NA,NA,"E"
-"10283","1486",NA,NA,"010067","Zoagli",NA,NA,NA,NA,NA,NA,NA,NA
-"10313","1486",NA,NA,"010067","Zoagli",NA,NA,NA,NA,NA,NA,NA,NA
 "10253","1486",NA,NA,"010067","Zoagli",NA,NA,NA,NA,NA,NA,NA,NA
-"10284","4389",NA,NA,"036047","Zocca",NA,NA,NA,NA,"+",NA,NA,NA
-"10314","4389",NA,NA,"036047","Zocca",NA,NA,NA,NA,"+",NA,NA,NA
 "10254","4389",NA,NA,"036047","Zocca",NA,NA,NA,NA,"+",NA,NA,NA
-"10285","2475",NA,NA,"016246","Zogno",NA,NA,NA,NA,"+","-",NA,NA
-"10315","2475",NA,NA,"016246","Zogno",NA,NA,NA,NA,"+","-",NA,NA
 "10255","2475",NA,NA,"016246","Zogno",NA,NA,NA,NA,"+","-",NA,NA
-"10286","4449",NA,NA,"037060","Zola Predosa",NA,NA,NA,NA,NA,NA,NA,NA
-"10316","4449",NA,NA,"037060","Zola Predosa",NA,NA,NA,NA,NA,NA,NA,NA
 "10256","4449",NA,NA,"037060","Zola Predosa",NA,NA,NA,NA,NA,NA,NA,NA
-"10287","3688",1866-11-19,2016-02-23,"025068","Zoldo Alto","N",NA,NA,"D",NA,NA,NA,"E"
-"10317","3688",1866-11-19,2016-02-23,"025068","Zoldo Alto","N",NA,NA,"D",NA,NA,NA,"E"
 "10257","3688",1866-11-19,2016-02-23,"025068","Zoldo Alto","N",NA,NA,"D",NA,NA,NA,"E"
-"10288","11316",1921-01-05,1947-09-16,"031733","Zolla","N",NA,"A",NA,"+",NA,NA,"E"
-"10318","11316",1921-01-05,1947-09-16,"031733","Zolla","N",NA,"A",NA,"+",NA,NA,"E"
 "10258","11316",1921-01-05,1947-09-16,"031733","Zolla","N",NA,"A",NA,"+",NA,NA,"E"
-"10289","6765",NA,NA,"075094","Zollino",NA,NA,NA,NA,NA,NA,NA,NA
-"10319","6765",NA,NA,"075094","Zollino",NA,NA,NA,NA,NA,NA,NA,NA
 "10259","6765",NA,NA,"075094","Zollino",NA,NA,NA,NA,NA,NA,NA,NA
 "10260","2682",NA,NA,"017205","Zone",NA,NA,NA,NA,NA,NA,NA,NA
-"10290","2682",NA,NA,"017205","Zone",NA,NA,NA,NA,NA,NA,NA,NA
-"10320","2682",NA,NA,"017205","Zone",NA,NA,NA,NA,NA,NA,NA,NA
 "10321","3689",1866-11-19,NA,"025069","Zoppè di Cadore","N",NA,NA,"D",NA,NA,NA,NA
-"10355","3689",1866-11-19,NA,"25069","Zoppè di Cadore","N",NA,NA,"D",NA,NA,NA,NA
-"10338","3689",1866-11-19,NA,"025069","Zoppè di Cadore","N",NA,NA,"D",NA,NA,NA,NA
 "10322","4169",1866-11-19,NA,"093051","Zoppola","N",NA,"A",NA,NA,NA,NA,NA
-"10356","4169",1866-11-19,NA,"93051","Zoppola","N",NA,"A",NA,NA,NA,NA,NA
-"10339","4169",1866-11-19,NA,"093051","Zoppola","N",NA,"A",NA,NA,NA,NA,NA
 "10323","10112",NA,1929-05-28,"015985","Zorlesco",NA,NA,NA,NA,NA,NA,NA,"E"
-"10357","10112",NA,1929-05-28,"15985","Zorlesco",NA,NA,NA,NA,NA,NA,NA,"E"
-"10340","10112",NA,1929-05-28,"015985","Zorlesco",NA,NA,NA,NA,NA,NA,NA,"E"
 "10324","9863",NA,1928-06-30,"003904","Zornasco",NA,NA,NA,NA,NA,NA,NA,"E"
-"10358","9863",NA,1928-06-30,"3904","Zornasco",NA,NA,NA,NA,NA,NA,NA,"E"
-"10341","9863",NA,1928-06-30,"003904","Zornasco",NA,NA,NA,NA,NA,NA,NA,"E"
 "10325","10853",NA,1928-06-15,"016885","Zorzino",NA,NA,NA,NA,NA,NA,NA,"E"
-"10359","10853",NA,1928-06-15,"16885","Zorzino",NA,NA,NA,NA,NA,NA,NA,"E"
-"10342","10853",NA,1928-06-15,"016885","Zorzino",NA,NA,NA,NA,NA,NA,NA,"E"
 "10326","3619",1866-11-19,NA,"024121","Zovencedo","N",NA,NA,NA,NA,NA,NA,NA
-"10360","3619",1866-11-19,NA,"24121","Zovencedo","N",NA,NA,NA,NA,NA,NA,NA
-"10343","3619",1866-11-19,NA,"024121","Zovencedo","N",NA,NA,NA,NA,NA,NA,NA
 "10327","9864",NA,1927-12-04,"003905","Zoverallo",NA,NA,NA,NA,NA,NA,NA,"E"
-"10361","9864",NA,1927-12-04,"3905","Zoverallo",NA,NA,NA,NA,NA,NA,NA,"E"
-"10344","9864",NA,1927-12-04,"003905","Zoverallo",NA,NA,NA,NA,NA,NA,NA,"E"
 "10328","483",NA,NA,"096082","Zubiena",NA,NA,"A",NA,NA,NA,NA,NA
-"10362","483",NA,NA,"96082","Zubiena",NA,NA,"A",NA,NA,NA,NA,NA
-"10345","483",NA,NA,"096082","Zubiena",NA,NA,"A",NA,NA,NA,NA,NA
 "10329","1419",NA,NA,"009069","Zuccarello",NA,NA,"A",NA,NA,"-",NA,NA
-"10363","1419",NA,NA,"9069","Zuccarello",NA,NA,"A",NA,NA,"-",NA,NA
-"10346","1419",NA,NA,"009069","Zuccarello",NA,NA,"A",NA,NA,"-",NA,NA
 "10330","3400",1920-10-16,2016-01-01,"022227","Zuclo","N",NA,"A",NA,"+",NA,NA,"E"
-"10364","3400",1920-10-16,2016-01-01,"22227","Zuclo","N",NA,"A",NA,"+",NA,NA,"E"
-"10347","3400",1920-10-16,2016-01-01,"022227","Zuclo","N",NA,"A",NA,"+",NA,NA,"E"
 "10331","3620",1866-11-19,NA,"024122","Zugliano","N",NA,NA,NA,NA,"-",NA,NA
-"10365","3620",1866-11-19,NA,"24122","Zugliano","N",NA,NA,NA,NA,"-",NA,NA
-"10348","3620",1866-11-19,NA,"024122","Zugliano","N",NA,NA,NA,NA,"-",NA,NA
 "10332","4170",1866-11-19,NA,"030136","Zuglio","N",NA,NA,NA,"+",NA,"R","E"
-"10366","4170",1866-11-19,NA,"30136","Zuglio","N",NA,NA,NA,"+",NA,"R","E"
-"10349","4170",1866-11-19,NA,"030136","Zuglio","N",NA,NA,NA,"+",NA,"R","E"
 "10333","484",NA,NA,"096083","Zumaglia",NA,NA,"A",NA,NA,"-",NA,NA
-"10367","484",NA,NA,"96083","Zumaglia",NA,NA,"A",NA,NA,"-",NA,NA
-"10350","484",NA,NA,"096083","Zumaglia",NA,NA,"A",NA,NA,"-",NA,NA
 "10334","7048",NA,NA,"078155","Zumpano",NA,NA,NA,NA,NA,NA,NA,NA
-"10368","7048",NA,NA,"78155","Zumpano",NA,NA,NA,NA,NA,NA,NA,NA
-"10351","7048",NA,NA,"078155","Zumpano",NA,NA,NA,NA,NA,NA,NA,NA
-"10352","5918",NA,NA,"064120","Zungoli",NA,NA,NA,NA,NA,NA,NA,NA
-"10369","5918",NA,NA,"64120","Zungoli",NA,NA,NA,NA,NA,NA,NA,NA
 "10335","5918",NA,NA,"064120","Zungoli",NA,NA,NA,NA,NA,NA,NA,NA
-"10353","7207",NA,NA,"102050","Zungri",NA,NA,"A",NA,NA,NA,NA,NA
-"10370","7207",NA,NA,"102050","Zungri",NA,NA,"A",NA,NA,NA,NA,NA
 "10336","7207",NA,NA,"102050","Zungri",NA,NA,"A",NA,NA,NA,NA,NA
-"10354","10202",NA,1927-07-27,"095813","Zuri",NA,NA,NA,NA,NA,NA,NA,"E"
-"10371","10202",NA,1927-07-27,"95813","Zuri",NA,NA,NA,NA,NA,NA,NA,"E"
 "10337","10202",NA,1927-07-27,"095813","Zuri",NA,NA,NA,NA,NA,NA,NA,"E"
-"NA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.21",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.22",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.23",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.24",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.26",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.28",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.31",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.33",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.34",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.36",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.38",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.39",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.40",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.41",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.42",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.43",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.44",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.48",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.50",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.52",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.53",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.54",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.56",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.57",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.58",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.59",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.60",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.61",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.62",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.63",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.64",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.65",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.66",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.67",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.69",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.70",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.71",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.72",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.73",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.74",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.75",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.76",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.77",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.78",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.79",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.80",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.81",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.82",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.83",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.84",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.85",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.86",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.87",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.88",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.89",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.91",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.92",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.94",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.95",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.98",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.101",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.102",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.103",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.104",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.105",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.108",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.109",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.110",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.115",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.116",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.117",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.119",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.123",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.124",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.126",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.127",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.128",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.129",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.130",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.131",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.132",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.134",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.135",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.136",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.137",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.139",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.141",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.142",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.143",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.144",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.145",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.146",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.147",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.148",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.149",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.151",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.152",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.153",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.154",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.155",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.157",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.158",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.159",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.160",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.161",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.162",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.163",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.164",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.165",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.166",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.167",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.168",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.169",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.172",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.174",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.176",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.177",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.178",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.179",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.180",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.181",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.182",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.183",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.184",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.185",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.186",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.187",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.188",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.189",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.191",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.193",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.194",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.195",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.196",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.197",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.198",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.199",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.201",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.202",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.204",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.205",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.206",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.207",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.209",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.210",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.211",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.212",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.213",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.214",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.215",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.216",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.217",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.218",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.219",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.221",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.222",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.223",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.224",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.225",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.226",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.227",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.228",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.229",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.231",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.232",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.233",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.234",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.235",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.236",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.237",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.238",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.239",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.240",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.241",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.242",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.243",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.244",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.245",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.246",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.247",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.248",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.249",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.250",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.251",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.252",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.253",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.254",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.255",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.256",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.257",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.258",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.259",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.260",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.261",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.262",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.263",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.264",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.266",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.267",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.268",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.269",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.270",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.271",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.272",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.273",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.274",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.275",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.276",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.278",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.279",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.280",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.281",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.283",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.285",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.286",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.287",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.288",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.289",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.290",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.291",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.292",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.293",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.294",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.295",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.297",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.298",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.299",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.301",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.302",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.303",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.304",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.305",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.306",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.307",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.308",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.309",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.310",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.311",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.312",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.313",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.314",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.315",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.316",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.317",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.318",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.319",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.320",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.321",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.322",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.323",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.325",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.326",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.327",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.328",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.329",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.331",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.332",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.333",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.334",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.335",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.336",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.337",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.338",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.339",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.340",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.341",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.342",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.343",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.344",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.345",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.346",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.347",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.348",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.349",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.350",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.351",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.352",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.353",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.354",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.355",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.356",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.357",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.358",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.359",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.360",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.362",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.363",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.364",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.366",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.367",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.368",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.369",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.370",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.371",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.372",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.373",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.374",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.375",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.376",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.377",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.378",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.379",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.380",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.381",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.382",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.383",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.384",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.385",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.386",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.387",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.388",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.389",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.390",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.391",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.392",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.393",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.394",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.395",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.396",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.397",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.398",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.399",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.401",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.402",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.403",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.404",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.405",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.406",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.407",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.408",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.409",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.411",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.412",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.413",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.414",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.415",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.416",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.417",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.418",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.419",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.421",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.422",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.423",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.424",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.425",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.426",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.428",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.429",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.430",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.431",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.432",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.433",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.434",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.435",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.436",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.437",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.438",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.439",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.440",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.441",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.442",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.443",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.444",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.445",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.446",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.447",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.448",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.449",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.450",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.451",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.452",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.453",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.454",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.455",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.456",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.457",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.458",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.459",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.460",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.461",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.462",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.463",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.464",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.465",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.466",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.467",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.468",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.469",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.470",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.471",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.472",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.473",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.474",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.475",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.476",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.477",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.478",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.479",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.480",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.481",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.482",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.483",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.484",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.485",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.486",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.487",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.488",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.489",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.490",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.491",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.492",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.493",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.494",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.495",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.496",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.497",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.498",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.499",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.501",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.502",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.503",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.504",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.505",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.506",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.507",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.508",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.509",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.510",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.511",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.512",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.513",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.514",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.515",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.516",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.517",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.518",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.519",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.520",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.521",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.522",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.523",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.524",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.525",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.526",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.527",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.528",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.529",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.530",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.531",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.532",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.533",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.534",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.535",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.536",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.537",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.538",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.539",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.540",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.541",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.542",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.543",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.544",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.545",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.546",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.547",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.548",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.549",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.550",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.551",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.552",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.553",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.554",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.555",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.556",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.557",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.558",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.559",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.560",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.561",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.562",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.563",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.564",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.565",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.566",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.567",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.568",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.569",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.570",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.571",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.572",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.573",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.574",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.575",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.576",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.577",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.578",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.579",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.580",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.581",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.582",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.583",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.584",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.585",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.586",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.587",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.588",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.589",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.590",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.591",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.592",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.593",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.594",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.595",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.596",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.597",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.598",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.599",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.601",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.602",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.603",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.604",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.605",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.606",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.607",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.608",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.609",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.610",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.611",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.612",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.613",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.614",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.615",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.616",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.617",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.618",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.619",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.620",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.621",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.622",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.623",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.624",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.625",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.626",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.627",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.628",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.629",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.630",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.631",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.633",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.634",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.635",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.636",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.637",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.638",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.639",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.640",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.641",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.642",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.643",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.644",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.645",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.646",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.647",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.648",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.649",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.651",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.652",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.653",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.654",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.655",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.656",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.657",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.658",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.659",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.660",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.662",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.663",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.664",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.665",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.666",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.667",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.668",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.669",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.670",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.671",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.672",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.673",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.674",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.675",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.676",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.677",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.678",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.679",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.680",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.681",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.682",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.683",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.684",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.685",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.686",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.687",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.688",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.689",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.690",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.691",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.692",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.693",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.694",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.695",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.696",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.697",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.698",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.699",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.701",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.702",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.703",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.704",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.705",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.706",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.707",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.708",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.709",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.710",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.711",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.712",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.713",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.714",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.715",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.716",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.717",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.718",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.719",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.720",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.721",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.722",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.723",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.724",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.725",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.726",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.727",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.728",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.729",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.730",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.731",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.732",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.733",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.734",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.735",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.736",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.737",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.738",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.739",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.740",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.741",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.742",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.743",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.744",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.745",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.746",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.747",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.749",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.750",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.751",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.752",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.753",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.754",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.755",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.756",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.757",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.758",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.759",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.760",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.761",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.762",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.763",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.764",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.765",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.766",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.767",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.768",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.769",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.770",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.771",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.772",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.773",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.774",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.775",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.776",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.777",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.778",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.779",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.780",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.781",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.782",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.783",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.784",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.785",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.786",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.787",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.788",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.789",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.790",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.791",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.792",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.793",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.794",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.795",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.796",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.797",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.798",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.799",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.801",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.802",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.803",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.804",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.805",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.806",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.807",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.808",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.809",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.810",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.811",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.812",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.813",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.814",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.815",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.816",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.817",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.818",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.819",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.820",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.821",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.822",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.823",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.824",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.825",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.826",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.827",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.828",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.829",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.830",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.831",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.832",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.833",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.834",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.835",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.836",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.837",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.838",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.839",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.840",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.841",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.842",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.843",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.844",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.845",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.846",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.847",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.848",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.849",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.850",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.851",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.852",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.853",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.854",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.855",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.856",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.857",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.858",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.859",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.860",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.861",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.862",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.863",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.864",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.865",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.866",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.867",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.868",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.869",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.870",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.871",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.872",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.873",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.874",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.875",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.876",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.877",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.878",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.879",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.880",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.881",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.882",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.883",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.884",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.885",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.886",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.887",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.888",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.889",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.890",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.891",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.892",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.893",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.894",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.895",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.896",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.897",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.898",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.899",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.901",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.902",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.903",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.904",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.905",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.906",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.907",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.908",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.909",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.910",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.911",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.912",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.913",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.914",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.915",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.916",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.917",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.918",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.919",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.920",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.921",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.922",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.923",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.924",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.925",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.926",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.927",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.928",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.929",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.930",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.931",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.932",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.933",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.934",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.935",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.936",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.937",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.938",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.939",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.940",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.941",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.942",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.943",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.944",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.945",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.946",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.947",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.948",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.949",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.950",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.951",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.952",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.953",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.954",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.955",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.956",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.957",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.958",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.959",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.961",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.962",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.963",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.964",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.966",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.967",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.968",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.971",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.972",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.973",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.975",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.976",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.977",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.978",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.979",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.980",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.983",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.984",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.985",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.986",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.989",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.990",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.991",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.992",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.993",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.994",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.995",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.996",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1010",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1011",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1013",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1014",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1015",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1016",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1017",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1018",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1019",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1020",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1021",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1022",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1023",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1024",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1025",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1026",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1027",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1028",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1029",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1030",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1031",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1032",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1033",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1034",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1035",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1036",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1037",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1038",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1039",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1040",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1041",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1042",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1043",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1044",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1045",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1046",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1047",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1048",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1049",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1051",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1052",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1053",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1054",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1055",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1056",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1057",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1058",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1059",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1060",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1061",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1062",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1063",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1064",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1065",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1066",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1067",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1068",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1069",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1070",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1071",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1072",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1073",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1074",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1075",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1076",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1077",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1078",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1079",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1080",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1081",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1082",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1083",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1084",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1085",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1086",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1087",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1088",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1089",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1090",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1091",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1092",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1093",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1094",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1095",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1096",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1097",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1098",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1099",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1101",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1102",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1103",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1104",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1105",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1108",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1109",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1110",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1115",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1116",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1117",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1119",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1123",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1124",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1126",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1127",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1128",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1129",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1130",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1131",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1132",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1134",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1135",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1136",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1137",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1139",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1141",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1142",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1143",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1144",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1145",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1146",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1147",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1148",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1149",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1151",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1152",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1153",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1154",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1155",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1157",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1158",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1159",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1160",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1161",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1162",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1163",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1164",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1165",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1166",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1167",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1168",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1169",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1172",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1174",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1176",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1177",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1178",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1179",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1180",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1181",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1182",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1183",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1184",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1185",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1186",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1187",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1188",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1189",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1191",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1193",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1194",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1195",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1196",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1197",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1198",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1199",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1201",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1202",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1204",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1205",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1206",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1207",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1209",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1210",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1211",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1212",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1213",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1214",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1215",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1216",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1217",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1218",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1219",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1221",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1222",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1223",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"NA.1224",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
