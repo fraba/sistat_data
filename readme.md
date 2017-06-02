@@ -1,7 +1,7 @@
 SISTAT data files
 ================
 Francesco Bailo
-5/6/2017
+02/05/2017
 
 Data downloaded from [http://sistat.istat.it/](sistat.istat.it). Records contains two IDs: `sistat_id` and `istat_id`. `sistat_id` doesn't vary over time while `istat_id` might vary.
 

@@ -1,0 +1,49 @@
+---
+title: "SISTAT data files"
+author: "Francesco Bailo"
+date: "02/05/2017"
+output: github_document
+---
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+require(knitr)
+opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+setwd('/Users/francesco/public_git/sistat_data')
+```
+
+Data downloaded from [http://sistat.istat.it/](sistat.istat.it). Records contains two IDs: `sistat_id` and `istat_id`. `sistat_id` doesn't vary over time while `istat_id` might vary.
+
+```{r}
+data_files <- list.files()
+data_files <- data_files[grepl(".RData$", data_files)]
+
+{ sink("/dev/null"); lapply(data_files, load, .GlobalEnv); sink(); }
+
+getLastVariation <- function(x) {
+  colnames <- colnames(get(x))
+  date_vars <- colnames[grepl("data|date", colnames)]
+  if (length(date_vars) > 1) {
+    date_var <- date_vars[grepl("to", date_vars)]
+  } else {
+    date_var <- date_vars
+  }
+  max_date <- try({
+    max(as.Date(get(x)[[date_var]], origin = '1970-01-01'), na.rm = T)
+  })
+  if (class(max_date) == 'try-error') {
+    max_date <- max(as.Date(get(x)[['from_date']], "%d/%m/%Y", origin = '1970-01-01'), na.rm = T)
+  }
+  return(max_date)
+}
+
+tbl <- 
+  data.frame(file = gsub(".RData", "", data_files),
+             rows = sapply(gsub(".RData", "", data_files), FUN = function(x) nrow(get(x)), USE.NAMES = F),
+             last_variation = as.Date(sapply(gsub(".RData", "", data_files), getLastVariation, USE.NAMES = F), origin = '1970-01-01'))
+```
+
+
+```{r results = 'asis'}
+kable(tbl)
+```
+
