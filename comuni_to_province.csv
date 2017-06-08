@@ -1,4 +1,4 @@
-"","provincia_post","date","istat_cod_post","istat_cod_ante","comune_name","comune_sistat_id","provincia_ante"
+"","provincia_post","date","istat_cod_ante","istat_cod_post","comune_name","comune_sistat_id","provincia_ante"
 "1","8041",1927-01-02,"001803","001803","Baio Dora","9761","document.write(trattino('Torino'))Torino"
 "2","8041",1927-01-02,"001813","001813","Campiglia Soana","9764","document.write(trattino('Torino'))Torino"
 "3","8041",1927-01-02,"001814","001814","Campo Canavese","9744","document.write(trattino('Torino'))Torino"
